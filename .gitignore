@@ -1,5 +1,5 @@
 # Raw-data folder
-raw-data/*
+raw_data/*
 
 # Test notebooks
 test*
