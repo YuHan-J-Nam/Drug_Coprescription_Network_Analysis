@@ -4443,3 +4443,1772 @@
 393301DPD,V07AV,Technical disinfectants
 408401DPD,V07AV,Technical disinfectants
 408501DMS,V07AV,Technical disinfectants
+143402ATB,M01AB05,diclofenac
+173502ATB,N02BA16,imidazole salicylate
+189702ATD,M01AC06,meloxicam
+212401ATB,N05AG02,pimozide
+495501ATE,N06AX21,duloxetine
+495502ATE,N06AX21,duloxetine
+206530ASY,N06BX07,oxiracetam
+206533ASY,N06BX07,oxiracetam
+206503ATB,N06BX07,oxiracetam
+206504ATB,N06BX07,oxiracetam
+615201ACH,L04AA27,fingolimod
+692601ATB,N04BD02,rasagiline
+643401ATD,N06DA02,donepezil
+643402ATD,N06DA02,donepezil
+259900ATB,R01BA52,"pseudoephedrine, combinations"
+463631ALQ,R06AE09,levocetirizine
+463632ALQ,R06AE09,levocetirizine
+170701ATB,C02DB02,hydralazine
+262400ATR,C07FB02,metoprolol and felodipine
+547600ATB,C09DB02,olmesartan medoxomil and amlodipine
+547700ATB,C09DB02,olmesartan medoxomil and amlodipine
+227801ATR,C10AA01,simvastatin
+101601APD,N06BX12,acetylcarnitine
+124501ATB,A16AA01,levocarnitine
+132301APD,C10AC01,colestyramine
+184101ATB,C04AX,Other peripheral vasodilators
+629900ATB,C10BX,Lipid modifying agents in combination with other drugs
+630000ATB,C10BX,Lipid modifying agents in combination with other drugs
+630100ATB,C10BX,Lipid modifying agents in combination with other drugs
+630200ATB,C10BX,Lipid modifying agents in combination with other drugs
+631600ATB,C10BX,Lipid modifying agents in combination with other drugs
+631700ATB,C10BX,Lipid modifying agents in combination with other drugs
+688500ATB,C10BX,Lipid modifying agents in combination with other drugs
+106332ASY,R05CB06,ambroxol
+113801ATB,R03DA08,bamifylline
+135332ASY,R03CC13,clenbuterol
+677900ASY,R07AX,Other respiratory system products
+222803ATB,A02BA02,ranitidine
+222805ATB,A02BA02,ranitidine
+271800ATB,A02BA,H2-receptor antagonists
+631800ATB,A02BA,H2-receptor antagonists
+494201ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+494202ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+296800ATB,H03AA03,combinations of levothyroxine and liothyronine
+493801ATD,G04BD08,solifenacin
+493802ATD,G04BD08,solifenacin
+117702ACH,A05BA,Liver therapy
+474930APD,A16AX03,sodium phenylbutyrate
+474901ATB,A16AX03,sodium phenylbutyrate
+486002APD,V03AC03,deferasirox
+486003APD,V03AC03,deferasirox
+512002ACH,A16AX05,zinc acetate
+438901ATB,M09AB,Enzymes
+671900ATR,A10BD,Combinations of oral blood glucose lowering drugs
+367730ASS,V03AH01,diazoxide
+412601ACH,A16AX,Various alimentary tract and metabolism products
+160102ATB,L01BB05,fludarabine
+186501ATB,L03AA,Colony stimulating factors
+588205ATB,L04AX04,lenalidomide
+643501ACH,L01XK01,olaparib
+128031ASY,J01DC10,cefprozil
+233701ATB,J01CR04,sultamicillin
+534200ASY,J01CR02,amoxicillin and beta-lactamase inhibitor
+155605ATB,J04AK02,ethambutol
+208131AGN,J04AA03,calcium aminosalicylate
+151002ATB,J05AG03,efavirenz
+175031ASY,J05AX05,inosine pranobex
+200801ATB,J05AG01,nevirapine
+458503ACH,J05AE08,atazanavir
+657000ATB,J05AP54,elbasvir and grazoprevir
+239802ATB,P01AB02,tinidazole
+113938APD,V08BA02,barium sulfate without suspending agents
+312500AGN,V08B,"X-RAY CONTRAST MEDIA, NON-IODINATED"
+312600AGN,V08B,"X-RAY CONTRAST MEDIA, NON-IODINATED"
+470600APD,A06AD65,"macrogol, combinations"
+441106ATR,N02AA03,hydromorphone
+441107ATR,N02AA03,hydromorphone
+441108ATR,N02AA03,hydromorphone
+441110ATR,N02AA03,hydromorphone
+143534BIJ,M01AB05,diclofenac
+224205BIJ,N05AX08,risperidone
+224206BIJ,N05AX08,risperidone
+170730BIJ,C02DB02,hydralazine
+178430BIJ,C01DA08,isosorbide dinitrate
+450302BIJ,B01AD11,tenecteplase
+222830BIJ,A02BA02,ranitidine
+222831BIJ,A02BA02,ranitidine
+348415BIJ,H01AC01,somatropin
+500332BIJ,B03XA01,erythropoietin
+317500BIJ,B05BA10,combinations
+317700BIJ,B05BA10,combinations
+427900BIJ,B05BA10,combinations
+472000BIJ,B05BA10,combinations
+472100BIJ,B05BA10,combinations
+504600BIJ,B05BB02,electrolytes with carbohydrates
+423400BIS,B05DB,Hypertonic solutions
+423200BIS,B05DB,Hypertonic solutions
+622630BIJ,V03AF10,sodium levofolinate
+622631BIJ,V03AF10,sodium levofolinate
+622632BIJ,V03AF10,sodium levofolinate
+151901BIJ,L01BC,Pyrimidine analogues
+211130BIJ,L03AX,Other immunostimulants
+228130BIJ,L01XX,Other antineoplastic agents
+422632BIJ,L01FA01,rituximab
+418801BIJ,M09AX02,"chondrocytes, autologous"
+330000BIJ,J01EE01,sulfamethoxazole and trimethoprim
+461401BIJ,J05AX07,enfuvirtide
+466830BIJ,V08CA08,gadobenic acid
+471636BIJ,V08CA09,gadobutrol
+230101BIJ,V04CD05,somatorelin
+124830COS,S01ED05,carteolol
+124832COS,S01ED05,carteolol
+161230COS,S01BA07,fluorometholone
+161231COS,S01BA07,fluorometholone
+183242COS,S01AE05,levofloxacin
+198230COS,S01GX,Other antiallergics
+216135COS,S01XA20,artificial tears and other indifferent preparations
+228636COS,S01XA20,artificial tears and other indifferent preparations
+228639COS,S01XA20,artificial tears and other indifferent preparations
+228640COS,S01XA20,artificial tears and other indifferent preparations
+228647COS,S01XA20,artificial tears and other indifferent preparations
+391740COS,S01GX09,olopatadine
+391732COS,S01GX09,olopatadine
+391744COS,S01GX09,olopatadine
+391746COS,S01GX09,olopatadine
+391750COS,S01GX09,olopatadine
+525400COS,S01B,ANTIINFLAMMATORY AGENTS
+530011COS,S01XA20,artificial tears and other indifferent preparations
+530084COS,S01XA20,artificial tears and other indifferent preparations
+530012COS,S01XA20,artificial tears and other indifferent preparations
+530014COS,S01XA20,artificial tears and other indifferent preparations
+530004COS,S01XA20,artificial tears and other indifferent preparations
+530005COS,S01XA20,artificial tears and other indifferent preparations
+530007COS,S01XA20,artificial tears and other indifferent preparations
+530008COS,S01XA20,artificial tears and other indifferent preparations
+5300B5COS,S01XA20,artificial tears and other indifferent preparations
+530017COS,S01XA20,artificial tears and other indifferent preparations
+530062COS,S01XA20,artificial tears and other indifferent preparations
+537900COO,S01CA01,dexamethasone and antiinfectives
+568604COS,S01BA14,loteprednol
+617331COS,S01XA20,artificial tears and other indifferent preparations
+114533CLQ,R01AD01,beclometasone
+162238CSI,R01AD08,fluticasone
+228838CLQ,R01AC01,cromoglicic acid
+542000CSS,S02CA03,hydrocortisone and antiinfectives
+503900CEX,V01AA,Allergen extracts
+178432CSI,C01DA08,isosorbide dinitrate
+162231CSS,R03BA05,fluticasone
+116136CLQ,A01AD02,benzydamine
+116138CLQ,A01AD02,benzydamine
+116139CLQ,A01AD02,benzydamine
+116140CLQ,A01AD02,benzydamine
+131334CLQ,R02AA05,chlorhexidine
+131342CLQ,R02AA05,chlorhexidine
+216242CLQ,R02AA15,povidone-iodine
+544700CLQ,A06AD17,sodium phosphate
+152632CLQ,R03AA01,epinephrine
+382202CLQ,D08AX,Other antiseptics and disinfectants
+415100CDS,D08AX,Other antiseptics and disinfectants
+186932CCM,D06BA03,mafenide
+142133CCM,D07AB19,dexamethasone
+144430CCM,D07AC10,diflorasone
+144435CCM,D07AC10,diflorasone
+160830CCM,D07AC08,fluocinonide
+160832CCM,D07AC08,fluocinonide
+160836CCM,D07AC08,fluocinonide
+170950CLT,D07AA02,hydrocortisone
+174809CPL,M02AA23,indometacin
+193432COM,D07AC14,methylprednisolone aceponate
+547300CCM,D07CC01,betamethasone and antibiotics
+184333CLT,P03AB02,lindane
+451632CLQ,D01AE14,ciclopirox
+102933CCM,D06BB03,aciclovir
+680506CCM,D06AX09,mupirocin
+141433CSI,H01BA02,desmopressin
+240832COO,S01AA12,tobramycin
+165137CCM,D06AX07,gentamicin
+622700CLQ,B02BC30,combinations
+650200CLQ,B02BC30,combinations
+920002CEX,V04CL,Tests for allergic diseases
+920003CEX,V04CL,Tests for allergic diseases
+393503CLQ,V07AV,Technical disinfectants
+393504CLQ,V07AV,Technical disinfectants
+393506CLQ,V07AV,Technical disinfectants
+130831ASY,N05CC01,chloral hydrate
+149203ATB,N06AA12,doxepin
+149204ATB,N06AA12,doxepin
+147701ATE,N03AG01,valproic acid
+164201ATB,N03AX12,gabapentin
+164202ATB,N03AX12,gabapentin
+164203ATB,N03AX12,gabapentin
+164204ATB,N03AX12,gabapentin
+164205ATB,N03AX12,gabapentin
+206331ASY,N03AF02,oxcarbazepine
+229705ATB,N03AG01,valproic acid
+229733ASY,N03AG01,valproic acid
+229735ASY,N03AG01,valproic acid
+247001ATB,N03AG01,valproic acid
+247002ATB,N03AG01,valproic acid
+488531ALQ,N03AX14,levetiracetam
+101001ATB,M01AB11,acemetacin
+101431ASY,N02BE01,paracetamol
+101432ASY,N02BE01,paracetamol
+101433ASY,N02BE01,paracetamol
+106601ATB,M01AB,Acetic acid derivatives and related substances
+110701ATB,N02BA01,acetylsalicylic acid
+110801ATB,N02BA01,acetylsalicylic acid
+110802ATB,N02BA01,acetylsalicylic acid
+133801ATB,M01AC,Oxicams
+142330ASY,M01AE14,dexibuprofen
+142335ASY,M01AE14,dexibuprofen
+143501ATR,M01AB05,diclofenac
+143502ATB,M01AB05,diclofenac
+151501ATB,M01AX,"Other antiinflammatory and antirheumatic agents, non-steroids"
+156601ATB,M01AB08,etodolac
+157801ATB,M01AE04,fenoprofen
+157802ATB,M01AE04,fenoprofen
+157803ATB,M01AE04,fenoprofen
+161902ATB,M01AE09,flurbiprofen
+172801ATB,M01AE01,ibuprofen
+172831ASY,M01AE01,ibuprofen
+172832ASY,M01AE01,ibuprofen
+189001ATB,M01AG01,mefenamic acid
+189003ATB,M01AG01,mefenamic acid
+189702ATB,M01AC06,meloxicam
+199502ATB,M01AE02,naproxen
+210501ATB,N02AD01,pentazocine
+216532ASY,M01AE,Propionic acid derivatives
+216533ASY,M01AE,Propionic acid derivatives
+216534ASY,M01AE,Propionic acid derivatives
+216535ASY,M01AE,Propionic acid derivatives
+225901ATB,N02BA06,salsalate
+233203ATB,M01AB02,sulindac
+238901ATB,M01AE11,tiaprofenic acid
+251900ATB,M01AB55,"diclofenac, combinations"
+355501ATB,M01AC05,lornoxicam
+355503ATB,M01AC05,lornoxicam
+454301ATB,M01AE17,dexketoprofen
+480600ATB,N02AX52,"tramadol, combinations"
+513000ATB,N02AX52,"tramadol, combinations"
+513000ATR,N02AX52,"tramadol, combinations"
+514100ATR,N02AX52,"tramadol, combinations"
+193201ATR,N06BA04,methylphenidate
+193205ATR,N06BA04,methylphenidate
+193207ATR,N06BA04,methylphenidate
+193210ATR,N06BA04,methylphenidate
+193211ATR,N06BA04,methylphenidate
+116302ATB,N07CA01,betahistine
+144201ATB,A04AD,Other antiemetics
+105505ATR,N05BA12,alprazolam
+108001ATB,N06AA17,amoxapine
+108002ATB,N06AA17,amoxapine
+132101ATB,N05AF03,chlorprothixene
+137101ATB,N05BA05,potassium clorazepate
+137102ATB,N05BA05,potassium clorazepate
+137302ATB,N05BA21,clotiazepam
+162501ATB,N06AB08,fluvoxamine
+162502ATB,N06AB08,fluvoxamine
+172105ATB,N05BB01,hydroxyzine
+194201ATB,N05BA,Benzodiazepine derivatives
+196701ATB,N06AG02,moclobemide
+196901ATB,N05AE02,molindone
+196902ATB,N05AE02,molindone
+200201ATB,N05AL,Benzamides
+200202ATB,N05AL,Benzamides
+209306ATR,N06AB05,paroxetine
+247502ATR,N06AX16,venlafaxine
+247504ATR,N06AX16,venlafaxine
+428301ATB,N06AB04,citalopram
+464901ATB,N05AE04,ziprasidone
+464902ATB,N05AE04,ziprasidone
+464903ATB,N05AE04,ziprasidone
+464904ATB,N05AE04,ziprasidone
+484401ATB,N05B,ANXIOLYTICS
+484402ATB,N05B,ANXIOLYTICS
+521101ATD,N06AB10,escitalopram
+521102ATD,N06AB10,escitalopram
+628503ATB,N06AX26,vortioxetine
+106101ATB,N04BB01,amantadine
+117501ATB,N04AA02,biperiden
+138101AGN,N07AX02,choline alfoscerate
+149901ATB,N06AX25,Hyperici herba
+190030ASY,N06DX01,memantine
+205303ATB,M03BC01,orphenadrine (citrate)
+206532ASY,N06BX07,oxiracetam
+224501ATB,N06DA03,rivastigmine
+224503ATB,N06DA03,rivastigmine
+480401ATB,N03AX16,pregabalin
+480402ATB,N03AX16,pregabalin
+480403ATB,N03AX16,pregabalin
+480404ATB,N03AX16,pregabalin
+489601ATB,N06BA09,atomoxetine
+489602ATB,N06BA09,atomoxetine
+489603ATB,N06BA09,atomoxetine
+489604ATB,N06BA09,atomoxetine
+489605ATB,N06BA09,atomoxetine
+489631ASY,N06BA09,atomoxetine
+624701ATB,L04AA31,teriflunomide
+648901ATB,N07XX09,dimethy fumarate
+648902ATB,N07XX09,dimethy fumarate
+113503ATB,M03BX01,baclofen
+138702ATR,M03BX08,cyclobenzaprine
+138703ATR,M03BX08,cyclobenzaprine
+192001ATB,M03BA03,methocarbamol
+192003ATB,M03BA03,methocarbamol
+237701ATB,M03BX05,thiocolchicoside
+240702ATB,M03BX02,tizanidine
+241701ATB,M03BX04,tolperisone
+241702ATB,M03BX04,tolperisone
+256700ATB,M03BX,Other centrally acting agents
+207001ATR,G04BD04,oxybutynin
+207005ATR,G04BD04,oxybutynin
+114901ATB,S01XA,Other ophthalmologicals
+114902ATB,S01XA,Other ophthalmologicals
+191701ATB,S01EC05,methazolamide
+530200ASY,R01BA52,"pseudoephedrine, combinations"
+530300ASY,R01BA52,"pseudoephedrine, combinations"
+185431ASY,R06AX13,loratadine
+185432ASY,R06AX13,loratadine
+190530ASY,R06AD07,mequitazine
+190531ASY,R06AD07,mequitazine
+213301ATB,R06AA07,diphenylpyraline
+260100ATR,R01BA52,"pseudoephedrine, combinations"
+453902ATB,R06A,ANTIHISTAMINES FOR SYSTEMIC USE
+463630ALQ,R06AE09,levocetirizine
+463636ALQ,R06AE09,levocetirizine
+463638ALQ,R06AE09,levocetirizine
+530500ASY,R01BA53,"phenylephrine, combinations"
+530600ASY,R01BA53,"phenylephrine, combinations"
+530700ASY,R01BA53,"phenylephrine, combinations"
+530900ASY,R01BA53,"phenylephrine, combinations"
+531000ASY,R01BA52,"pseudoephedrine, combinations"
+531200ASY,R01BA52,"pseudoephedrine, combinations"
+531400ASY,R01BA52,"pseudoephedrine, combinations"
+531600ASY,R01BA52,"pseudoephedrine, combinations"
+194731ALQ,L04AD01,ciclosporin
+197801ATB,L04AA06,mycophenolic acid
+231301ATB,L03AX,Other immunostimulants
+434601ATB,L04AA13,leflunomide
+434602ATB,L04AA13,leflunomide
+209603ATB,R06AX,Other antihistamines for systemic use
+216401ATB,R03DC02,pranlukast
+216405ATB,R03DC02,pranlukast
+249701ATB,R03DC01,zafirlukast
+374601ASY,R03DC03,montelukast
+374603ASY,R03DC03,montelukast
+242004ATB,C03CA04,torasemide
+367001ATB,C03BA08,metolazone
+367002ATB,C03BA08,metolazone
+107601ATD,C08CA01,amlodipine
+107602ATD,C08CA01,amlodipine
+107901ATB,C07AG,Alpha and beta blocking agents
+107902ATB,C07AG,Alpha and beta blocking agents
+149101ATB,C02CA04,doxazosin
+163501ATB,C09AA09,fosinopril
+163502ATB,C09AA09,fosinopril
+173401ATB,C09AA16,imidapril
+173402ATB,C09AA16,imidapril
+178902ATR,C08CA03,isradipine
+182002ATB,C08CA13,lercanidipine
+197501ATB,C02AC05,moxonidine
+201002ATB,C08CA04,nicardipine
+201003ATR,C08CA04,nicardipine
+221901ATB,C09AA06,quinapril
+235002ATB,C09AA14,temocapril
+262200ATB,C09BA01,captopril and diuretics
+262300ATB,C09BA01,captopril and diuretics
+262600ATB,C07BB02,metoprolol and thiazides
+262700ATB,C03EA01,hydrochlorothiazide and potassium-sparing agents
+423601ATB,C02DB04,cadralazine
+423700ATB,C09DA06,candesartan and diuretics 
+440300ATB,C09BA02,enalapril and diuretics
+448600ATB,C09BA05,ramipril and diuretics
+448700ATB,C09BA05,ramipril and diuretics
+460200ATB,C07CB03,atenolol and other diuretics
+483201ATB,C08CA01,amlodipine
+483202ATB,C08CA01,amlodipine
+495901ATB,C08CA01,amlodipine
+499200ATB,C09BA03,lisinopril and diuretics
+499300ATB,C09BA03,lisinopril and diuretics
+500600ATB,C09DB02,olmesartan medoxomil and amlodipine
+510401ATB,C09AA15,zofenopril
+510402ATB,C09AA15,zofenopril
+510403ATB,C09AA15,zofenopril
+519900ATB,C09DX03,"olmesartan medoxomil, amlodipine and hydrochlorothiazide"
+520100ATB,C09DX03,"olmesartan medoxomil, amlodipine and hydrochlorothiazide"
+520901ATB,C09CA08,olmesartan medoxomil
+520902ATB,C09CA08,olmesartan medoxomil
+547500ATB,C09DB02,olmesartan medoxomil and amlodipine
+662201ATB,C07AG02,carvedilol
+662202ATB,C07AG02,carvedilol
+662401ATB,C09CA09,azilsartan medoxomil
+160501ATB,N07CA03,flunarizine
+178401ATB,C01DA08,isosorbide dinitrate
+178503ATR,C01DA14,isosorbide mononitrate
+201401ATB,C08CA05,nifedipine
+201407ATB,C08CA05,nifedipine
+356201ATB,C08CA07,nisoldipine
+356202ATB,C08CA07,nisoldipine
+528202ATR,C08CA05,nifedipine
+134001ATB,C10AB08,ciprofibrate
+162401ATB,C10AA04,fluvastatin
+162402ATB,C10AA04,fluvastatin
+165001ATB,C10AB04,gemfibrozil
+194901ATB,C10AB05,fenofibrate
+227803ATB,C10AA01,simvastatin
+473001ATR,C10AD02,nicotinic acid
+473002ATR,C10AD02,nicotinic acid
+478601ATB,C10AX06,omega-3-triglycerides incl. other esters and acids
+631400ATB,C10BA04,simvastatin and fenofibrate
+631500ATB,C10BA04,simvastatin and fenofibrate
+101601AGN,N06BX12,acetylcarnitine
+106501ATB,C01CA25,amezinium metilsulfate
+111001ATB,B01AC06,acetylsalicylic acid
+111002ATE,B01AC06,acetylsalicylic acid
+111003ATE,B01AC06,acetylsalicylic acid
+139701ATB,N07XX,Other nervous system drugs
+165334ALQ,N06DX02,Ginkgo folium
+179302ATE,C04AF01,kallidinogenase
+194003ATR,C07AB02,metoprolol
+233001ATB,B01AB,Heparin group
+233303ATB,B01AB11,sulodexide
+244101ATE,B01AC18,triflusal
+244101ATB,B01AC18,triflusal
+428501ATB,V03AE02,sevelamer
+428502ATB,V03AE02,sevelamer
+430301ATB,B01AX,Other antithrombotic agents
+487101ATB,V03AE03,lanthanum carbonate
+487103AGN,V03AE03,lanthanum carbonate
+487104ATB,V03AE03,lanthanum carbonate
+517701AGN,V03AE02,sevelamer
+630000ATB,C10BX,"HMG CoA reductase inhibitors, other combinations"
+630200ATB,C10BX,"HMG CoA reductase inhibitors, other combinations"
+654600ATB,C10BX,"HMG CoA reductase inhibitors, other combinations"
+662100ATB,C10BX,"HMG CoA reductase inhibitors, other combinations"
+101801ATB,R05CB01,acetylcysteine
+101804ATB,R05CB01,acetylcysteine
+101844AGN,R05CB01,acetylcysteine
+101837ASY,R05CB01,acetylcysteine
+101838ASY,R05CB01,acetylcysteine
+101840ASY,R05CB01,acetylcysteine
+101841ASY,R05CB01,acetylcysteine
+113802ATB,R03DA08,bamifylline
+115802ATB,R05DB01,benzonatate
+123804ATB,R05CB03,carbocisteine
+123830ASY,R05CB03,carbocisteine
+123831ASY,R05CB03,carbocisteine
+123832ASY,R05CB03,carbocisteine
+123833ASY,R05CB03,carbocisteine
+123834ASY,R05CB03,carbocisteine
+135331ASY,R03CC13,clenbuterol
+150008ATB,R05CA12,Hederae helicis folium
+150031ASY,R05CA12,Hederae helicis folium
+150042ASY,R05CA12,Hederae helicis folium
+150038ASY,R05CA12,Hederae helicis folium
+150039ASY,R05CA12,Hederae helicis folium
+150040ASY,R05CA12,Hederae helicis folium
+150041ASY,R05CA12,Hederae helicis folium
+150032ASY,R05CA12,Hederae helicis folium
+150036ASY,R05CA12,Hederae helicis folium
+150037ASY,R05CA12,Hederae helicis folium
+153131ASY,R05CB15,erdosteine
+163130ASY,R03AC13,formoterol
+163130ASY,R03CC,Selective beta-2-adrenoreceptor agonists
+163131ASY,R03AC13,formoterol
+180141ASY,R06AX17,ketotifen
+183136AGN,R05DB27,levodropropizine
+183132ASY,R05DB27,levodropropizine
+183133ASY,R05DB27,levodropropizine
+183134ASY,R05DB27,levodropropizine
+192601ATB,R05CB,Mucolytics
+225501ATB,R03CC02,salbutamol
+225503ATR,R03CC02,salbutamol
+225503ATB,R03CC02,salbutamol
+225507ATR,R03CC02,salbutamol
+228201ATB,R05CB07,sobrerol
+228202ATB,R05CB07,sobrerol
+228230ASY,R05CB07,sobrerol
+228235ASY,R05CB07,sobrerol
+237001ATB,R03DA04,theophylline
+237002ATR,R03DA04,theophylline
+237003ATB,R03DA04,theophylline
+237003ATR,R03DA04,theophylline
+237005ATR,R03DA04,theophylline
+237030ASY,R03DA04,theophylline
+242601ATB,R06AX,Other antihistamines for systemic use
+264800ATB,R05CB10,combinations
+266500ATB,R05FA,Opium derivatives and expectorants
+268000ATB,R05FA,Opium derivatives and expectorants
+386431AGN,R05CB,Mucolytics
+423801ATB,R05CB14,neltenexine
+429030ASY,R05DB21,cloperastine
+429031ASY,R05DB21,cloperastine
+531700ASY,R05CB10,combinations
+531800ASY,R05CB10,combinations
+531900ASY,R05CB10,combinations
+532100ASY,R05CB10,combinations
+532400AEL,R05DA,Opium alkaloids and derivatives
+533100ASY,R05CB10,combinations
+533200ASY,R05CB10,combinations
+533300ASY,R05CA,Expectorants
+100701ATB,R03DA,Xanthines
+113630ASY,R03CC12,bambuterol
+220901ATB,R01BA02,pseudoephedrine
+490330ASY,R07AX,Other respiratory system products
+490334ASY,R07AX,Other respiratory system products
+149702ATB,A01AB22,doxycycline
+109930ALQ,A02BX13,alginic acid
+109933ALQ,A02BX13,alginic acid
+109934ALQ,A02BX13,alginic acid
+109936ALQ,A02BX13,alginic acid
+118101ASY,A02A,ANTACIDS
+130601ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+133305ATR,A02BA01,cimetidine
+181301ATE,A02BC03,lansoprazole
+222901ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+232301ASY,A02BX02,sucralfate
+232302ATB,A02BX02,sucralfate
+232402AOM,A02BX02,sucralfate
+235401ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+235430AGN,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+245601ATB,A02BX11,troxipide
+356701AGN,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+356702ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+356730ASY,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+488602ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+505601AGN,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+509901ATB,A02BC05,esomeprazole
+509902ATB,A02BC05,esomeprazole
+519203ATE,A02BC02,pantoprazole
+105202ATB,A02AD03,almagate
+105201ASY,A02AD03,almagate
+105230ASY,A02AD03,almagate
+106001ASY,A02AB03,aluminium phosphate
+146530ASY,A02AA,Magnesium compounds
+171431AGN,A02AD04,hydrotalcite
+227601ATB,A02AD01,ordinary salt combinations
+113201ATB,A07FA01,lactic acid producing organisms
+113230AGN,A07FA01,lactic acid producing organisms
+113232AGN,A07FA01,lactic acid producing organisms
+117401ATB,A07FA01,lactic acid producing organisms
+146402AGN,A07BC05,diosmectite
+146431ASY,A07BC05,diosmectite
+146432ASY,A07BC05,diosmectite
+164430AGN,A09AA04,tilactase
+180501ATB,A07FA01,lactic acid producing organisms
+180505ATB,A07FA01,lactic acid producing organisms
+180533AGN,A07FA01,lactic acid producing organisms
+180530AGN,A07FA01,lactic acid producing organisms
+185102ATB,A07DA03,loperamide
+225401ATB,A07FA02,saccharomyces boulardii
+225401AGN,A07FA02,saccharomyces boulardii
+225402ATB,A07FA02,saccharomyces boulardii
+225403ATB,A07FA02,saccharomyces boulardii
+231831AGN,A07FA01,lactic acid producing organisms
+231832AGN,A07FA01,lactic acid producing organisms
+231833AGN,A07FA01,lactic acid producing organisms
+457003ATB,A07BB,Bismuth preparations
+461101ATB,A07FA01,lactic acid producing organisms
+473530AGN,A07FA01,lactic acid producing organisms
+473531AGN,A07FA01,lactic acid producing organisms
+473532AGN,A07FA01,lactic acid producing organisms
+214631AGN,A06AC01,ispaghula (psylla seeds)
+214632AGN,A06AC01,ispaghula (psylla seeds)
+221002AGN,A06AC01,ispaghula (psylla seeds)
+387402ATB,A06AB08,sodium picosulfate
+499801ATB,A06AC06,methylcellulose
+536600ALQ,A06AD17,sodium phosphate
+536700ALQ,A06AD17,sodium phosphate
+118801ATB,A03FA04,bromopride
+135030ATB,A03FA06,clebopride
+146101ATB,A03AX13,silicones
+148430ALQ,A03FA03,domperidone
+148431AGN,A03FA03,domperidone
+148433AGN,A03FA03,domperidone
+148432ASY,A03FA03,domperidone
+188202ATB,A03AA04,mebeverine
+190809ATR,A07EC02,mesalazine
+193708ATR,A03FA01,metoclopramide
+227730ASY,A03AX13,silicones
+227731ASY,A03AX13,silicones
+227734ASY,A03AX13,silicones
+244331ASY,A03AA05,trimebutine
+294300ATB,A03AX58,"alverine, combinations"
+294400ATB,A03FA,Propulsives
+421001ATB,A03FA,Propulsives
+421002AGN,A03FA,Propulsives
+461700ATB,A09AA,Enzyme preparations
+141401AGN,H01BA02,desmopressin
+141404AGN,H01BA02,desmopressin
+471503ATB,H03BB01,carbimazole
+296900ATB,H02BX,"Corticosteroids for systemic use, combinations"
+236301ATB,G03BA03,testosterone
+131402ATR,G03DB06,chlormadinone
+140301ATB,G03XA01,danazol
+155501ATB,G03CA07,estrone
+155502ATB,G03CA07,estrone
+188904ATB,G03DA02,medroxyprogesterone
+297000ATB,G03FA01,norethisterone and estrogen
+297100ATB,G03FA01,norethisterone and estrogen
+297600ATB,G03FB06,medroxyprogesterone and estrogen
+433900ATB,G03FA12,medroxyprogesterone and estrogen
+434000ATB,G03FA12,medroxyprogesterone and estrogen
+434100ATB,G03FA12,medroxyprogesterone and estrogen
+507600ATB,G03FA01,norethisterone and estrogen
+615802ATB,G03AD02,ulipristal
+192901ATB,G02AB01,methylergometrine
+221101ATB,G04CX01,Prunus africanae cortex 
+224303ATR,G02CA01,ritodrine
+234602ATR,G04CA02,tamsulosin
+245503ATB,G04BD09,trospium
+357101ATB,G04BD07,tolterodine
+357102ATR,G04BD07,tolterodine
+504203ATB,G04CA04,silodosin
+505802ATD,G04BX,Other urologicals
+121401ATB,A11CC06,calcifediol
+121402ATB,A11CC06,calcifediol
+121601ATB,A11CC04,calcitriol
+178701ATB,D10BA01,isotretinoin
+624001ATB,D11AH04,alitretinoin
+624002ATB,D11AH04,alitretinoin
+110404ATB,A11GA01,ascorbic acid (vit C)
+207601ATB,A12AA,Calcium
+387900ATB,A12AX,"Calcium, combinations with vitamin D and/or other drugs"
+409100ATB,A12AX,"Calcium, combinations with vitamin D and/or other drugs"
+462800ATB,A12AX,"Calcium, combinations with vitamin D and/or other drugs"
+503500ATB,A12AX,"Calcium, combinations with vitamin D and/or other drugs"
+504400ATB,A12AX,"Calcium, combinations with vitamin D and/or other drugs"
+521900ATB,A12AX,"Calcium, combinations with vitamin D and/or other drugs"
+634000ATB,A12AX,"Calcium, combinations with vitamin D and/or other drugs"
+158630ALQ,B03AB05,ferric oxide polymaltose complexes
+158633ALQ,B03AB05,ferric oxide polymaltose complexes
+158635ALQ,B03AB05,ferric oxide polymaltose complexes
+158636ALQ,B03AB05,ferric oxide polymaltose complexes
+158637ALQ,B03AB05,ferric oxide polymaltose complexes
+177602ATB,B03AB09,ferric proteinsuccinylate
+177630ALQ,B03AB09,ferric proteinsuccinylate
+215001ATB,B03AB,"Iron trivalent, oral preparations"
+215003ATB,B03AB,"Iron trivalent, oral preparations"
+215002ASY,B03AB,"Iron trivalent, oral preparations"
+228902ATB,B03AB,"Iron trivalent, oral preparations"
+228931ALQ,B03AB,"Iron trivalent, oral preparations"
+303300ATB,B03AD04,ferric oxide polymaltose complexes
+367602ATB,B03A,IRON PREPARATIONS
+379302ATB,B03AB08,ferric acetyl transferrin
+417230ASY,B03AB,"Iron trivalent, oral preparations"
+529500ASY,V06DB,"Fat/carbohydrates/proteins/minerals/vitamins, combinations"
+533800ALQ,A07CA,Oral rehydration salt formulations
+533900AGN,A07CA,Oral rehydration salt formulations
+117702ATB,A05BA,Liver therapy
+123901ATB,A05BA03,silymarin
+123903ATB,A05BA03,silymarin
+123904ATB,A05BA03,silymarin
+123907ATB,A05BA03,silymarin
+123908ATB,A05BA03,silymarin
+123931ASY,A05BA03,silymarin
+180930ASY,J05AF05,lamivudine
+187702ATB,A05BA,Liver therapy
+448000ATB,A05BA,Liver therapy
+487801ATB,J05AF12,clevudine
+182501ATB,V03AF03,calcium folinate
+480101ATB,V03AB,Antidotes
+486001AGN,V03AC03,deferasirox
+486002AGN,V03AC03,deferasirox
+486003AGN,V03AC03,deferasirox
+486009AGN,V03AC03,deferasirox
+486008ASY,V03AC03,deferasirox
+486011ASY,V03AC03,deferasirox
+512001ATB,A16AX05,zinc acetate
+451201ATE,M09AB,Enzymes
+451202ATE,M09AB,Enzymes
+249001ATD,A10BF03,voglibose
+249002ATD,A10BF03,voglibose
+406201ATB,A10BF02,miglitol
+471900ATB,A10BD02,metformin and sulfonylureas
+518800ATB,A10BD,Combinations of oral blood glucose lowering drugs
+523600ATB,A10BD,Combinations of oral blood glucose lowering drugs
+523700ATB,A10BD,Combinations of oral blood glucose lowering drugs
+624201ATB,A10BH04,alogliptin
+630300ATB,A10BD09,pioglitazone and alogliptin
+630400ATB,A10BD09,pioglitazone and alogliptin
+631900ATB,A10BD,Combinations of oral blood glucose lowering drugs
+632100ATB,A10BD14,metformin and repaglinide
+637200ATB,A10BD14,metformin and repaglinide
+644900ATB,A10BX03,nateglinide
+142801ATB,M01AX21,diacerein
+142802ATB,M01AX21,diacerein
+180831ASY,A06AD11,lactulose
+180832ASY,A06AD11,lactulose
+180834ASY,A06AD11,lactulose
+180835ASY,A06AD11,lactulose
+207901ATB,M05BA03,pamidronic acid
+228302ATB,M05BA04,alendronic acid
+379601ATE,A16AA02,ademetionine
+442301ATB,M05BA07,risedronic acid
+442303ATB,M05BA07,risedronic acid
+505901ATB,A16AX06,miglustat
+646601ATB,A16AX10,eliglustat
+100102ATB,L03AX,Other immunostimulants
+100130ALQ,L03AX,Other immunostimulants
+130901ATB,L01AA02,chlorambucil
+149301ATB,L01BC,Pyrimidine analogues
+149302ATB,L01BC,Pyrimidine analogues
+157102ATB,L01CB01,etoposide
+189330ASY,L02AB01,megestrol
+189331ASY,L02AB01,megestrol
+189333ASY,L02AB01,megestrol
+189334ASY,L02AB01,megestrol
+189335ASY,L02AB01,megestrol
+215301ATB,L03AX,Other immunostimulants
+215330AGN,L03AX,Other immunostimulants
+242101ATB,L02BA02,toremifene
+309600AGN,L01BC53,"tegafur, combinations"
+309700ATB,L01BC53,"tegafur, combinations"
+358202ATB,L01AX03,temozolomide
+358203ATB,L01AX03,temozolomide
+364100AGN,L01BC53,"tegafur, combinations"
+388501ATB,L01XX,Other antineoplastic agents
+388502ATB,L01XX,Other antineoplastic agents
+412701ATB,L01XE01,imatinib
+412702ATB,L01XE01,imatinib
+412703ATB,L01XE01,imatinib
+477401ATB,L01XE03,erlotinib
+477402ATB,L01XE03,erlotinib
+477403ATB,L01XE03,erlotinib
+485701ATB,L04AX02,thalidomide
+485702ATB,L04AX02,thalidomide
+493303ATB,L01XE06,dasatinib
+624101ATB,L01XE12,vandetanib
+624102ATB,L01XE12,vandetanib
+652401ATB,L01XE40,olmutinib 
+652402ATB,L01XE40,olmutinib 
+104004ATB,C05CX03,Hippocastani semen
+182701ATB,L03AX,Other immunostimulants
+238430ASY,L03AX,Other immunostimulants
+238431ASY,L03AX,Other immunostimulants
+243001ATB,L01XX14,tretinoin
+348101ATB,L01XX35,anagrelide
+368603ATB,V10XA01,sodium iodide (131I)
+368605ATB,V10XA01,sodium iodide (131I)
+368607ATB,V10XA01,sodium iodide (131I)
+368609ATB,V10XA01,sodium iodide (131I)
+368610ATB,V10XA01,sodium iodide (131I)
+368611ATB,V10XA01,sodium iodide (131I)
+368612ATB,V10XA01,sodium iodide (131I)
+368613ATB,V10XA01,sodium iodide (131I)
+368614ATB,V10XA01,sodium iodide (131I)
+368615ATB,V10XA01,sodium iodide (131I)
+368617ATB,V10XA01,sodium iodide (131I)
+368619ATB,V10XA01,sodium iodide (131I)
+368621ATB,V10XA01,sodium iodide (131I)
+368622ATB,V10XA01,sodium iodide (131I)
+368625ATB,V10XA01,sodium iodide (131I)
+368627ATB,V10XA01,sodium iodide (131I)
+368629ATB,V10XA01,sodium iodide (131I)
+368630ATB,V10XA01,sodium iodide (131I)
+368631ATB,V10XA01,sodium iodide (131I)
+368632ATB,V10XA01,sodium iodide (131I)
+368633ATB,V10XA01,sodium iodide (131I)
+368634ATB,V10XA01,sodium iodide (131I)
+368635ATB,V10XA01,sodium iodide (131I)
+368636ATB,V10XA01,sodium iodide (131I)
+368639ATB,V10XA01,sodium iodide (131I)
+164133ASY,J01XC01,fusidic acid
+184203ATB,J01FF02,lincomycin
+638801ATB,J01XX11,tedizolid
+128602ATB,J01DD14,ceftibuten
+128630ASY,J01DD14,ceftibuten
+489200ATB,J04AM05,"rifampicin, pyrazinamide and isoniazid"
+112705ATB,J01FA10,azithromycin
+153531ASY,J01FA01,erythromycin
+153532ASY,J01FA01,erythromycin
+154001ATB,J01FA01,erythromycin
+225302ATB,J01FA06,roxithromycin
+225330AGN,J01FA06,roxithromycin
+225331AGN,J01FA06,roxithromycin
+225333AGN,J01FA06,roxithromycin
+225334AGN,J01FA06,roxithromycin
+225336AGN,J01FA06,roxithromycin
+225337AGN,J01FA06,roxithromycin
+207403ATB,J01AA06,oxytetracycline
+108101ATB,J01CA04,amoxicillin
+108103ATB,J01CA04,amoxicillin
+113101ATB,J01CA06,bacampicillin
+125201ATB,J01DC04,cefaclor
+125232ASY,J01DC04,cefaclor
+125233ASY,J01DC04,cefaclor
+125234ASY,J01DC04,cefaclor
+125236ASY,J01DC04,cefaclor
+125239ASY,J01DC04,cefaclor
+125302ATB,J01DB05,cefadroxil
+125304ATB,J01DB05,cefadroxil
+125330ASY,J01DB05,cefadroxil
+125331ASY,J01DB05,cefadroxil
+125601ATB,J01DB07,cefatrizine
+125630ASY,J01DB07,cefatrizine
+125901ATB,J01DD15,cefdinir
+125930AGN,J01DD15,cefdinir
+125932AGN,J01DD15,cefdinir
+126030AGN,J01DD16,cefditoren
+126201ATB,J01DD10,cefetamet
+126301ATB,J01DD08,cefixime
+126330AGN,J01DD08,cefixime
+126331AGN,J01DD08,cefixime
+126332AGN,J01DD08,cefixime
+126333AGN,J01DD08,cefixime
+128401ATB,J01DD,Third-generation cephalosporins
+128430AGN,J01DD,Third-generation cephalosporins
+128932ASY,J01DC02,cefuroxime
+129402ATB,J01DB01,cefalexin
+130101ATB,J01DB09,cefradine
+130105ATB,J01DB09,cefradine
+130130ASY,J01DB09,cefradine
+130138ASY,J01DB09,cefradine
+130139ASY,J01DB09,cefradine
+310600ATB,J01CR02,amoxicillin and enzyme inhibitor
+310700ATB,J01CR02,amoxicillin and enzyme inhibitor
+380000ATB,J01CR02,amoxicillin and enzyme inhibitor
+440100ATB,J01CR02,amoxicillin and enzyme inhibitor
+462000ATB,J01CR02,amoxicillin and enzyme inhibitor
+467200ATB,J01CR02,amoxicillin and enzyme inhibitor
+467300ATB,J01CR02,amoxicillin and enzyme inhibitor
+467400ATB,J01CR02,amoxicillin and enzyme inhibitor
+467600ATB,J01CR02,amoxicillin and enzyme inhibitor
+474431AGN,J01DD17,cefcapene
+534100ASY,J01CR02,amoxicillin and enzyme inhibitor
+534300ASY,J01CR02,amoxicillin and enzyme inhibitor
+534400ASY,J01CR02,amoxicillin and enzyme inhibitor
+534500ASY,J01CR02,amoxicillin and enzyme inhibitor
+534700ASY,J01CR02,amoxicillin and enzyme inhibitor
+534900ASY,J01CR02,amoxicillin and enzyme inhibitor
+535000ASY,J01CR02,amoxicillin and enzyme inhibitor
+535100ASY,J01CR02,amoxicillin and enzyme inhibitor
+535200ASY,J01CR02,amoxicillin and enzyme inhibitor
+535300ASY,J01CR02,amoxicillin and enzyme inhibitor
+535400ASY,J01CR02,amoxicillin and enzyme inhibitor
+535500ASY,J01CR02,amoxicillin and enzyme inhibitor
+536100ASY,J01CR02,amoxicillin and enzyme inhibitor
+536200ASY,J01CR02,amoxicillin and enzyme inhibitor
+536300ASY,J01CR02,amoxicillin and enzyme inhibitor
+647300ASY,J01CR02,amoxicillin and enzyme inhibitor
+134933ASY,J01FA09,clarithromycin
+134934ASY,J01FA09,clarithromycin
+134942ASY,J01FA09,clarithromycin
+134936ASY,J01FA09,clarithromycin
+134939ASY,J01FA09,clarithromycin
+134940ASY,J01FA09,clarithromycin
+536400ASY,J01EE01,sulfamethoxazole and trimethoprim
+208131AGN,J04AA01,4-aminosalicylic acid
+140502ATB,J04BA02,dapsone
+102944ASY,J05AB01,aciclovir
+102938ASY,J05AB01,aciclovir
+134105ATR,J01MA02,ciprofloxacin
+134108ATR,J01MA02,ciprofloxacin
+134109ATB,J01MA02,ciprofloxacin
+143802ATR,J05AF02,didanosine
+143803ATR,J05AF02,didanosine
+143804ATR,J05AF02,didanosine
+143805ATR,J05AF02,didanosine
+174601ATB,J05AE02,indinavir 
+174603ATB,J05AE02,indinavir 
+179104ATB,J02AC02,itraconazole
+200101ATB,J05AE04,nelfinavir
+203301ATB,J01MA06,norfloxacin
+203302ATB,J01MA06,norfloxacin
+203303ATB,J01MA06,norfloxacin
+223604ATB,J05AB04,ribavirin
+224430ALQ,J05AE03,ritonavir
+246702ATB,J05AB11,valaciclovir
+248100ATB,J05AR08,"emtricitabine, tenofovir disoproxil and rilpivirine"
+250201ATB,J05AF01,zidovudine
+358901ATB,J05AH02,oseltamivir
+358902ATB,J05AH02,oseltamivir
+358903ATB,J05AH02,oseltamivir
+358907ATB,J05AH02,oseltamivir
+358907ASY,J05AH02,oseltamivir
+358908ASY,J05AH02,oseltamivir
+358909ASY,J05AH02,oseltamivir
+458502ATB,J05AE08,atazanavir
+623400ATB,J05AR09,"emtricitabine, tenofovir disoproxil, elvitegravir and cobicistat"
+638001ATB,J05AE15,asunaprevir
+638101ATB,J05AX14,daclatasvir
+646904ASY,J05AH02,oseltamivir
+658600ATB,J05AX67,"ombitasvir, paritaprevir and ritonavir"
+658701ATB,J05AX16,dasabuvir
+171602ATB,P01BA01,chloroquine
+226301ATB,P01AB07,secnidazole
+113934ASY,V08BA01,barium sulfate with suspending agents
+113939ASY,V08BA01,barium sulfate with suspending agents
+113941AGN,V08BA02,barium sulfate without suspending agents
+113947AGN,V08BA02,barium sulfate without suspending agents
+113946AGN,V08BA02,barium sulfate without suspending agents
+113943AGN,V08BA02,barium sulfate without suspending agents
+113940ASY,V08BA01,barium sulfate with suspending agents
+113942ASY,V08BA01,barium sulfate with suspending agents
+113944ASY,V08BA01,barium sulfate with suspending agents
+113932ASY,V08BA01,barium sulfate with suspending agents
+113930ASY,V08BA01,barium sulfate with suspending agents
+113933ASY,V08BA01,barium sulfate with suspending agents
+312200ALQ,A06AD19,magnesium citrate
+312200AGN,A06AD,Osmotically acting laxatives
+312800AGN,A06AD65,"macrogol, combinations"
+312900AGN,A06AD65,"macrogol, combinations"
+470600AGN,A06AD65,"macrogol, combinations"
+470700AGN,A06AD65,"macrogol, combinations"
+616300AGN,A06AD65,"macrogol, combinations"
+630800AGN,A06AB58,"sodium picosulfate, combinations"
+634700AGN,A06AD,Osmotically acting laxatives
+102730ASY,A07BA01,medicinal charcoal
+313400ATB,N02AA59,"codeine, combinations excl. psycholeptics"
+441103ATB,N02AA03,hydromorphone
+441109ATR,N02AA03,hydromorphone
+158316ATL,N02AB03,fentanyl
+359008ATR,N02AA05,oxycodone
+380500ATB,N02AA55,"oxycodone, combinations"
+628403ATR,N02AX06,tapentadol
+219837BIJ,N01AX10,propofol
+146831BIJ,N03AB02,phenytoin
+110902BIJ,N02BA01,acetylsalicylic acid
+120230BIJ,N02AE01,buprenorphine
+171530BIJ,N07XX,Other nervous system drugs
+171531BIJ,N07XX,Other nervous system drugs
+198931BIJ,N02AF02,nalbuphine
+210530BIJ,N02AD01,pentazocine
+214031BIJ,M02AA07,piroxicam
+214131BIJ,M01AC01,piroxicam
+429130BIJ,L03AX13,glatiramer acetate
+558902BIJ,L04AA34,alemtuzumab
+183932BIJ,N01BB02,lidocaine
+183931BIJ,N01BB02,lidocaine
+225032BIJ,N01BB09,ropivacaine
+236501BIJ,N01BA03,tetracaine
+313800BIJ,N01BB51,"bupivacaine, combinations"
+430630BIJ,N01BB10,levobupivacaine
+430631BIJ,N01BB10,levobupivacaine
+430632BIJ,N01BB10,levobupivacaine
+164530BIJ,M03AC02,gallamine
+205230BIJ,M03BC01,orphenadrine (citrate)
+234002BIJ,M03AB01,suxamethonium
+234003BIJ,M03AB01,suxamethonium
+234031BIJ,M03AB01,suxamethonium
+241730BIJ,M03BX04,tolperisone
+530026BIJ,S01KA01,hyaluronic acid
+530028BIJ,S01KA01,hyaluronic acid
+530030BIJ,S01KA01,hyaluronic acid
+530035BIJ,S01KA01,hyaluronic acid
+530036BIJ,S01KA01,hyaluronic acid
+530038BIJ,S01KA01,hyaluronic acid
+530040BIJ,S01KA01,hyaluronic acid
+530043BIJ,S01KA01,hyaluronic acid
+530047BIJ,S01KA01,hyaluronic acid
+530097BIJ,S01KA01,hyaluronic acid
+530098BIJ,S01KA01,hyaluronic acid
+530033BIJ,S01KA01,hyaluronic acid
+530044BIJ,S01KA01,hyaluronic acid
+131830BIJ,R06AB54,"chlorphenamine, combinations"
+213330BIJ,R06AA07,diphenylpyraline
+644601BIJ,L04AC10,secukinumab
+399700BIJ,C01CA07,dobutamine
+159330BIJ,C01BC04,flecainide
+178431BIJ,C01DA08,isosorbide dinitrate
+202635BIJ,C01DA02,glyceryl trinitrate
+134630BIJ,N06BX06,citicoline
+148730BIJ,C01CA04,dopamine
+165330BIJ,N06DX02,Ginkgo folium
+246401BIJ,B01AD04,urokinase
+246405BIJ,B01AD04,urokinase
+246406BIJ,B01AD04,urokinase
+359531BIJ,B01AC,Platelet aggregation inhibitors excl. heparin
+445700BIJ,C01CA04,dopamine
+149030BIJ,R07AB01,doxapram
+101835BIJ,R05CB01,acetylcysteine
+118630BIJ,R05CB02,bromhexine
+204501BIJ,A02BC01,omeprazole
+490032BIJ,A04AA05,palonosetron
+348438BIJ,H01AC01,somatropin
+225730BIJ,H05BA01,calcitonin (salmon synthetic)
+142030BIJ,H02AB02,dexamethasone
+142233BIJ,H02AB02,dexamethasone
+171201BIJ,H02AB09,hydrocortisone
+171202BIJ,H02AB09,hydrocortisone
+193530BIJ,H02AB04,methylprednisolone
+193531BIJ,H02AB04,methylprednisolone
+203130BIJ,C01CA03,norepinephrine
+217302BIJ,H02AB06,prednisolone
+154305BIJ,B03XA01,erythropoietin
+154308BIJ,B03XA01,erythropoietin
+154303BIJ,B03XA01,erythropoietin
+154306BIJ,B03XA01,erythropoietin
+154309BIJ,B03XA01,erythropoietin
+154301BIJ,B03XA01,erythropoietin
+154302BIJ,B03XA01,erythropoietin
+162830BIJ,G03GA06,follitropin beta
+500335BIJ,B03XA01,erythropoietin
+504301BIJ,B03XA03,methoxy polyethylene glycol-epoetin beta
+624304BIJ,H01CB05,pasireotide
+624305BIJ,H01CB05,pasireotide
+624306BIJ,H01CB05,pasireotide
+430730BIJ,H05BX02,paricalcitol
+430732BIJ,H05BX02,paricalcitol
+137630BIJ,B03BA04,cobamamide
+110432BIJ,A11GA01,ascorbic acid (vit C)
+110435BIJ,A11GA01,ascorbic acid (vit C)
+316900BIJ,A11BA,"Multivitamins, plain"
+122202BIJ,A12AA03,calcium gluconate
+177530BIJ,B03AC,"Iron, parenteral preparations"
+142701BIJ,B05BA03,carbohydrates
+142716BIJ,B05BA03,carbohydrates
+142731BIJ,B05BA03,carbohydrates
+142729BIJ,B05BA03,carbohydrates
+142707BIJ,B05BA03,carbohydrates
+142727BIJ,B05BA03,carbohydrates
+148009BIJ,B05BC01,mannitol
+148007BIJ,B05BC01,mannitol
+107161BIJ,B05BA01,amino acids
+107163BIJ,B05BA01,amino acids
+107165BIJ,B05BA01,amino acids
+107167BIJ,B05BA01,amino acids
+107137BIJ,B05BA01,amino acids
+107150BIJ,B05BA01,amino acids
+107151BIJ,B05BA01,amino acids
+416200BIJ,B05BA10,combinations
+418500BIJ,B05BA10,combinations
+428000BIJ,B05BA10,combinations
+470400BIJ,B05BA10,combinations
+482400BIJ,B05BA10,combinations
+488100BIJ,B05BA10,combinations
+497800BIJ,B05BA10,combinations
+653400BIJ,B05BA10,combinations
+653500BIJ,B05BA10,combinations
+801500BIJ,B05BA10,combinations
+318100BIJ,A05BA,Liver therapy
+230501BIJ,B05BA02,fat emulsions
+318200BIJ,B05BA02,fat emulsions
+318300BIJ,B05BA02,fat emulsions
+318400BIJ,B05BA02,fat emulsions
+362500BIJ,B05BA02,fat emulsions
+514200BIJ,B05BA02,fat emulsions
+612500BIJ,B05BA02,fat emulsions
+228736BIJ,B05XA03,sodium chloride
+318600BIJ,B05AA05,dextran
+318700BIJ,B05AA05,dextran
+319100BIJ,B05BB02,electrolytes with carbohydrates
+349100BIJ,B05BB02,electrolytes with carbohydrates
+490800BIJ,B05BB02,electrolytes with carbohydrates
+490900BIJ,B05BB02,electrolytes with carbohydrates
+491000BIJ,B05BB02,electrolytes with carbohydrates
+491100BIJ,B05BB02,electrolytes with carbohydrates
+491200BIJ,B05BB02,electrolytes with carbohydrates
+491300BIJ,B05BB02,electrolytes with carbohydrates
+491400BIJ,B05BB02,electrolytes with carbohydrates
+491500BIJ,B05BB02,electrolytes with carbohydrates
+491800BIJ,B05BB02,electrolytes with carbohydrates
+491900BIJ,B05BB02,electrolytes with carbohydrates
+492000BIJ,B05BB02,electrolytes with carbohydrates
+492100BIJ,B05BB02,electrolytes with carbohydrates
+492200BIJ,B05BB02,electrolytes with carbohydrates
+492700BIJ,B05BB02,electrolytes with carbohydrates
+494800BIJ,B05BB02,electrolytes with carbohydrates
+496000BIJ,B05BB02,electrolytes with carbohydrates
+496100BIJ,B05BB02,electrolytes with carbohydrates
+496400BIJ,B05BB01,electrolytes
+496500BIJ,B05BB01,electrolytes
+496600BIJ,B05BB01,electrolytes
+242532BIJ,B02AA02,tranexamic acid
+251030BIJ,B02AA03,aminomethylbenzoic acid
+198431BIJ,B01AB06,nadroparin
+320800BIJ,B05XA30,combinations of electrolytes
+362800BIJ,B05XA30,combinations of electrolytes
+465300BIJ,B05AA07,hydroxyethylstarch
+615402BIJ,B02BX04,romiplostim
+650900BIJ,B05BB02,electrolytes with carbohydrates
+228514BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228515BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228517BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228522BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228527BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228530BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228531BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228534BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228503BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228511BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228524BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228505BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228506BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228526BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+228508BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+322600BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+323200BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+323400BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+324000BIS,B05D,PERITONEAL DIALYTICS
+350400BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+406800BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+473100BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+481400BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+481500BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+502400BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+510100BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+510200BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+510300BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+645100BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+650300BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES
+321400BIS,B05D,PERITONEAL DIALYTICS
+321600BIS,B05D,PERITONEAL DIALYTICS
+321800BIS,B05D,PERITONEAL DIALYTICS
+324200BIS,B05XA16,cardioplegia solutions
+324800BIS,B05D,PERITONEAL DIALYTICS
+325900BIS,B05D,PERITONEAL DIALYTICS
+326000BIS,B05D,PERITONEAL DIALYTICS
+349600BIS,B05D,PERITONEAL DIALYTICS
+349900BIS,B05D,PERITONEAL DIALYTICS
+350000BIS,B05D,PERITONEAL DIALYTICS
+350100BIS,B05D,PERITONEAL DIALYTICS
+350200BIS,B05D,PERITONEAL DIALYTICS
+352100BIS,B05D,PERITONEAL DIALYTICS
+352400BIS,B05D,PERITONEAL DIALYTICS
+352800BIS,B05D,PERITONEAL DIALYTICS
+423500BIS,B05D,PERITONEAL DIALYTICS
+431100BIS,B05D,PERITONEAL DIALYTICS
+431200BIS,B05D,PERITONEAL DIALYTICS
+431300BIS,B05D,PERITONEAL DIALYTICS
+494900BIS,B05D,PERITONEAL DIALYTICS
+495000BIS,B05D,PERITONEAL DIALYTICS
+495100BIS,B05D,PERITONEAL DIALYTICS
+511100BIS,B05D,PERITONEAL DIALYTICS
+516100BIS,B05D,PERITONEAL DIALYTICS
+521001BIJ,V03AF04,calcium levofolinate
+521002BIJ,V03AF04,calcium levofolinate
+175332BIJ,A10AD04,insulin lispro 
+175333BIJ,A10AD04,insulin lispro 
+441334BIJ,A10AD05,insulin aspart
+512130BIJ,A10BJ01,exenatide
+512131BIJ,A10BJ01,exenatide
+626631BIJ,A10BJ03,lixisenatide
+626630BIJ,A10BJ03,lixisenatide
+626831BIJ,A10AE06,insulin degludec
+644501BIJ,A10BJ04,albiglutide
+644502BIJ,A10BJ04,albiglutide
+103301BIJ,A16AA02,ademetionine
+166001BIJ,H04AA01,glucagon
+354400BIJ,B05BC,Solutions producing osmotic diuresis
+139601BIJ,L01BC01,cytarabine
+139602BIJ,L01BC01,cytarabine
+139632BIJ,L01BC01,cytarabine
+148345BIJ,L01CD02,docetaxel
+148349BIJ,L01CD02,docetaxel
+175530BIJ,L03AB04,interferon alfa-2a
+175630BIJ,L03AB05,interferon alfa-2b
+175631BIJ,L03AB05,interferon alfa-2b
+177430BIJ,L01XX19,irinotecan
+177431BIJ,L01XX19,irinotecan
+182610BIJ,L02AE02,leuprorelin
+205832BIJ,L01XA03,oxaliplatin
+236130BIJ,G03BA03,testosterone
+463301BIJ,L01XX32,bortezomib
+463302BIJ,L01XX32,bortezomib
+463303BIJ,L01XX32,bortezomib
+481237BIJ,L01BA04,pemetrexed
+481233BIJ,L01BA04,pemetrexed
+188802BIJ,V09BA02,technetium (99mTc) medronic acid
+227130BIJ,V09GA04,technetium (99mTc) human albumin
+368301BIJ,V09HX01,gallium (67Ga) citrate
+369201BIJ,V10BX01,strontium (89Sr) chloride
+369402BIJ,V09CA02,technetium (99mTc) succimer
+369804BIJ,V09GA04,technetium (99mTc) human albumin
+369903BIJ,V09BA03,technetium (99mTc) pyrophosphate
+428801BIJ,V09CX04,chromium (51Cr) edetate
+472701BIJ,V09IX02,iobenguane (131I)
+472702BIJ,V09IX02,iobenguane (131I)
+472704BIJ,V09IX02,iobenguane (131I)
+482501BIJ,V09IX04,fludeoxyglucose (18F) 
+617901BIJ,B05AX,Other blood products
+328400BIJ,M09AX,Other drugs for disorders of the musculo-skeletal system
+184230BIJ,J01FF02,lincomycin
+210001BIJ,J01CE01,benzylpenicillin
+638801BIJ,J01XX11,tedizolid
+106803BIJ,J01GB06,amikacin
+106836BIJ,J01GB06,amikacin
+106830BIJ,J01GB06,amikacin
+106832BIJ,J01GB06,amikacin
+106834BIJ,J01GB06,amikacin
+113001BIJ,J01DF01,aztreonam
+113002BIJ,J01DF01,aztreonam
+240840BIJ,J01GB01,tobramycin
+240842BIJ,J01GB01,tobramycin
+106835BIJ,J01GB06,amikacin
+126403BIJ,J01DD05,cefmenoxime
+179401BIJ,J01GB04,kanamycin
+131101BIJ,J01BA01,chloramphenicol
+108302BIJ,J02AA01,amphotericin B
+118001BIJ,L01DC01,bleomycin
+196402BIJ,L01DC03,mitomycin
+125703BIJ,J01DB04,cefazolin
+125704BIJ,J01DB04,cefazolin
+125801BIJ,J01DC13,cefbuperazone
+126503BIJ,J01DC09,cefmetazole
+126902BIJ,J01DD12,cefoperazone
+127203BIJ,J01DC05,cefotetan
+127702BIJ,J01DD11,cefpiramide
+127801BIJ,J01DE02,cefpirome
+128802BIJ,J01DD04,ceftriaxone
+129002BIJ,J01DC02,cefuroxime
+129701BIJ,J01DB03,cefalotin
+130104BIJ,J01DB09,cefradine
+130105BIJ,J01DB09,cefradine
+165134BIJ,J01GB03,gentamicin
+177730BIJ,J01GB11,isepamicin
+177731BIJ,J01GB11,isepamicin
+213102BIJ,J01CA12,piperacillin
+213104BIJ,J01CA12,piperacillin
+223801BIJ,J01GB10,ribostamycin
+223802BIJ,J01GB10,ribostamycin
+223830BIJ,J01GB10,ribostamycin
+223831BIJ,J01GB10,ribostamycin
+230801BIJ,J01XX04,spectinomycin
+328900BIJ,J01CR02,amoxicillin and enzyme inhibitor
+329000BIJ,J01CR02,amoxicillin and enzyme inhibitor
+329400BIJ,J01DH51,imipenem and enzyme inhibitor
+329500BIJ,J01CR05,piperacillin and enzyme inhibitor
+329600BIJ,J01CR05,piperacillin and enzyme inhibitor
+329700BIJ,J01CR03,ticarcillin and enzyme inhibitor
+329900BIJ,J01DD62,"cefoperazone, combinations"
+381300BIJ,J01CR02,amoxicillin and enzyme inhibitor
+381400BIJ,J01CR02,amoxicillin and enzyme inhibitor
+381500BIJ,J01CR02,amoxicillin and enzyme inhibitor
+466100BIJ,J01DH51,imipenem and enzyme inhibitor
+480800BIJ,J01DD07,ceftizoxime
+557400BIJ,J01DD62,"cefoperazone, combinations"
+328500BIJ,J01CR01,ampicillin and enzyme inhibitor
+328600BIJ,J01CR01,ampicillin and enzyme inhibitor
+360930BIJ,J01GB12,arbekacin
+360931BIJ,J01GB12,arbekacin
+179130BIJ,J02AC02,itraconazole
+183236BIJ,J01MA12,levofloxacin
+477501BIJ,J06BB16,palivizumab
+477502BIJ,J06BB16,palivizumab
+169934BIJ,J06BA02,"immunoglobulins, normal human, for intravascular adm."
+173932BIJ,J06BB01,anti-D (rh) immunoglobulin
+174030BIJ,J06BB09,cytomegalovirus immunoglobulin
+174031BIJ,J06BB09,cytomegalovirus immunoglobulin
+174032BIJ,J06BB09,cytomegalovirus immunoglobulin
+174131BIJ,J06BB03,varicella/zoster immunoglobulin
+363530BIJ,J06BB04,hepatitis B immunoglobulin
+363531BIJ,J06BB04,hepatitis B immunoglobulin
+422730BIJ,J06BA02,"immunoglobulins, normal human, for intravascular adm."
+422731BIJ,J06BA02,"immunoglobulins, normal human, for intravascular adm."
+422732BIJ,J06BA02,"immunoglobulins, normal human, for intravascular adm."
+175733BIJ,L03AB07,interferon beta-1a
+175901BIJ,L03AB03,interferon gamma
+452631BIJ,L03AB11,peginterferon alfa-2a
+452602BIJ,L03AB11,peginterferon alfa-2a
+452630BIJ,L03AB11,peginterferon alfa-2a
+622530BIJ,L04AA23,natalizumab
+176041BIJ,V08AB11,iobitridol
+176354BIJ,V08AB02,iohexol
+176355BIJ,V08AB02,iohexol
+176356BIJ,V08AB02,iohexol
+176383BIJ,V08AB02,iohexol
+176384BIJ,V08AB02,iohexol
+176385BIJ,V08AB02,iohexol
+176349BIJ,V08AB02,iohexol
+176359BIJ,V08AB02,iohexol
+176382BIJ,V08AB02,iohexol
+176386BIJ,V08AB02,iohexol
+176387BIJ,V08AB02,iohexol
+176454BIJ,V08AB10,iomeprol
+176563BIJ,V08AB04,iopamidol
+176577BIJ,V08AB04,iopamidol
+176522BIJ,V08AB04,iopamidol
+176525BIJ,V08AB04,iopamidol
+176539BIJ,V08AB04,iopamidol
+176555BIJ,V08AB04,iopamidol
+176747BIJ,V08AB05,iopromide
+176749BIJ,V08AB05,iopromide
+176741BIJ,V08AB05,iopromide
+176932BIJ,V08AB07,ioversol
+176935BIJ,V08AB07,ioversol
+176946BIJ,V08AB07,ioversol
+176939BIJ,V08AB07,ioversol
+176947BIJ,V08AB07,ioversol
+176956BIJ,V08AB07,ioversol
+176931BIJ,V08AB07,ioversol
+176940BIJ,V08AB07,ioversol
+176941BIJ,V08AB07,ioversol
+176960BIJ,V08AB07,ioversol
+176969BIJ,V08AB07,ioversol
+466731BIJ,V08CA03,gadodiamide
+466732BIJ,V08CA03,gadodiamide
+466733BIJ,V08CA03,gadodiamide
+466832BIJ,V08CA08,gadobenic acid
+466901BIJ,V08CA01,gadopentetic acid
+466902BIJ,V08CA01,gadopentetic acid
+466903BIJ,V08CA01,gadopentetic acid
+466904BIJ,V08CA01,gadopentetic acid
+471635BIJ,V08CA09,gadobutrol
+482130BIJ,V08CA06,gadoversetamide
+482131BIJ,V08CA06,gadoversetamide
+482132BIJ,V08CA06,gadoversetamide
+487303BIJ,V08CA10,gadoxetic acid
+536900BIJ,V08AA05,ioxitalamic acid
+537000BIJ,V08AA05,ioxitalamic acid
+537100BIJ,V08AB03,ioxaglic acid
+161131BIJ,S01JA01,fluorescein
+330700BIJ,V04CX,Other diagnostic agents
+197337BIJ,N02AA01,morphine
+104731BIJ,N01AH02,alfentanil
+158333BIJ,N02AB03,fentanyl
+359032BIJ,N02AA05,oxycodone
+151830CLQ,N01AB04,enflurane
+178031CLQ,N01AB06,isoflurane
+101302CSP,N02BE01,paracetamol
+172803CSP,M01AE01,ibuprofen
+224506CPL,N06DA03,rivastigmine
+224507CPL,N06DA03,rivastigmine
+115330CLQ,R02AD,"Anesthetics, local"
+183802CPL,N01BB02,lidocaine
+183902COM,N01BB02,lidocaine
+183937CLQ,R02AD02,lidocaine
+537500COM,N01BB,Amides
+101701COS,S01EB09,acetylcholine
+102932COO,S01AD03,aciclovir
+111832COS,S01FA01,atropine
+112530COS,S01GX07,azelastine
+112531COS,S01GX07,azelastine
+112532COS,S01GX07,azelastine
+112534COS,S01GX07,azelastine
+118430COS,S01EA05,brimonidine
+118433COS,S01EA05,brimonidine
+118431COS,S01EA05,brimonidine
+138930COS,S01FA04,cyclopentolate
+138932COS,S01FA04,cyclopentolate
+143531COS,S01BC03,diclofenac
+152531COS,S01GX10,epinastine
+161234COS,S01BA07,fluorometholone
+161236COS,S01BA07,fluorometholone
+161239COS,S01BA07,fluorometholone
+161240COS,S01BA07,fluorometholone
+161241COS,S01BA07,fluorometholone
+161245COS,S01BA07,fluorometholone
+161331COS,S01BA07,fluorometholone
+161332COS,S01BA07,fluorometholone
+164132COS,S01AA13,fusidic acid
+178230COS,S01EE02,unoprostone
+180034COS,S01BC05,ketorolac
+180130COS,S01GX08,ketotifen
+180136COS,S01GX08,ketotifen
+180144COS,S01GX08,ketotifen
+180110COS,S01GX08,ketotifen
+180134COS,S01GX08,ketotifen
+180139COS,S01GX08,ketotifen
+180145COS,S01GX08,ketotifen
+180146COS,S01GX08,ketotifen
+182830COS,S01ED03,levobunolol
+183232COS,S01AE05,levofloxacin
+183238COS,S01AE05,levofloxacin
+183239COS,S01AE05,levofloxacin
+183240COS,S01AE05,levofloxacin
+203938COO,S01AE01,ofloxacin
+203912COS,S01AE01,ofloxacin
+203930COS,S01AE01,ofloxacin
+203933COS,S01AE01,ofloxacin
+203939COS,S01AE01,ofloxacin
+203941COS,S01AE01,ofloxacin
+203942COS,S01AE01,ofloxacin
+203943COS,S01AE01,ofloxacin
+211933COS,S01FB01,phenylephrine
+212330COS,S01EB01,pilocarpine
+212333COS,S01EB01,pilocarpine
+213631COS,S01XA,Other ophthalmologicals
+216133COS,S01XA20,artificial tears and other indifferent preparations
+216130COS,S01XA20,artificial tears and other indifferent preparations
+216131COS,S01XA20,artificial tears and other indifferent preparations
+216136COS,S01XA20,artificial tears and other indifferent preparations
+216530COS,S01BC09,pranoprofen
+216531COS,S01BC09,pranoprofen
+217130COS,S01BA04,prednisolone
+224130COS,S01BA13,rimexolone
+224131COS,S01BA13,rimexolone
+228642COS,S01XA20,artificial tears and other indifferent preparations
+228630COS,S01XA20,artificial tears and other indifferent preparations
+228634COS,S01XA20,artificial tears and other indifferent preparations
+228637COS,S01XA20,artificial tears and other indifferent preparations
+228638COS,S01XA20,artificial tears and other indifferent preparations
+228830COS,S01GX01,cromoglicic acid
+228838COS,S01GX01,cromoglicic acid
+228839COS,S01GX01,cromoglicic acid
+230032COO,S01XA,Other ophthalmologicals
+230033COO,S01XA,Other ophthalmologicals
+230030COS,S01XA,Other ophthalmologicals
+230031COS,S01XA,Other ophthalmologicals
+230034COS,S01XA,Other ophthalmologicals
+239630COS,S01ED01,timolol
+239637COS,S01ED01,timolol
+240847COS,S01AA12,tobramycin
+245331COS,S01FA06,tropicamide
+380332COS,S01AE07,moxifloxacin
+391734COS,S01GX09,olopatadine
+391735COS,S01GX09,olopatadine
+401630COS,S01XA20,artificial tears and other indifferent preparations
+401635COS,S01XA20,artificial tears and other indifferent preparations
+401636COS,S01XA20,artificial tears and other indifferent preparations
+457730COS,S01GX,Other antiallergics
+457732COS,S01GX,Other antiallergics
+461331COS,S01EE03,bimatoprost
+139208COS,S01XA18,ciclosporin
+139232COS,S01XA18,ciclosporin
+139231COS,S01XA18,ciclosporin
+482630COS,S01AE02,norfloxacin
+525400COS,S01GA52,"tetryzoline, combinations"
+530011COS,S01XA,Other ophthalmologicals
+530013COS,S01XA,Other ophthalmologicals
+530054COS,S01XA,Other ophthalmologicals
+530056COS,S01XA,Other ophthalmologicals
+530057COS,S01XA,Other ophthalmologicals
+530058COS,S01XA,Other ophthalmologicals
+530059COS,S01XA,Other ophthalmologicals
+530060COS,S01XA,Other ophthalmologicals
+530061COS,S01XA,Other ophthalmologicals
+530074COS,S01XA,Other ophthalmologicals
+530079COS,S01XA,Other ophthalmologicals
+530080COS,S01XA,Other ophthalmologicals
+530081COS,S01XA,Other ophthalmologicals
+530099COS,S01XA,Other ophthalmologicals
+5300A1COS,S01XA,Other ophthalmologicals
+530010COS,S01XA,Other ophthalmologicals
+530012COS,S01XA,Other ophthalmologicals
+530014COS,S01XA,Other ophthalmologicals
+530015COS,S01XA,Other ophthalmologicals
+530048COS,S01XA,Other ophthalmologicals
+530050COS,S01XA,Other ophthalmologicals
+530067COS,S01XA,Other ophthalmologicals
+530068COS,S01XA,Other ophthalmologicals
+530069COS,S01XA,Other ophthalmologicals
+530070COS,S01XA,Other ophthalmologicals
+530071COS,S01XA,Other ophthalmologicals
+530098COS,S01XA,Other ophthalmologicals
+530001COS,S01XA,Other ophthalmologicals
+530002COS,S01XA,Other ophthalmologicals
+530003COS,S01XA,Other ophthalmologicals
+530004COS,S01XA,Other ophthalmologicals
+530005COS,S01XA,Other ophthalmologicals
+530007COS,S01XA,Other ophthalmologicals
+530008COS,S01XA,Other ophthalmologicals
+530019COS,S01XA,Other ophthalmologicals
+530020COS,S01XA,Other ophthalmologicals
+530021COS,S01XA,Other ophthalmologicals
+530029COS,S01XA,Other ophthalmologicals
+530031COS,S01XA,Other ophthalmologicals
+530052COS,S01XA,Other ophthalmologicals
+530053COS,S01XA,Other ophthalmologicals
+530072COS,S01XA,Other ophthalmologicals
+530073COS,S01XA,Other ophthalmologicals
+530075COS,S01XA,Other ophthalmologicals
+530076COS,S01XA,Other ophthalmologicals
+530009COS,S01XA,Other ophthalmologicals
+530016COS,S01XA,Other ophthalmologicals
+530017COS,S01XA,Other ophthalmologicals
+530018COS,S01XA,Other ophthalmologicals
+530051COS,S01XA,Other ophthalmologicals
+530055COS,S01XA,Other ophthalmologicals
+530062COS,S01XA,Other ophthalmologicals
+530063COS,S01XA,Other ophthalmologicals
+530064COS,S01XA,Other ophthalmologicals
+530065COS,S01XA,Other ophthalmologicals
+530066COS,S01XA,Other ophthalmologicals
+530082COS,S01XA,Other ophthalmologicals
+530083COS,S01XA,Other ophthalmologicals
+537700COO,S01AA,Antibiotics
+537800COS,S01AA,Antibiotics
+538600COO,S01CA07,fluorometholone and antiinfectives
+538800COS,S01GA52,"tetryzoline, combinations"
+538900COS,S01GA52,"tetryzoline, combinations"
+538900COS,S01G,DECONGESTANTS AND ANTIALLERGICS
+540000COO,S01CA01,dexamethasone and antiinfectives
+540700COS,S01ED51,"timolol, combinations"
+619203COS,S01BC11,bromfenac
+640300COS,S01CA01,dexamethasone and antiinfectives
+643000COS,S01CA01,dexamethasone and antiinfectives
+643100COS,S01GA52,"tetryzoline, combinations"
+643900COS,S01CA01,dexamethasone and antiinfectives
+644000COS,S01GA52,"tetryzoline, combinations"
+647000COS,S01CA01,dexamethasone and antiinfectives
+647100COS,S01CA01,dexamethasone and antiinfectives
+647200COS,S01GA52,"tetryzoline, combinations"
+647400COS,S01GA52,"tetryzoline, combinations"
+114531CSI,R01AD01,beclometasone
+141909CSI,R01AD03,dexamethasone
+203939CLQ,S02AA16,ofloxacin
+361348CSI,R01AD09,mometasone
+495700CSI,R01AB06,xylometazoline
+510030CSI,R03BA08,ciclesonide
+521800CSI,R01AX,Other nasal preparations
+542100CSY,S02CA03,hydrocortisone and antiinfectives
+542200CSY,S02CA03,hydrocortisone and antiinfectives
+542300CSY,S02CA06,dexamethasone and antiinfectives
+182930CSI,R01AC02,levocabastine
+202630CSI,C01DA02,glyceryl trinitrate
+215431CSY,V03AE01,polystyrene sulfonate
+119531CSI,R03BA02,budesonide
+162230CSY,R03BA05,fluticasone
+162236CSI,R03BA05,fluticasone
+218330CSI,R03AC16,procaterol
+452101CPL,R03CC11,tulobuterol
+452102CPL,R03CC11,tulobuterol
+452103CPL,R03CC11,tulobuterol
+544300CSI,R03AK06,salmeterol and fluticasone
+544500CSI,R03AK06,salmeterol and fluticasone
+457301CTB,R03BB04,tiotropium bromide
+635903CSI,R03BB06,glycopyrronium bromide
+116133CLQ,A01AD02,benzydamine
+131333CLQ,R02AA05,chlorhexidine
+131337CLQ,R02AA05,chlorhexidine
+131339CLQ,R02AA05,chlorhexidine
+131335CLQ,R02AA05,chlorhexidine
+131336CLQ,R02AA05,chlorhexidine
+179832CLQ,A01AD,Other agents for local oral treatment
+216240CLQ,R02AA15,povidone-iodine
+216241CLQ,R02AA15,povidone-iodine
+216244CLQ,R02AA15,povidone-iodine
+364203CSI,N01BA05,benzocaine
+335800CLQ,A06AG10,"docusate sodium, incl. combinations"
+392030CLQ,A06AG04,glycerol
+392031CLQ,A06AG04,glycerol
+392032CLQ,A06AG04,glycerol
+392033CLQ,A06AG04,glycerol
+392034CLQ,A06AG04,glycerol
+544600CLQ,A06AD17,sodium phosphate
+545000CLQ,A06AD17,sodium phosphate
+190810CEN,A07EC02,mesalazine
+190830CLQ,A07EC02,mesalazine
+141431CLQ,H01BA02,desmopressin
+225732CSI,H05BA01,calcitonin (salmon synthetic)
+116630CLQ,D07AC01,betamethasone
+116632CLQ,D07AC01,betamethasone
+152631CLQ,R03AA01,epinephrine
+152634CLQ,R03AA01,epinephrine
+154930COM,G03CA03,estradiol
+154931COM,G03CA03,estradiol
+154932COM,G03CA03,estradiol
+206402CTB,G01AF17,oxiconazole
+219001CTB,G03CA09,promestriene
+219030COM,G03CA09,promestriene
+336100CTB,G03CC,"Estrogens, combinations with other drugs"
+336400CTB,G01AA51,"nystatin, combinations"
+392430COM,C05AD07,pramocaine
+392431COM,C05AD07,pramocaine
+216246CLQ,G01AX11,povidone-iodine
+131308CLQ,D08AC02,chlorhexidine
+372701CLQ,D08AX08,ethanol
+457201CLQ,D08AE05,chloroxylenol
+480000CLT,D08AC52,"chlorhexidine, combinations"
+499600CLQ,D08A,ANTISEPTICS AND DISINFECTANTS
+415300CDS,D09AA,Medicated dressings with antiinfectives
+186932COM,D06BA03,mafenide
+186933COM,D06BA03,mafenide
+216201CDS,D08AG02,povidone-iodine
+227430COM,D06BA01,silver sulfadiazine
+103431COM,D07AB10,alclometasone
+103433COM,D07AB10,alclometasone
+103432COM,D07AB10,alclometasone
+106430COM,D07AC11,amcinonide
+119431COM,D07AC09,budesonide
+119432COM,D07AC09,budesonide
+119433COM,D07AC09,budesonide
+119434COM,D07AC09,budesonide
+119439COM,D07AC09,budesonide
+135843CLQ,D07AD01,clobetasol
+135830COM,D07AD01,clobetasol
+135840CLT,D07AD01,clobetasol
+135841CLT,D07AD01,clobetasol
+135930COM,D07AB01,clobetasone
+141531COM,D07AB08,desonide
+141536COM,D07AB08,desonide
+141538COM,D07AB08,desonide
+141534CLT,D07AB08,desonide
+141539CLT,D07AB08,desonide
+141631COM,D07AC03,desoximetasone
+141636COM,D07AC03,desoximetasone
+142132COM,D07AB19,dexamethasone
+143330COM,M02AA15,diclofenac
+143536COM,M02AA15,diclofenac
+143537COM,M02AA15,diclofenac
+144430COM,D07AC10,diflorasone
+144432COM,D07AC10,diflorasone
+144433COM,D07AC10,diflorasone
+144531COM,D07AC06,diflucortolone
+144533COM,D07AC06,diflucortolone
+160730COM,D07AC04,fluocinolone acetonide
+160831COM,D07AC08,fluocinonide
+160835COM,D07AC08,fluocinonide
+160833CLQ,D07AC08,fluocinonide
+161902CPL,M02AA19,flurbiprofen
+167830COM,D07AD02,halcinonide
+170935CLT,D07AA02,hydrocortisone
+170937CLT,D07AA02,hydrocortisone
+170948CLT,D07AA02,hydrocortisone
+170940CLT,D07AA02,hydrocortisone
+170949CLT,D07AA02,hydrocortisone
+171130COM,D07AB02,hydrocortisone butyrate
+171132COM,D07AB02,hydrocortisone butyrate
+171131CLT,D07AB02,hydrocortisone butyrate
+171133CLT,D07AB02,hydrocortisone butyrate
+171137CLT,D07AB02,hydrocortisone butyrate
+171138CLT,D07AB02,hydrocortisone butyrate
+171331COM,D07AA02,hydrocortisone
+171332COM,D07AA02,hydrocortisone
+174831COM,M02AA23,indometacin
+174832COM,M02AA23,indometacin
+179735COM,M02AA10,ketoprofen
+179737COM,M02AA10,ketoprofen
+179831COM,M02AA10,ketoprofen
+179904CPL,M02AA10,ketoprofen
+183806CPL,N01BB02,lidocaine
+193431CLT,D07AC14,methylprednisolone aceponate
+193432CLT,D07AC14,methylprednisolone aceponate
+193436COM,D07AC14,methylprednisolone aceponate
+214005CPL,M02AA07,piroxicam
+214032COM,M02AA07,piroxicam
+214033COM,M02AA07,piroxicam
+214034COM,M02AA07,piroxicam
+214036COM,M02AA07,piroxicam
+216930COM,D07AC18,prednicarbate
+216931COM,D07AC18,prednicarbate
+216934COM,D07AC18,prednicarbate
+216935COM,D07AC18,prednicarbate
+216937COM,D07AC18,prednicarbate
+216938COM,D07AC18,prednicarbate
+216939COM,D07AC18,prednicarbate
+216942COM,D07AC18,prednicarbate
+216946COM,D07AC18,prednicarbate
+216947CLT,D07AC18,prednicarbate
+216949CLQ,D07AC18,prednicarbate
+217530CLT,D07AA03,prednisolone
+217531COM,D07AA03,prednisolone
+217531CLT,D07AA03,prednisolone
+217532COM,D07AA03,prednisolone
+217532CLT,D07AA03,prednisolone
+217535COM,D07AA03,prednisolone
+217536COM,D07AA03,prednisolone
+243332COM,D07AB09,triamcinolone
+243333COM,D07AB09,triamcinolone
+243338COM,D07AB09,triamcinolone
+361330COM,D07AC13,mometasone
+361332COM,D07AC13,mometasone
+361333COM,D07AC13,mometasone
+361338COM,D07AC13,mometasone
+361341COM,D07AC13,mometasone
+361345COM,D07AC13,mometasone
+361337CLT,D07AC13,mometasone
+528300COM,D07CC01,betamethasone and antibiotics
+528500COM,D07CC01,betamethasone and antibiotics
+528700COM,D07CC01,betamethasone and antibiotics
+547000COM,D07CC01,betamethasone and antibiotics
+547300COM,D07CC01,betamethasone and antibiotics
+548600COM,D07CC01,betamethasone and antibiotics
+549300COM,D07CC01,betamethasone and antibiotics
+107831CLQ,D01AE16,amorolfine
+120931COM,D01AE23,butenafine
+120932CLQ,D01AE23,butenafine
+137404CMS,G01AF02,clotrimazole
+137430COM,D01AC01,clotrimazole
+137431COM,D01AC01,clotrimazole
+137432COM,D01AC01,clotrimazole
+137433COM,D01AC01,clotrimazole
+137435COM,D01AC01,clotrimazole
+150830COM,D01AC03,econazole
+159932COM,D01AC15,fluconazole
+162330COM,D01AC16,flutrimazole
+162331COM,D01AC16,flutrimazole
+162332COM,D01AC16,flutrimazole
+162337COM,D01AC16,flutrimazole
+162334CLQ,D01AC16,flutrimazole
+177930COM,D01AC05,isoconazole
+177931COM,D01AC05,isoconazole
+177932COM,D01AC05,isoconazole
+179631COM,D01AC08,ketoconazole
+179632COM,D01AC08,ketoconazole
+179633COM,D01AC08,ketoconazole
+179634COM,D01AC08,ketoconazole
+179635COM,D01AC08,ketoconazole
+179636COM,D01AC08,ketoconazole
+184330COM,P03AB02,lindane
+184332CLQ,P03AB02,lindane
+184332CLT,P03AB02,lindane
+184333CLQ,P03AB02,lindane
+184334CLQ,P03AB02,lindane
+184335COM,P03AB02,lindane
+184336COM,P03AB02,lindane
+198730COM,D01AE22,naftifine
+226930COM,D01AC14,sertaconazole
+235630COM,D01AE15,terbinafine
+235631COM,D01AE15,terbinafine
+235634COM,D01AE15,terbinafine
+235730COM,D01AE15,terbinafine
+235731COM,D01AE15,terbinafine
+235733COM,D01AE15,terbinafine
+235734COM,D01AE15,terbinafine
+235735COM,D01AE15,terbinafine
+235738COM,D01AE15,terbinafine
+235740COM,D01AE15,terbinafine
+235742COM,D01AE15,terbinafine
+235744COM,D01AE15,terbinafine
+235745COM,D01AE15,terbinafine
+235732CLQ,D01AE15,terbinafine
+235737CLQ,D01AE15,terbinafine
+235739CLQ,D01AE15,terbinafine
+416530COM,D01AC,Imidazole and triazole derivatives
+416531COM,D01AC,Imidazole and triazole derivatives
+416532COM,D01AC,Imidazole and triazole derivatives
+450830COM,D05AC01,dithranol
+528800COM,D01AC,Imidazole and triazole derivatives
+528900COM,D01AC,Imidazole and triazole derivatives
+545400COM,D01A,ANTIFUNGALS FOR TOPICAL USE
+545500COM,D01A,ANTIFUNGALS FOR TOPICAL USE
+545600COM,D01A,ANTIFUNGALS FOR TOPICAL USE
+545700COM,D01A,ANTIFUNGALS FOR TOPICAL USE
+545800COM,D01A,ANTIFUNGALS FOR TOPICAL USE
+546600COM,D01AC20,imidazoles/triazoles in combination with corticosteroids
+548400COM,D01AC,Imidazole and triazole derivatives
+246135COM,D02AE01,carbamide
+246130COM,D02AE01,carbamide
+246131COM,D02AE01,carbamide
+246133COM,D02AE01,carbamide
+246134COM,D02AE01,carbamide
+102930COM,D06BB03,aciclovir
+102933COM,D06BB03,aciclovir
+102937COM,D06BB03,aciclovir
+102941COM,D06BB03,aciclovir
+121531CLQ,D05AX02,calcipotriol
+121634COM,D05AX03,calcitriol
+141630COM,D07AC03,desoximetasone
+141633COM,D07AC03,desoximetasone
+144730COM,D07AC19,difluprednate
+144732COM,D07AC19,difluprednate
+192230COM,D05AD02,methoxsalen
+421231COM,D05AX04,tacalcitol
+421230COM,D05AX04,tacalcitol
+421230CLT,D05AX04,tacalcitol
+545200COM,D07CD01,clobetasol and antibiotics
+545300COM,D07CD01,clobetasol and antibiotics
+548700COM,D07CC01,betamethasone and antibiotics
+548900COM,D07CC01,betamethasone and antibiotics
+549000COM,D07CC01,betamethasone and antibiotics
+800600COM,D05AX52,"calcipotriol, combinations"
+800700COM,D05AX52,"calcipotriol, combinations"
+372503CDS,B02BC01,absorbable gelatin sponge
+228743CIS,B05CB01,sodium chloride
+645601CSY,D03,PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS
+240830COS,S01AA12,tobramycin
+240831COS,S01AA12,tobramycin
+240837COS,S01AA12,tobramycin
+240839COS,S01AA12,tobramycin
+240846COS,S01AA12,tobramycin
+240848COS,S01AA12,tobramycin
+126430CLQ,S02AA,Antiinfectives
+195930COM,A01AB23,minocycline
+165132COM,D06AX07,gentamicin
+165137COM,D06AX07,gentamicin
+165131COS,S01AA11,gentamicin
+165133COS,S01AA11,gentamicin
+184930CLQ,S03AA,Antiinfectives
+158209CPL,N02AB03,fentanyl
+158210CPL,N02AB03,fentanyl
+158211CPL,N02AB03,fentanyl
+158212CPL,N02AB03,fentanyl
+158213CPL,N02AB03,fentanyl
+630905CSI,N02AB03,fentanyl
+630906CSI,N02AB03,fentanyl
+630909CSI,N02AB03,fentanyl
