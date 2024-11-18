@@ -1,0 +1,1404 @@
+연번,유효성분 '1',유효성분 '2',허가사항,비고
+1,acemetacin,diflunisal,중증의 위장관계 이상반응,
+2,acemetacin,methotrexate(분류번호 : 421),신세뇨관에서 Methotrexate 배설이 지연되어 Methotrexate의 혈액학적 독성 증가,methotrexate 1주에 15mg 이상 투여시
+3,acetazolamide,methazolamide,신장결석 형성 위험 증가,
+4,acetazolamide,topiramate,신결석,
+5,acitretin,doxycycline,두개내압 증가,
+6,acitretin,methotrexate,간 독성,
+7,acitretin,minocycline,두개내압 증가,
+8,acitretin,oxytetracycline,두개내압 증가,
+9,acitretin,tetracycline,두개내압 증가,
+10,adefovir,emtricitabine + tenofovir,양쪽 약물 모두 혈장농도 상승 가능,
+11,adefovir,tenofovir,신장청소율을 감소시켜 양쪽 약물 모두 혈장농도 상승,
+12,alfacalcidol,calcifediol,고칼슘혈증,
+13,alfacalcidol,calcitriol,고칼슘혈증,
+14,alfacalcidol,calcitriol + alendronate,고칼슘혈증,
+15,alfacalcidol,paricalcitol,고칼슘혈증,
+16,almotriptan,anhydrous caffeine + ergotamine,"상가적인 혈관수축반응, 혈압상승",
+17,almotriptan,frovatriptan,추가적인 관상혈관 경련으로 고혈압 및 관상 동맥 협착의 위험성 증가,24시간 이내 병용금기
+18,almotriptan,naratriptan,"상가적인 혈관수축반응, 혈압상승",
+19,almotriptan,sumatriptan,"상가적인 혈관수축반응, 혈압상승",
+20,almotriptan,zolmitriptan,"상가적인 혈관수축반응, 혈압상승",
+21,alprazolam,itraconazole,"alprazolam의 혈장농도 증가, 수면 및 진정작용 증강 및 연장",
+22,alprazolam,ketoconazole,"alprazolam의 혈장농도 증가, 수면 및 진정작용 증강 및 연장",
+23,altretamine,pyridoxine,"피리독신은 신경독성을 현저하게 감소시켰으나 반응기간에는 역효과, 알트레타민의 치료효과 감소",
+24,amantadine,bromperidol,항콜린작용 증가,
+25,amantadine,chlorpromazine,항콜린작용 증가,
+26,amantadine,perphenazine,amantadine의 효과 저해,
+27,amantadine,dronedarone,QT 간격 연장,
+28,amantadine,mizolastine,QT 간격 연장,
+29,amantadine,pimozide,QT 간격 연장,
+30,amantadine,toremifene,QT 간격 연장,
+31,amiloride,spironolactone,고칼륨혈증 위험 증가,
+32,amiloride,triamterene,고칼륨혈증 위험 증가,
+33,aminocaproic acid,thrombin,혈전형성,
+34,amiodarone,erythromycin(정맥주사용),심실부정맥(Torsade de pointes) 위험 증가,
+35,amiodarone,mizolastine,"QT 연장, 심실성 부정맥",
+36,amiodarone,pentamidine(비경구형),심실부정맥(Torsade de pointes) 위험 증가,
+37,amiodarone,quinidine,심실부정맥(Torsade de pointes) 위험 증가,
+38,amiodarone,ritonavir,"부정맥, 혈액장애, 발작 등 중대한 이상반응",
+39,amiodarone,sotalol,심실부정맥(Torsade de pointes) 위험 증가,
+40,amiodarone,sparfloxacin,"QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+41,amiodarone,amantadine,Torsade de pointes 위험 증가,
+42,amiodarone,amitriptyline,Torsade de pointes 위험 증가,
+43,amiodarone,dolasetron,Torsade de pointes 위험 증가,
+44,amiodarone,dronedarone,Torsade de pointes 위험 증가,
+45,amiodarone,imipramine,Torsade de pointes 위험 증가,
+46,amiodarone,nortriptyline,Torsade de pointes 위험 증가,
+47,amiodarone,pimozide,Torsade de pointes 위험 증가,
+48,amiodarone,toremifene,Torsade de pointes 위험 증가,
+49,amisulpride,amiodarone,심실성 부정맥(특히 torsades de pointes) ,
+50,amisulpride,bromocriptine,길항작용,
+51,amisulpride,pramipexole,길항작용,
+52,amitriptyline,moclobemide,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+53,amitriptyline,selegiline,"이상고열, 전신경련, 발한, 불온, 혼수등",
+54,amoxapine,selegiline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+55,amrinone (inamrinone),dobutamine,근육수축작용 증가,
+56,anastrozole,estrogen,anastrozole의 약리작용 감소,
+57,anastrozole,tamoxifen,anastrozole의 혈장농도 감소,
+58,anhydrous caffeine + ergotamine,roxithromycin,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+59,anhydrous caffeine + ergotamine,atazanavir,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+60,anhydrous caffeine + ergotamine,clarithromycin,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+61,anhydrous caffeine + ergotamine,erythromycin,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+62,anhydrous caffeine + ergotamine,frovatriptan,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",24시간 이내 병용금기
+63,anhydrous caffeine + ergotamine,indinavir,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+64,anhydrous caffeine + ergotamine,itraconazole,"맥각독성(혈관경련, 말단 및 기타조직 허혈), Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+65,anhydrous caffeine + ergotamine,lopinavir + ritonavir,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+66,anhydrous caffeine + ergotamine,nelfinavir,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+67,anhydrous caffeine + ergotamine,ritonavir,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+68,anhydrous caffeine + ergotamine,sumatriptan,혈압상승 및 맥각독성(말초혈관수축증가) 위험,
+69,anhydrous caffeine + ergotamine,voriconazole,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+70,anhydrous caffeine + ergotamine,zolmitriptan,"약리적 상가작용에 의해, 혈압 상승 및 맥각중독(에르고티즘)(말초혈관수축 증가)의 위험성을 증가",24시간 이내 병용금기
+71,apraclonidine,moclobemide,"교감신경흥분제의 작용 증강 또는 연장(고혈압, 빈맥 등)",
+72,apraclonidine,selegiline,"교감신경흥분제의 작용 증강 또는 연장(고혈압, 빈맥 등)",
+73,articaine + epinephrine,amoxapine,리듬장애를 수반한 발작성 고혈압,
+74,aspirin,methotrexate,혈액학적 독성,methotrexate 1주에 15mg 이상 투여시
+75,aspirin + dipyridamole,methotrexate (분류번호 : 421),메토트렉세이트의 혈액학적 독성 증가,methotrexate 1주에 15mg 이상 투여시
+76,atazanavir,dihydroergotamine,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+77,atazanavir,ergotamine,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+78,atazanavir,lovastatin,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+79,atazanavir,methylergometrine(methylergonovine),"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+80,atazanavir,pimozide,"QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+81,atazanavir,simvastatin,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+82,atazanavir,irinotecan,"골수기능 억제, 설사 등 부작용 증강",
+83,atomoxetine,moclobemide,"고열, 경직, 간대성근경련, 정신상태 변화 등",
+84,atomoxetine,selegiline,"고열, 경직, 간대성근경련, 정신상태 변화 등",
+85,atorvastatin,itraconazole,근육병증,
+86,atorvastatin,ketoconazole,근육병증,
+87,auranofin,hydroxychloroquine,금주사제 병용시 피부독성,
+88,avanafil,atazanavir,혈압강하증가,
+89,avanafil,chloramphenicol,,
+90,avanafil,clarithromycin,혈압강하증가,
+91,avanafil,cobicistat + elvitegravir + emtricitabine + tenofovir,혈압강하증가,
+92,avanafil,darunavir,혈압강하증가,
+93,avanafil,indinavir,혈압강하증가,
+94,avanafil,isosorbide dinitrate,혈압강하증가,
+95,avanafil,isosorbide mononitrate,혈압강하증가,
+96,avanafil,itraconazole,"혈압강하증가, 지속발기증, 시각이상, 급격한 청력소실 같은 아바나필 관련 약물이상반응 발생 위험이 증가.",
+97,avanafil,lopinavir + ritonavir,혈압강하증가,
+98,avanafil,mirodenafil,혈압강하증가,
+99,avanafil,molsidomine,혈압강하증가,
+100,avanafil,nelfinavir,혈압강하증가,
+101,avanafil,nicardipine,기질의 효과감소,
+102,avanafil,nicorandil,혈압강하증가,
+103,avanafil,nitroglycerin,혈압강하증가,
+104,avanafil,nitroprusside,혈압강하증가,
+105,avanafil,posaconazole,혈압강하증가,
+106,avanafil,ritonavir,혈압강하증가,
+107,avanafil,sildenafil,동일계열 병용투여 금기,
+108,avanafil,tadalafil,동일계열 병용투여 금기,
+109,avanafil,udenafil,동일계열 병용투여 금기,
+110,avanafil,vardenafil,동일계열 병용투여 금기,
+111,avanafil,voriconazole,혈압강하증가,
+112,azithromycin,anhydrous caffeine + ergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+113,benserazide + levodopa,halothane,"혈압 변동, 빈맥·심실세동등의 부정맥 위험 증가",
+114,blonanserin,lopinavir + ritonavir,Blonanserin 농도의 증가로 신경학적 또는 기타의 독성 가능성 증가,
+115,blonanserin,nelfinavir,Blonanserin 혈중 약물 농도 증가로 작용 증대,
+116,bosentan,tacrolimus (분류번호 : 142),보센탄의 혈중농도 증가,
+117,brimonidine,moclobemide,"교감신경흥분제의 작용 증강 또는 연장(고혈압, 빈맥 등)",
+118,brimonidine,selegiline,"교감신경흥분제의 작용 증강 또는 연장(고혈압, 빈맥 등)",
+119,bromperidol,bromocriptine,"지발성 운동장애 촉진, bromocryptine의 작용감약 ",
+120,bromperidol,epinephrine,혈압강하,
+121,buprenorphine,morphine,"진통효과 감소, 금단증상 위험",
+122,buspirone,moclobemide,혈압상승,
+123,buspirone,selegiline,혈압상승,
+124,calcifediol,calcitriol + alendronate,고칼슘혈증,
+125,calcifediol,paricalcitol,고칼슘혈증,
+126,calcitriol,calcifediol,고칼슘혈증,
+127,calcitriol,paricalcitol,고칼슘혈증,
+128,carbamazepine,moclobemide,"고혈압, 저혈압, 발한을 동반한 심각한 중추신경계 이상반응(현기, 진전, 발작 등)",
+129,carbamazepine,selegiline,"고혈압, 저혈압, 발한을 동반한 심각한 중추신경계 이상반응(현기, 진전, 발작 등)",
+130,carbamazepine,voriconazole,혈중농도가 저하되어 보리코나졸의 약물효과 감소,
+131,chlorpromazine,epinephrine,혈압강하,
+132,chlorprothixene,epinephrine,혈압강하,
+133,chlorthalidone,lithium carbonate,리튬독성증강,
+134,citalopram,moclobemide,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+135,citalopram,pimozide,QT간격 연장,
+136,clarithromycin,mizolastine,심실부정맥(Torsade de pointes),
+137,clarithromycin,pimozide,"pimozide의 혈중농도 상승, QT연장",
+138,clenbuterol,epinephrine,부정맥 또는 심정지,소생 등의 위급상황 제외
+139,clenbuterol,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+140,clomipramine,moclobemide,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+141,clomipramine,selegiline,"고혈압위기, 이상고열증, 근간대경련, 격월성 발작, 정신착란, 혼수 등",
+142,cyclosporine,tacrolimus,신독성 증가,
+143,dapoxetine,moclobemide,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+144,dapoxetine,nelfinavir,다폭세틴 농도 상승,
+145,dapoxetine,selegiline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+146,dapoxetine,sumatriptan,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+147,darunavir,anhydrous caffeine + ergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+148,darunavir,dihydroergotamine,사지 및 기타조직의 말초 혈관경련 및 허혈로 나타나는 급성 맥각 중독과 같은 중대한 그리고/또는 생명을 위협하는 반응,
+149,dexamethasone,sparfloxacin,"1. 아킬레스건 파열 및 손상<특히 노인>
+2. 심혈관계 부작용 증가",
+150,dexketoprofen,ciprofloxacin,경련 발생,
+151,dexketoprofen,methotrexate (분류번호 : 421),신세뇨관에서 Methotrexate 배설이 지연되어 Methotrexate의 혈액학적 독성 증가,methotrexate 1주에 15mg 이상 투여시
+152,diethylpropion,mazindol,판막심장병 위험,
+153,diethylpropion,moclobemide,고혈압위기 유발,
+154,diethylpropion,phendimetrazine,판막심장병 위험,
+155,diethylpropion,phentermine,판막심장병 위험,
+156,diethylpropion,selegiline,고혈압위기 유발,
+157,diflunisal,indometacin,중증의 위장관계 이상반응,
+158,dihydroergotamine,almotriptan,"혈압상승 및 맥각독성(혈관경련, 말단 및 기타조직 허혈)",24시간 이내 병용금기
+159,dihydroergotamine,anhydrous caffeine + ergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",24시간 이내 병용금기
+160,dihydroergotamine,azithromycin,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+161,dihydroergotamine,clarithromycin,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+162,dihydroergotamine,frovatriptan,혈압상승 및 맥각독성(말초혈관수축 증가)의 위험성 증가,24시간 이내 병용금기
+163,dihydroergotamine,lopinavir + ritonavir,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+164,dihydroergotamine,posaconazole,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+165,dihydroergotamine,telithromycin,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+166,dihydroergotamine,efavirenz,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+167,dihydroergotamine,erythromycin,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+168,dihydroergotamine,indinavir,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+169,dihydroergotamine,itraconazole,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+170,dihydroergotamine,nelfinavir,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+171,dihydroergotamine,ritonavir,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+172,dihydroergotamine,roxithromycin,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+173,dihydroergotamine,sumatriptan,"혈압상승 및 에르고티즘(말초혈관수축 증가, 경련, 사지허혈) 위험 증가",
+174,dihydroergotamine,voriconazole,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+175,dihydroergotamine,zolmitriptan,"상가적인 혈관수축반응, 현저한 혈압상승",
+176,divalproex,meropenem,발프론산의 작용 감약,
+177,dothiepin,moclobemide,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+178,dothiepin,selegiline,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+179,doxepin,moclobemide,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+180,doxepin,selegiline,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+181,doxycycline,isotretinoin,두개내 고혈압,
+183,dronedarone,amitriptyline,Torsade de pointes 위험 증가,
+184,dronedarone,dolasetron,Torsade de pointes 위험 증가,
+185,dronedarone,imipramine,Torsade de pointes 위험 증가,
+186,dronedarone,nortriptyline,Torsade de pointes 위험 증가,
+187,dronedarone,toremifene,Torsade de pointes 위험 증가,
+188,efavirenz,anhydrous caffeine + ergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+189,efavirenz,midazolam,과도한 진정작용,
+190,efavirenz,voriconazole,"현저하게 voriconazole 혈장농도 감소, efavirenz 혈장농도 증가",
+191,ephedrine,moclobemide,"고혈압, 빈맥 유발",
+192,ephedrine,epinephrine,부정맥 또는 심정지 유도,소생 등의 위급상황 제외
+193,ephedrine,selegiline,"고혈압, 빈맥 유발",
+194,ephedrine,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+195,ergotamine,indinavir,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+196,ergotamine,itraconazole,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+197,ergotamine,nelfinavir,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+198,ergotamine,ritonavir,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+199,ergotamine,voriconazole,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+200,erythromycin,lovastatin,횡문근융해증/근육병증 및 이에 수반되는 급격한 신기능악화,
+201,erythromycin,chloramphenicol,병용을 하여도 항균작용이 증가되지 않음,
+202,erythromycin,clindamycin,병용을 하여도 항균작용이 증가되지 않음,
+203,erythromycin,lincomycin,병용을 하여도 항균작용이 증가되지 않음,
+204,erythromycin,mizolastine,QT연장 등,
+205,erythromycin,pimozide,QT연장 등,
+206,esomeprazole,atazanavir,아타자나비르의 혈중농도 감소 ,
+207,ezetimibe + simvastatin,atazanavir,근증/횡문근변성의 위험성이 증가,
+208,ezetimibe + simvastatin,darunavir,근증/횡문근변성의 위험성이 증가,
+209,ezetimibe + simvastatin,"erythromycin (분류번호 : 614, 615)",근증/횡문근변성의 위험성이 증가,"분류번호 : 614, 615 중 경구제와 주사제 등 전신제제에 한함"
+210,ezetimibe + simvastatin,indinavir,근증/횡문근변성의 위험성이 증가,
+211,ezetimibe + simvastatin,itraconazole,근증/횡문근변성의 위험성이 증가,
+212,ezetimibe + simvastatin,"ketoconazole (분류번호 : 629, 641)",근증/횡문근변성의 위험성이 증가,
+213,ezetimibe + simvastatin,lopinavir + ritonavir,근증/횡문근변성의 위험성이 증가,
+214,ezetimibe + simvastatin,nelfinavir,근증/횡문근변성의 위험성이 증가,
+215,ezetimibe + simvastatin,telithromycin,근증/횡문근변성의 위험성이 증가,
+216,fenoterol,epinephrine,부정맥 또는 심정지 유도,소생 등의 위급상황 제외
+217,fenoterol,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+218,flecainide,mizolastine,심실성부정맥,
+219,fluconazole,anhydrous caffeine + ergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+220,fluconazole,dihydroergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+221,fluconazole,triazolam,triazolam 의 약리학적 효과 및 작용증가,
+222,fluoxetine,moclobemide,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+223,fluvoxamine,moclobemide,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+224,fluvoxamine,selegiline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+225,fluvoxamine,tizanidine,"장기화된 저혈압, 졸음, 현기증 및 정신운동능력 감소",
+226,formoterol,epinephrine,부정맥 또는 심정지 유도,소생 등의 위급상황 제외
+227,formoterol,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+228,gentamicin,furosemide,신독성 및 청각독성증강,
+229,glibenclamide,bosentan,간독성 및 간효소치 상승,
+230,gliclazide,miconazole,저혈당 또는 혼수,
+231,glipizide,miconazole,저혈당 또는 혼수,
+232,haloperidol,epinephrine,혈압강하효과,
+233,hemocoagulase,thrombin,혈전형성,
+234,hexoprenaline,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+235,hexoprenaline,epinephrine,부정맥 또는 심정지 유도,소생 등의 위급상황 제외
+236,hydrochlorothiazide,erythromycin(정맥주사용),심실성빈맥(Torsade de pointes),
+237,hydrocortisone,sparfloxacin,"1. 아킬레스건 파열 및 손상<특히 노인>
+2. 심혈관계 부작용 증가",
+238,ibuprofen,methotrexate,혈액학적 독성,methotrexate 1주에 20mg 이상 투여시
+239,ilaprazole,atazanavir,아타자나비르의 혈중농도 감소 ,
+240,imipramine,moclobemide,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+241,imipramine,selegiline,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+242,indinavir,amiodarone,"부정맥, 혈액장애, 경련등",
+243,indinavir,lovastatin,횡문근융해증/근육병증 및 이에 수반되는 급격한 신기능악화,
+244,indinavir,midazolam,과도한 진정작용,
+245,indinavir,rifampicin (rifampin),혈중농도 저하로 항레트로바이러스 약물효과 감소,
+246,indometacin(경구),triamterene,"질소혈증, 크레아티닌 청소율 저하",
+247,iobitridol,metformin,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+248,iodixanol,metformin,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+249,iohexol,metformin,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+250,iomeprol,metformin,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+251,iopamidol,metformin,급성신부전,48시간 이내 병용금기
+252,iopromide,metformin,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+253,iotrolan,metformin,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+254,ioversol,metformin,급성신부전,48시간 이내 병용금기
+255,ioxaglate,metformin,급성신부전,48시간 이내 병용금기
+256,isoproterenol,epinephrine,부정맥 또는 심정지 유도,소생 등의 위급상황 제외
+257,isosorbide dinitrate,sildenafil,혈관확장작용 증가로 저혈압 효과 상승,
+258,isosorbide mononitrate,sildenafil,혈관확장작용 증가로 저혈압 효과 상승,
+259,isotretinoin,minocycline,테트라사이클린 가성뇌종양 보고,
+260,isotretinoin,oxytetracycline,테트라사이클린 가성뇌종양 보고,
+261,isotretinoin,tetracycline,테트라사이클린 가성뇌종양 보고,
+262,isotretinoin,tretinoin,비타민A 과잉증,
+263,itraconazole,lovastatin,"근육병증, 횡문근융해증 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+264,itraconazole,methylergometrine(methylergonovine),"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+265,itraconazole,midazolam(경구용),"Midazolam 의 약리학적 효과 및 작용(수면유도 및 진정작용 등의 중추신경 억제 효과) 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+266,itraconazole,pimozide,"QT 간격 연장 및 심실부정맥(Torsade de pointes) 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+267,itraconazole,quinidine,QT 간격 연장 및 심실부정맥(Torsade de pointes) 위험 증가,
+268,itraconazole,simvastatin,"근육병증, 횡문근융해증 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+269,itraconazole,triazolam,"Triazolam 의 약리학적 효과 및 작용(수면유도 및 진정작용 등의 중추신경 억제 효과) 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+270,itraconazole,vardenafil,"Vardenafil의 혈중농도 증가로 인한 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음.",75세 이상 남성
+271,ketoconazole,lovastatin,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+272,ketoconazole,midazolam(경구용),midazolam 의 약리학적 효과 및 작용증가,
+273,ketoconazole,triazolam,triazolam 의 약리학적 효과 및 작용증가,
+274,ketoconazole,isoniazid,효소유도로 인한 ketoconazole의 혈중농도 저하,
+275,ketoconazole,rifampicin,효소유도로 인한 ketoconazole의 혈중농도 저하,
+276,ketoprofen,ciprofloxacin,경련,
+277,ketoprofen (분류번호 : 114),methotrexate (분류번호 : 421),신세뇨관에서 Methotrexate 배설이 지연되어 Methotrexate의 혈액학적 독성 증가,methotrexate 1주에 15mg 이상 투여시
+278,ketorolac,aceclofenac,중증의 위장관계 이상반응,
+279,ketorolac,acemetacin,중증의 위장관계 이상반응,
+280,ketorolac,aspirin,중증의 위장관계 이상반응,
+281,ketorolac,celecoxib,중증의 위장관계 이상반응,
+282,ketorolac,clonixin,중증의 위장관계 이상반응,
+283,ketorolac,dexibuprofen,중증의 위장관계 이상반응,
+284,ketorolac,dexketoprofen,"상가적인 위장관 궤양, 출혈의 위험",
+285,ketorolac,diclofenac,중증의 위장관계 이상반응,
+286,ketorolac,diflunisal,중증의 위장관계 이상반응,
+287,ketorolac,etodolac,중증의 위장관계 이상반응,
+288,ketorolac,etofenamate,중증의 위장관계 이상반응,
+289,ketorolac,fenoprofen,중증의 위장관계 이상반응,
+290,ketorolac,flufenamic acid,중증의 위장관계 이상반응,
+291,ketorolac,flurbiprofen,중증의 위장관계 이상반응,
+292,ketorolac,ibuprofen,중증의 위장관계 이상반응,
+293,ketorolac,indometacin,중증의 위장관계 이상반응,
+294,ketorolac,ketoprofen,중증의 위장관계 이상반응,
+295,ketorolac,lornoxicam,중증의 위장관계 이상반응,
+296,ketorolac,loxoprofen,"상가적인 위장관 궤양, 출혈의 위험",
+297,ketorolac,meclofenamate,중증의 위장관계 이상반응,
+298,ketorolac,mefenamic acid,중증의 위장관계 이상반응,
+299,ketorolac,meloxicam,중증의 위장관계 이상반응,
+300,ketorolac,nabumetone,중증의 위장관계 이상반응,
+301,ketorolac,naproxen,중증의 위장관계 이상반응,
+302,ketorolac,nimesulide,중증의 위장관계 이상반응,
+303,ketorolac,oxaprozin,중증의 위장관계 이상반응,
+304,ketorolac,pentoxifylline,출혈 및 프로트롬빈시간 연장,
+305,ketorolac,piroxicam,중증의 위장관계 이상반응,
+306,ketorolac,pranoprofen,"상가적인 위장관 궤양, 출혈의 위험",
+307,ketorolac,salsalate,중증의 위장관계 이상반응,
+308,ketorolac,sulindac,중증의 위장관계 이상반응,
+309,ketorolac,tenoxicam,중증의 위장관계 이상반응,
+310,ketorolac,tiaprofenic acid,중증의 위장관계 이상반응,
+311,ketorolac,zaltoprofen,"상가적인 위장관 궤양, 출혈의 위험",
+312,lansoprazole,atazanavir,아타자나비르의 혈중농도 감소 ,
+313,levomepromazine,moclobemide,중추 흥분상태 증가,
+314,levomepromazine,selegiline,중추 흥분상태 증가,
+315,lovastatin,darunavir,횡문근융해증/근육병증 및 이에 수반되는 급격한 신기능 악화,
+316,lovastatin,lopinavir + ritonavir,횡문근융해증/근육병증 및 이에 수반되는 급격한 신기능 악화,
+317,lovastatin,telithromycin,횡문근융해증/근육병증 및 이에 수반되는 급격한 신기능 악화,
+318,mazindol,moclobemide,혈압상승 위험 유발,
+319,mazindol,selegiline,혈압상승 위험 유발,
+320,meloxicam,methotrexate (분류번호 : 421),신세뇨관에서 Methotrexate 배설이 지연되어 Methotrexate의 혈액학적 독성 증가,methotrexate 1주에 15mg 이상 투여시
+321,melphalan,nalidixic acid,출혈성 궤양대장염과 장괴사,
+322,menatetrenon,warfarin,warfarin의 항응고효과 감소,
+323,metacycline,acitretin,두개내 고혈압,
+324,metacycline,isotretinoin,두개내 고혈압,
+325,metacycline,tretinoin,두개내 고혈압,
+326,metformin,iodised oil,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+327,metformin + glibenclamide,iobitridol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+328,metformin + glibenclamide,iodised oil,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+329,metformin + glibenclamide,iodixanol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+330,metformin + glibenclamide,iohexol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+331,metformin + glibenclamide,iomeprol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+332,metformin + glibenclamide,iopamidol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+333,metformin + glibenclamide,iopromide,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+334,metformin + glibenclamide,iotrolan,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+335,metformin + glibenclamide,ioversol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+336,metformin + glibenclamide,ioxaglic acid,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+337,metformin + gliclazide,iobitridol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+338,metformin + gliclazide,iodised oil,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+339,metformin + gliclazide,iodixanol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+340,metformin + gliclazide,iohexol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+341,metformin + gliclazide,iomeprol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+342,metformin + gliclazide,iopamidol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+343,metformin + gliclazide,iopromide,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+344,metformin + gliclazide,iotrolan,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+345,metformin + gliclazide,ioversol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+346,metformin + gliclazide,ioxaglic acid,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+347,metformin + glimepiride,iobitridol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+348,metformin + glimepiride,iodised oil,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+349,metformin + glimepiride,iodixanol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+350,metformin + glimepiride,iohexol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+351,metformin + glimepiride,iomeprol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+352,metformin + glimepiride,iopamidol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+353,metformin + glimepiride,iopromide,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+354,metformin + glimepiride,iotrolan,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+355,metformin + glimepiride,ioversol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+356,metformin + glimepiride,ioxaglic acid,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+357,metformin + pioglitazone,iobitridol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+358,metformin + pioglitazone,iodised oil,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+359,metformin + pioglitazone,iodixanol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+360,metformin + pioglitazone,iohexol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+361,metformin + pioglitazone,iomeprol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+362,metformin + pioglitazone,iopamidol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+363,metformin + pioglitazone,iopromide,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+364,metformin + pioglitazone,iotrolan,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+365,metformin + pioglitazone,ioversol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+366,metformin + pioglitazone,ioxaglic acid,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+367,metformin + rosiglitazone,iobitridol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+368,metformin + rosiglitazone,iodised oil,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+369,metformin + rosiglitazone,iodixanol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+370,metformin + rosiglitazone,iohexol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+371,metformin + rosiglitazone,iomeprol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+372,metformin + rosiglitazone,iopamidol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+373,metformin + rosiglitazone,iopromide,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+374,metformin + rosiglitazone,iotrolan,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+375,metformin + rosiglitazone,ioversol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+376,metformin + rosiglitazone,ioxaglic acid,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+377,metformin + sitagliptin,iobitridol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+378,metformin + sitagliptin,iodised oil,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+379,metformin + sitagliptin,iodixanol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+380,metformin + sitagliptin,iohexol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+381,metformin + sitagliptin,iomeprol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+382,metformin + sitagliptin,iopamidol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+383,metformin + sitagliptin,iopromide,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+384,metformin + sitagliptin,iotrolan,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+385,metformin + sitagliptin,ioversol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+386,metformin + sitagliptin,ioxaglic acid,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+387,metformin + vildagliptin,iobitridol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+388,metformin + vildagliptin,iodised oil,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+389,metformin + vildagliptin,iodixanol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+390,metformin + vildagliptin,iohexol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+391,metformin + vildagliptin,iomeprol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+392,metformin + vildagliptin,iopamidol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+393,metformin + vildagliptin,iopromide,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+394,metformin + vildagliptin,iotrolan,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+395,metformin + vildagliptin,ioversol,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+396,metformin + vildagliptin,ioxaglic acid,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+397,methoxyphenamine,epinephrine (분류번호 : 245),부정맥 또는 심정지,소생 등의 응급상황 제외
+398,methoxyphenamine,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+399,methylergometrine(methylergonovine),nelfinavir,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+400,methylergometrine(methylergonovine),ritonavir,"맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+401,methylergometrine(methylergonovine),sumatriptan,"상가적인 혈관수축반응, 현저한 혈압상승",
+402,methylergometrine(methylergonovine),zolmitriptan,"상가적인 혈관수축반응, 현저한 혈압상승",
+403,methylphenidate,moclobemide,고혈압성 위기(현저한 혈압상승),
+404,methylphenidate,selegiline,고혈압성 위기(현저한 혈압상승),
+405,methylprednisolone,sparfloxacin,"1. 아킬레스건 파열 및 손상<특히 노인>
+2. 심혈관계 부작용 증가",
+406,metolazone,lithium,리튬 독성 증가,
+407,metronidazole + spiramycin,mizolastine,심실부정맥(Torsade de pointes),
+408,midazolam(경구),atazanavir,진정작용이나 호흡억제를 증가 또는 연장,
+409,midazolam(경구),darunavir,"진정작용의 증가 및 연장, 호흡저하",
+410,midazolam(경구),lopinavir + ritonavir,"진정작용의 증가 및 연장, 호흡저하",
+411,midazolam(경구),nelfinavir,진정작용의 증가 및 연장 ,
+412,midazolam(경구),ritonavir,"진정작용의 연장 또는 증가, 호흡저하",
+413,midecamycin,anhydrous caffeine + ergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+414,midecamycin,dihydroergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+417,minocycline,tretinoin,두개내 고혈압,
+418,mirodenafil,isosorbide dinitrate,혈압강하증가,
+419,mirodenafil,isosorbidemononitrate,혈압강하작용 증강,? 
+420,mirodenafil,molsidomine,혈압강하증가,
+421,mirodenafil,nicorandil,혈압강하작용 증강,
+422,mirodenafil,nitroglycerin,혈압강하증가,
+423,mirodenafil,nitroprusside,혈압강하증가,
+424,mirodenafil,tadalafil,동일계열 병용투여 금기,
+425,mirodenafil,udenafil,동일계열 병용투여 금기,
+426,mirodenafil,vardenafil,동일계열 병용투여 금기,
+427,mirtazapine,moclobemide,"구역, 구토, 안면홍조, 어지러움, 진전, 산동, 강직, 발한, 고온증, 심장지표의 빠른 변화와 함께 자율신경계의 불안정, 정신상태의 변화",
+428,mirtazapine,selegiline,"구역, 구토, 안면홍조, 어지러움, 진전, 산동, 강직, 발한, 고온증, 심장지표의 빠른 변화와 함께 자율신경계의 불안정, 정신상태의 변화",
+429,mizolastine,roxithromycin,"말초혈관경련, 사지허혈, 감각이상등",
+430,mizolastine,metronidazole,mizolastine의 혈중농도 상승,
+431,moclobemide,dextromethorphan,"경련, 반사항진, 이상고열, 혼수 등",
+432,moclobemide,morphine,"경련, 반사항진, 이상고열, 혼수 등",
+433,moclobemide,nortriptyline,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+434,moclobemide,paroxetine,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+435,moclobemide,pethidine(meperidine),"아편계 약물의 효과 증강. 혼수, 중증의 호흡 억제",
+436,moclobemide,pseudoephedrine + triprolidine,교감신경흥분제의 작용 증강 또는 연장,
+437,moclobemide,selegiline,심각한 혈압저하 위험 증가,
+438,moclobemide,sertraline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+439,moclobemide,sumatriptan,수마트립탄의 혈장농도 증가,
+440,moclobemide,tramadol,"세로토닌 작용에 의한 증후군(중추흥분, 설사, 빈맥, 땀, 진전, 혼동, 혼수 등) 야기",
+441,moclobemide,venlafaxine,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+442,molsidomine,sildenafil,혈압강하작용 증강,
+443,naratriptan,sumatriptan,"상가적인 혈관수축반응, 현저한 혈압상승",
+444,naratriptan,zolmitriptan,"상가적인 혈관수축반응, 현저한 혈압상승",
+445,naratriptan,frovatriptan,추가적인 관상혈관 경련으로 고혈압 및 관상 동맥 협착의 위험성 증가,24시간 이내 병용금기
+446,nelfinavir,amiodarone,"부정맥, 혈액장애, 경련등",
+447,nelfinavir,lovastatin,횡문근융해증/근육병증 및 이에 수반되는 급격한 신기능악화,
+448,nelfinavir,quinidine,QT간격 연장,
+449,nelfinavir,rifampicin(rifampin),혈중농도 저하로 항레트로바이러스 약물효과 감소,
+450,netilmicin,furosemide,신독성 및 청각독성증강,
+451,nicorandil,sildenafil,혈관확장작용 증가로 저혈압 효과 상승,
+452,nisoldipine,itraconazole,"Nisoldipine의 혈중농도 상승, 저혈압 및 말초부종 같은 약물이상반응 발생 위험이 증가. Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+453,nisoldipine,ketoconazole,nisoldipine의 혈중농도 상승,
+454,norepinephrine,isoproterenol,"심부정맥, 경우에 따라 심정지",
+455,nortriptyline,selegiline,"근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+456,octreotide,bromocriptine,bromocriptine mesylate 혈중농도 상승,
+457,omeprazole,atazanavir,아타자나비어 효과감소 및 내성발현,
+458,oxapium iodide,sodium iodide(131i),131I 섭취율 저하,1주 이내 병용금기
+459,oxatomide,atropine,항콜린 작용 증가,
+460,pantoprazole,atazanavir,아타자나비르의 혈중농도 감소 ,
+461,paricalcitol,calcitriol + alendronate,고칼슘혈증,
+462,paroxetine,selegiline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+463,pentamidine,amisulpride,심실성 부정맥(특히 torsades de pointes) 위험 증가,
+464,pentamidine,zalcitabine,췌장염 유발,
+465,perphenazine,epinephrine,혈압강하효과,
+466,pethidine(meperidine),selegiline,"중추 흥분, 설사, 빈맥, 땀, 진전, 혼동, 혼수상태, 사망을 유발할 수 있는 세로토닌 증후군 보고
+셀레길린-페티딘 병용 시 고도의 흥분, 정신착란 등 보고",
+467,phendimetrazine,mazindol,판막심장병 위험,
+468,phendimetrazine,moclobemide,혈압상승 위험,
+469,phendimetrazine,phentermine,판막심장병 위험,
+470,phendimetrazine,selegiline,혈압상승 위험,
+471,phentermine,mazindol,판막심장병 위험,
+472,phentermine,moclobemide,혈압상승 위험,
+473,phentermine,selegiline,혈압상승 위험,
+474,pimozide,amitriptyline,QT연장,
+475,pimozide,dronedarone,QT 간격 연장,
+476,pimozide,escitalopram,QT 간격 연장,
+477,pimozide,fluoxetine,QT 간격 연장,
+478,pimozide,fluvoxamine,QT 간격 연장,
+479,pimozide,imipramine,QT연장,
+480,pimozide,mizolastine,QT 간격 연장,
+481,pimozide,nortriptyline,QT연장,
+482,pimozide,paroxetine,QT 간격 연장,
+483,pimozide,posaconazole,QT 간격 연장,
+484,pimozide,quinidine,"QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+485,pimozide,ritonavir,"QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+486,pimozide,sertraline,QT 간격 연장,
+487,pimozide,telithromycin,"QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+488,pimozide,toremifene,QT 간격 연장,
+489,pimozide,voriconazole,"QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+490,piroxicam,methotrexate (분류번호 : 421),신세뇨관에서 Methotrexate 배설이 지연되어 Methotrexate의 혈액학적 독성 증가,methotrexate 1주에 15mg 이상 투여시
+491,posaconazole,anhydrous caffeine + ergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+492,posaconazole,lovastatin,근병증 및 횡문근융해,
+493,posaconazole,simvastatin,근병증 및 횡문근융해,
+494,potassium chloride,amiloride,고칼륨혈증,
+495,potassium chloride,spironolactone,고칼륨혈증,
+496,potassium citrate,amiloride,고칼륨혈증 위험 증가,
+497,prednisolone,sparfloxacin,"1. 아킬레스건 파열 및 손상<특히 노인>
+2. 심혈관계 부작용 증가",
+498,procaterol,epinephrine,부정맥 또는 심정지 유도,소생 등의 위급상황 제외
+499,procaterol,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+500,proglumetacin,diflunisal,중증의 위장관계 이상반응,
+501,pseudoephedrine,moclobemide,"고혈압, 빈맥 유발",
+502,pseudoephedrine,selegiline,"고혈압, 빈맥 유발",
+503,quazepam,ritonavir,과도한 진정 및 호흡억제,
+504,quinidine,voriconazole,"QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+505,quinidine,azithromycin,QT간격연장,
+506,quinidine,clarithromycin,QT간격연장,
+507,quinidine,darunavir,QT간격연장,
+508,quinidine,erythromycin,QT간격연장,
+509,quinidine,fluconazole,QT간격연장,
+510,quinidine,indinavir,QT간격연장,
+511,quinidine,josamycin,QT간격연장,
+512,quinidine,ketoconazole,QT간격연장,
+513,quinidine,lopinavir + ritonavir,QT간격연장,
+514,quinidine,posaconazole,QT간격연장,
+515,quinidine,roxithromycin,QT간격연장,
+516,quinidine,spiramycin,QT간격연장,
+517,quinidine,telithromycin,QT간격연장,
+518,quinupramine,moclobemide,혈압변동의 위험,
+519,quinupramine,selegiline,혈압변동의 위험,
+520,rabeprazole,atazanavir,아타자나비르의 혈중농도 감소 ,
+521,repaglinide,gemfibrozil,혈당강하 작용 증강,
+522,revaprazan,atazanavir,아타자나비르의 혈중농도 감소 ,
+523,rifampicin,isradipine,isradipine의 혈장농도 저하,
+524,rifampicin,nifedipine,nifedipine의 혈장농도 저하,
+525,rifampicin,nisoldipine,nisoldipine의 작용 약화,
+526,rifampicin(rifampin),voriconazole,혈중농도가 저하되어 보리코나졸의 약물효과 감소,
+527,ritonavir,blonanserin,신경학적 또는 기타 독성의 빈도 및 강도가 증가,
+528,ritonavir,flecainide,"부정맥, 혈액장애, 경련등",
+529,ritonavir,lovastatin,횡문근융해증/근육병증 및 이에 수반되는 급격한 신기능악화,
+530,ritonavir,quinidine,"QT간격 연장, 심부정맥",
+531,roxithromycin,pimozide,심실부정맥(Torsades de pointes 포함)등의 심혈관계 이상반응,
+532,salbutamol,epinephrine (분류번호 : 245),부정맥 또는 심정지,소생 등의 위급상황 제외
+533,salbutamol,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+534,selegiline,bupropion,bupropion의 급성독성 증가,
+535,selegiline,cyclobenzaprine,"고혈압, 저혈압, 발한을 동반한 심각한 중추신경계 이상반응(현기, 진전, 발작등)",
+536,selegiline,dextromethorphan,"경련, 반사항진, 이상고열, 혼수 등",
+537,selegiline,fluoxetine,"세로토닌성 증후군 (고열, 간대성근경련, 정신상태 변화등)",
+538,selegiline,morphine,"경련, 반사항진, 이상고열, 혼수 등",
+539,selegiline,sertraline,"세로토닌성 증후군 (고열, 간대성근경련, 정신상태 변화등)",
+540,selegiline,sumatriptan,"동맥 고혈압, 관상동맥 수축",
+541,selegiline,tramadol,"중추 흥분, 설사, 빈맥, 땀, 진전, 혼동, 혼수상태, 사망을 유발할 수 있는 세로토닌 증후군 보고",
+542,selegiline,venlafaxine,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+543,sibutramine,diethylpropion,"세로토닌 증후군(간대성 근경련, 진전, 편무도병, 조화운동불능, 말더듬증 고열, 정신상태 변화등) ",
+544,sibutramine,mazindol,"세로토닌 증후군(간대성 근경련, 진전, 편무도병, 조화운동불능, 말더듬증 고열, 정신상태 변화등) ",? 
+545,sibutramine,phendimetrazine,"세로토닌 증후군(간대성 근경련, 진전, 편무도병, 조화운동불능, 말더듬증 고열, 정신상태 변화등)? ",? 
+546,sibutramine,phentermine,"세로토닌 증후군(간대성 근경련, 진전, 편무도병, 조화운동불능, 말더듬증 고열, 정신상태 변화등) ",
+547,sildenafil,indinavir,혈압강하증가,
+548,sildenafil,lopinavir + ritonavir,혈압강하증가,
+549,sildenafil,ritonavir,혈압강하증가,
+550,sildenafil,mirodenafil,동일계열 병용투여 금기,
+551,sildenafil,nitroglycerin,혈압강하작용 증가,
+552,sildenafil,nitroprusside,혈압강하작용 증가,
+553,sildenafil,tadalafil,동일계열 병용투여 금기,
+554,sildenafil,udenafil,동일계열 병용투여 금기,
+555,sildenafil,vardenafil,동일계열 병용투여 금기,
+556,simvastatin,clarithromycin,"근병증, 횡문근융해의 위험증가",
+557,simvastatin,darunavir,근병증/횡문근융해,
+558,simvastatin,erythromycin,"근병증, 횡문근융해의 위험증가",
+559,simvastatin,indinavir,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+560,simvastatin,ketoconazole,"근병증, 횡문근융해의 위험증가",
+561,simvastatin,lopinavir + ritonavir,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+562,simvastatin,nelfinavir,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+563,simvastatin,ritonavir,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+564,simvastatin,telithromycin,근병증 및 횡문근융해? ,
+565,spiramycin,mizolastine,심실운동 특히 Torsade de pointes에 대한 위험 증가,
+566,spironolactone,triamterene,고칼륨혈증 위험 증가,
+567,sumatriptan,clomipramine,세로토닌 증후군,
+568,sumatriptan,ergotamine,상가적인 혈관경련,
+569,sumatriptan,lithium carbonate,세로토닌 증후군,
+570,sumatriptan,zolmitriptan,"상가적인 혈관수축반응, 현저한 혈압상승",
+571,tacrolimus,amiloride,고칼륨혈증,
+572,tacrolimus,spironolactone,고칼륨혈증,
+573,tadalafil,isosorbide dinitrate,혈압강하작용 증가,
+574,tadalafil,isosorbide mononitrate,혈압강하작용 증가,
+575,tadalafil,molsidomine,혈압강하작용 증가,
+576,tadalafil,nicorandil,혈압강하작용 증강,
+577,tadalafil,nitroglycerin,혈압강하작용 증가,
+578,tadalafil,nitroprusside,혈압강하작용 증가,
+579,telithromycin,anhydrous caffeine + ergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+580,telithromycin,amiodarone,QT 간격 연장으로 심실성 부정맥 위험 증가 가능,
+581,tenoxicam,methotrexate,혈액학적 독성,methotrexate 1주에 20mg 이상 투여시
+582,terbutaline,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+583,terbutaline,epinephrine,부정맥 또는 심정지 유도,소생 등의 위급상황 제외
+584,thiothixene,bromocriptine,bromocryptine의 효과 저해,
+585,tiaprofenic acid(tiaprofenate),methotrexate (분류번호 : 421),신세뇨관에서 Methotrexate 배설이 지연되어 Methotrexate의 혈액학적 독성 증가,methotrexate 1주에 15mg 이상 투여시
+586,tizanidine,ciprofloxacin,"저혈압에 의해 졸음, 현기증 및 정신운동능력 감소",
+587,tranexamic acid,thrombin,혈전형성,
+588,tretinoin,doxycycline,두개내 고혈압,
+589,tretinoin,oxytetracycline,두개내 고혈압,
+590,tretinoin,tetracycline,두개내 고혈압,
+592,triazolam,josamycin,triazolam 의 약리학적 효과 및 작용(수면유도) 증가,
+593,trifluoperazine,epinephrine,혈압강하,
+594,tulobuterol,epinephrine (분류번호 : 245),부정맥 또는 심정지,소생 등의 응급상황 제외
+595,tulobuterol,norepinephrine,부정맥 또는 심정지,소생 등의 응급상황 제외
+596,udenafil,isosorbide dinitrate,혈압강하작용 증가,
+597,udenafil,isosorbide mononitrate,혈압강하작용 증가,
+598,udenafil,molsidomine,혈압강하작용 증가,
+599,udenafil,nicorandil,혈압강하작용 증강,
+600,udenafil,nitroglycerin,혈압강하작용 증가,
+601,udenafil,nitroprusside,혈압강하작용 증가,
+602,udenafil,tadalafil,동일계열 병용투여 금기,
+605,valproic acid(valproate),imipenem + cilastatin,간질 발작 재발,
+606,valproic acid(valproate),meropenem,간질 발작 재발,
+607,valproic acid(valproate),panipenem + betamipron,간질 발작 재발,
+608,vardenafil,amiodarone,혈압강하증가,
+609,vardenafil,atazanavir,혈압강하증가,
+610,vardenafil,cobicistat + elvitegravir + emtricitabine + tenofovir,혈압강하증가,
+611,vardenafil,darunavir,혈압강하증가,
+612,vardenafil,dronedarone,혈압강하증가,
+613,vardenafil,indinavir,혈압강하증가,
+614,vardenafil,lopinavir + ritonavir,혈압강하증가,
+615,vardenafil,nelfinavir,혈압강하증가,
+616,vardenafil,ritonavir,혈압강하증가,
+617,vardenafil,sotalol,혈압강하증가,
+618,vardenafil,isosorbide dinitrate,혈압강하작용 증가,
+619,vardenafil,isosorbide mononitrate,혈압강하작용 증가,
+620,vardenafil,molsidomine,혈압강하작용 증가,
+621,vardenafil,nicorandil,혈압강하작용 증강,
+622,vardenafil,nitroglycerin,혈압강하작용 증가,
+623,vardenafil,nitroprusside,혈압강하작용 증가,
+624,vardenafil,tadalafil,동일계열 병용투여 금기,
+625,vardenafil,udenafil,동일계열 병용투여 금기,
+626,ziprasidone,dronedarone,QT 간격 연장,
+627,ziprasidone,mizolastine,QT 간격 연장,
+628,ziprasidone,pimozide,QT 간격 연장,
+629,ziprasidone,toremifene,QT 간격 연장,
+630,zolmitriptan,moclobemide,졸미트립탄의 혈중농도 증가,
+631,zuclopenthixol,epinephrine,혈압강하,
+632,cyproterone + ethinyl estradiol,desogestrel + ethinyl estradiol(정제),혈전색전증 위험을 높임,? 
+633,cyproterone + ethinyl estradiol,drospirenone + ethinyl estradiol(정제),혈전색전증 위험을 높임,? 
+634,cyproterone + ethinyl estradiol,etonogestrel(이식제(피하 삽입)),혈전색전증 위험을 높임,? 
+635,cyproterone + ethinyl estradiol,etonogestrel + ethinyl estradiol(질내삽입링),혈전색전증 위험을 높임,? 
+636,cyproterone + ethinyl estradiol,gestodene + ethinyl estradiol(정제),혈전색전증 위험을 높임,? 
+637,cyproterone + ethinyl estradiol,"levonorgestrel(정제, 이식제(자궁내 삽입))",혈전색전증 위험을 높임,? 
+639,cyproterone + ethinyl estradiol,levonorgestrel + ethinyl estradiol(정제),혈전색전증 위험을 높임,? 
+640,cyproterone + ethinyl estradiol,medroxyprogesterone (주사제),혈전색전증 위험을 높임,? 
+641,dexlansoprazole,atazanavir,Atazanavir의 치료효과 감소 및 내성발현 위험 증가,? 
+642,esomeprazole,nelfinavir,Nelfinavir의 치료효과 감소 및 내성발현 위험 증가,? 
+643,olanzapine(정제),epinephrine,중증의 혈압강하를 일으킬 수 있음,? 
+644,omeprazole,nelfinavir,Nelfinavir의 치료효과 감소 및 내성발현 위험 증가,? 
+645,agomelatine,fluvoxamine,아고멜라틴 혈중농도 증가,
+646,agomelatine,ciprofloxacin,아고멜라틴 혈중농도 증가,
+647,dabigatran,cyclosporine,다비가트란의 혈중농도가 상승하여 출혈위험 증가,? 
+648,dabigatran,dronedarone,다비가트란의 혈중농도가 상승하여 출혈위험 증가,? 
+649,dabigatran,itraconazole,다비가트란의 혈중농도가 상승하여 출혈위험 증가,? 
+650,doripenem,valproic acid(valproate),발프론산의 혈중농도를  감소시켜 간질발작 재발의 위험 증가,? 
+653,doripenem,divalproex,발프론산의 혈중농도를  감소시켜 간질발작 재발의 위험 증가,? 
+654,etravirine,carbamazepine,에트라비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+655,etravirine,phenobarbital,에트라비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+656,etravirine,phenytoin,에트라비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+657,etravirine,rifampicin,에트라비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+658,etravirine,st. john’s wort,에트라비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+659,febuxostat,mercaptopurine,메르캅토푸린의 혈중농도 증가,? 
+660,febuxostat,azathioprine,아자치오프린의 혈중농도 증가,? 
+661,fosaprepitant,pimozide,피모짓의 혈중농도 증가,? 
+662,iguratimod,warfarin,와파린작용 증대,? 
+663,ivabradine,itraconazole,"Ivabradine의 혈중농도 증가, 심방세동, 서맥, 심방정지 및 심장 차단 같은 Ivabradine 관련 약물이상반응 발생 위험이 증가함. Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",? 
+664,ivabradine,clarithromycin,이바브라딘의 혈중농도 증가,? 
+665,ivabradine,erythromycin,이바브라딘의 혈중농도 증가,? 
+666,ivabradine,nelfinavir,이바브라딘의 혈중농도 증가,? 
+667,ivabradine,ritonavir,이바브라딘의 혈중농도 증가,? 
+668,rasagiline,moclobemide,"고혈압위기, 세로토닌증후군 발생 위험 증가",? 
+669,rasagiline,selegiline,"고혈압위기, 세로토닌증후군 발생 위험 증가",? 
+670,rasagiline,pethidine(meperidine),"고혈압위기, 세로토닌증후군 발생 위험 증가",? 
+671,rasagiline,tramadol,"고혈압위기, 세로토닌증후군 발생 위험 증가",? 
+672,rasagiline,cyclobenzaprine,"고혈압위기, 세로토닌증후군 발생 위험 증가",? 
+673,rasagiline,st. john’s wort,"고혈압위기, 세로토닌증후군 발생 위험 증가",? 
+674,rilpivirine,carbamazepine,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+675,rilpivirine,oxcarbazepine,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+676,rilpivirine,phenobarbital,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+677,rilpivirine,phenytoin,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+678,rilpivirine,fosphenytoin,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+679,rilpivirine,rifampicin,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+680,rilpivirine,st. john’s wort,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현,? 
+681,Rilpivirine (경구제),omeprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+682,Rilpivirine (경구제),esomeprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+683,Rilpivirine (경구제),lansoprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+684,Rilpivirine (경구제),dexlansoprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+685,Rilpivirine (경구제),pantoprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+686,Rilpivirine (경구제),s-pantoprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+687,Rilpivirine (경구제),rabeprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+688,Rilpivirine (경구제),ilaprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+689,rilpivirine,revaprazan,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+690,rivaroxaban,atazanavir,리바록사반의 혈중농도가 상승하여 출혈위험 증가,? 
+691,rivaroxaban,indinavir,리바록사반의 혈중농도가 상승하여 출혈위험 증가,? 
+692,rivaroxaban,ritonavir,리바록사반의 혈중농도가 상승하여 출혈위험 증가,? 
+693,rivaroxaban,cobicistat + elvitegravir + emtricitabine + tenofovir,리바록사반의 혈중농도가 상승하여 출혈위험 증가,? 
+694,rivaroxaban,itraconazole,"Rivaroxaban의 혈중농도가 상승하여 출혈위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음.",? 
+695,rivaroxaban,voriconazole,리바록사반의 혈중농도가 상승하여 출혈위험 증가,? 
+696,silodosin,clarithromycin,실로도신의 혈중농도 증가,? 
+697,silodosin,itraconazole,"Silodosin의 혈중농도 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",? 
+698,silodosin,ritonavir,실로도신의 혈중농도 증가,? 
+699,ticagrelor,clarithromycin,티카그렐러의 혈중농도 증가,? 
+700,ticagrelor,ritonavir,티카그렐러의 혈중농도 증가,? 
+701,ticagrelor,atazanavir,티카그렐러의 혈중농도 증가,? 
+702,tolvaptan,clarithromycin,톨밥탄의 혈중농도 증가,? 
+703,tolvaptan,itraconazole,"Tolvaptan의 혈중농도 증가로 인한 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음.",? 
+704,tolvaptan,ritonavir,톨밥탄의 혈중농도 증가,? 
+705,tolvaptan,indinavir,톨밥탄의 혈중농도 증가,? 
+706,tolvaptan,nelfinavir,톨밥탄의 혈중농도 증가,? 
+707,domperidone,amiodarone,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+708,domperidone,amisulpride,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+709,domperidone,anagrelide,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+710,domperidone,arsenic trioxide,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+711,domperidone,atazanavir,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성
+강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+712,domperidone,azithromycin,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+713,domperidone,bedaquiline,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+714,domperidone,bepridil,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+715,domperidone,bicalutamide,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+716,domperidone,boceprevir,"강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+717,domperidone,chlorpromazine,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+718,domperidone,ciprofloxacin,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+719,domperidone,citalopram,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+720,domperidone,clarithromycin,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성
+강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+721,domperidone,darunavir,"강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+722,domperidone,degarelix,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+723,domperidone,dolasetron,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+724,domperidone,dronedarone,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+725,domperidone,ebastine,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+726,domperidone,ebastine + pseudoephedrine,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+727,domperidone,erythromycin,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+728,domperidone,escitalopram,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+729,domperidone,fingolimod,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+730,domperidone,fluconazole,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+731,domperidone,granisetron,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+732,domperidone,haloperidol,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+733,domperidone,indinavir,"강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+734,domperidone,itraconazole,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성 강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, Domperidone의 영향(이상반응 포함) 증대 가능성, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",? 
+735,domperidone,ketoconazole,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성
+강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+736,domperidone,levofloxacin,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+737,domperidone,mequitazine,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+738,domperidone,metoclopramide,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+739,domperidone,metoclopramide + pancreatin,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+740,domperidone,mizolastine,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+741,domperidone,moxifloxacin,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+742,domperidone,nelfinavir,"강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+743,domperidone,nilotinib,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+744,domperidone,ondansetron,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+745,domperidone,oxatomide,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+746,domperidone,paliperidone (주사제),"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+747,domperidone,pentamidine,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+748,domperidone,pilsicainide,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+749,domperidone,pimozide,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+750,domperidone,posaconazole,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성
+강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+751,domperidone,prucalopride,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+752,domperidone,radotinib,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+753,domperidone,risperidone (주사제),"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+754,domperidone,ritonavir,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성
+강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+755,domperidone,ritonavir + lopinavir,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성
+강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+756,domperidone,sotalol,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+757,domperidone,telithromycin,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성
+강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+758,domperidone,toremifene,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+759,domperidone,trazodone,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+760,domperidone,vandetanib,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+761,domperidone,venlafaxine,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+762,domperidone,voriconazole,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성
+강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",? 
+763,domperidone,ziprasidone,"QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성",? 
+764,lamivudine,emtricitabine + tenofovir,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+765,lamivudine,emtricitabine + tenofovir + rilpivirine,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+766,lamivudine,emtricitabine + tenofovir + cobicistat + elvitegravir,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+767,lamivudine + zidovudine,emtricitabine + tenofovir,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+768,lamivudine + zidovudine,emtricitabine + tenofovir + rilpivirine,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+769,lamivudine + zidovudine,emtricitabine + tenofovir + cobicistat + elvitegravir,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+770,lamivudine + abacavir,emtricitabine + tenofovir,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+771,lamivudine + abacavir,emtricitabine + tenofovir + rilpivirine,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+772,lamivudine + abacavir,emtricitabine + tenofovir + cobicistat + elvitegravir,"세포내 인산화 방해, 동일한 역전사효소 유전자(M184V) 변이를 통한 바이러스 내성 - 항바이러스 효과 감소",? 
+773,xylometazoline,moclobemide,xylometazoline의 전신작용(고혈압 위험) 증강 또는 연장,? 
+774,xylometazoline,rasagiline,xylometazoline의 전신작용(고혈압 위험) 증강 또는 연장,? 
+775,xylometazoline,selegiline,xylometazoline의 전신작용(고혈압 위험) 증강 또는 연장,? 
+776,boceprevir,alfuzosin,알푸조신의 혈중농도 증가,? 
+777,boceprevir,amiodarone,"부정맥, 혈액장애, 경련등",? 
+778,boceprevir,dihydroergotamine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",? 
+779,boceprevir,doxazosin,독사조신의 혈중농도 증가,? 
+780,boceprevir,ergotamine + anhydrous caffeine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",? 
+781,boceprevir,lovastatin,횡문근융해증/근육병증 및 이에 수반되는 급격한 신기능악화,? 
+782,boceprevir,naftopidil,나프토피딜의 혈중농도 증가,? 
+783,boceprevir,pimozide,"QT연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",? 
+784,boceprevir,propafenone,"부정맥, 혈액장애, 경련등",? 
+785,boceprevir,quetiapine,Quetiapine의 약리학적 효과 및 작용 증가,? 
+786,boceprevir,silodosin,실로도신의 혈중농도 증가,? 
+787,boceprevir,simvastatin,"근병증, 횡문근융해 위험증가",? 
+788,boceprevir,simvastatin + ezetimibe,"근병증, 횡문근융해 위험증가",? 
+789,boceprevir,simvastatin + fenofibrate,"근병증, 횡문근융해 위험증가",? 
+790,boceprevir,tamsulosin,탐스로신의 혈중농도 증가,? 
+791,boceprevir,terazosin,테라조신의 혈중농도 증가,? 
+792,boceprevir,triazolam,Triazolam의 약리학적 효과 및 작용 증가,? 
+793,dolutegravir,pilsicainide,Pilsicainide의 혈중농도 증가로 심실빈맥(Torsades de pointes 포함) 등 심각한 독성 발생 가능성,? 
+794,emtricitabine + tenofovir + rilpivirine,carbamazepine,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성 발현,? 
+795,emtricitabine + tenofovir + rilpivirine,dexlansoprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+796,emtricitabine + tenofovir + rilpivirine,esomeprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+797,emtricitabine + tenofovir + rilpivirine,fosphenytoin,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성 발현,? 
+798,emtricitabine + tenofovir + rilpivirine,ilaprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+799,emtricitabine + tenofovir + rilpivirine,lansoprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+800,emtricitabine + tenofovir + rilpivirine,omeprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+801,emtricitabine + tenofovir + rilpivirine,oxcarbazepine,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성 발현,? 
+802,emtricitabine + tenofovir + rilpivirine,pantoprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+803,emtricitabine + tenofovir + rilpivirine,s-pantoprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+804,emtricitabine + tenofovir + rilpivirine,phenobarbital,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성 발현,? 
+805,emtricitabine + tenofovir + rilpivirine,phenytoin,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성 발현,? 
+806,emtricitabine + tenofovir + rilpivirine,rabeprazole,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+807,emtricitabine + tenofovir + rilpivirine,revaprazan,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,? 
+808,emtricitabine + tenofovir + rilpivirine,rifampicin,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성 발현,? 
+809,emtricitabine + tenofovir + rilpivirine,st. john's wort,릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성 발현,? 
+810,desvenlafaxine,moclobemide,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",? 
+811,desvenlafaxine,selegiline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",? 
+812,vortioxetine,moclobemide,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",? 
+813,vortioxetine,selegiline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",? 
+814,etoricoxib,methotrexate,신세뇨관에서 Methotrexate 배설이 지연되어 Methotrexate의 혈액학적 독성 증가,methotrexate 1주에 15mg 이상 투여시
+815,tapentadol,moclobemide,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",? 
+816,tapentadol,rasagiline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",? 
+817,tapentadol,selegiline,"세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",? 
+818,trastuzumab emtansine,boceprevir,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+819,trastuzumab emtansine,clarithromycin,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+820,trastuzumab emtansine,atazanavir,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+821,trastuzumab emtansine,darunavir,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+822,trastuzumab emtansine,indinavir,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+823,trastuzumab emtansine,itraconazole,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+824,trastuzumab emtansine,nelfinavir,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+825,trastuzumab emtansine,posaconazole,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+826,trastuzumab emtansine,ritonavir,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+827,trastuzumab emtansine,ritonavir + lopinavir,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+828,trastuzumab emtansine,voriconazole,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+829,trastuzumab emtansine,ketoconazole,이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시  DM1 노출과 독성 증가 가능성,? 
+830,duloxetine,fluvoxamine,세로토닌 증후군 위험 증가 가능성,? 
+831,duloxetine,moclobemide,세로토닌 증후군 위험 증가 가능성,? 
+832,duloxetine,selegiline,세로토닌 증후군 위험 증가 가능성,? 
+833,risperidone,epinephrine,중증의 혈압강하를 일으킬 수 있음,? 
+834,diclofenac + misoprostol,ketorolac,중증의 위장관계 이상반응,? 
+835,quetiapine,epinephrine,중증의 혈압강하를 일으킬 수 있음,? 
+836,diltiazem,ivabradine,이바브라딘의 혈중농도 증가,? 
+837,verapamil,ivabradine,이바브라딘의 혈중농도 증가,? 
+838,nitroglycerin,ergotamine + caffeine,"맥각독성(말초허혈, 감각이상, 구역, 구토) 위험 증가",소생 등의 위급상황 제외
+839,nitroglycerin,dihydroergotamine,"맥각독성(말초허혈, 감각이상, 구역, 구토) 위험 증가",소생 등의 위급상황 제외
+840,nitroglycerin,riociguat,혈압강하작용 증가,소생 등의 위급상황 제외
+841,avanafil,riociguat,Guanylate cyclase 자극제의 혈압강하작용 증가,
+842,mirodenafil,riociguat,Guanylate cyclase 자극제의 혈압강하작용 증가,
+843,sildenafil,riociguat,Guanylate cyclase 자극제의 혈압강하작용 증가,
+844,tadalafil,riociguat,Guanylate cyclase 자극제의 혈압강하작용 증가,
+845,udenafil,riociguat,Guanylate cyclase 자극제의 혈압강하작용 증가,
+846,vardenafil,riociguat,Guanylate cyclase 자극제의 혈압강하작용 증가,
+847,dextromethorphan,rasagiline,"경련, 반사항진, 이상고열, 혼수 등",
+848,ephedrine,ergotamine + caffeine,혈관수축 및 혈압상승효과를 증가시킴,
+849,ephedrine,dihydroergotamine,혈관수축 및 혈압상승효과를 증가시킴,
+850,pimozide,cobicistat + elvitegravir +emtricitabine + tenofovir,QT연장 및 심실성부정맥 유발 가능,
+851,pimozide,cobicistat + atazanavir,QT연장 및 심실성부정맥 유발 가능,
+852,pimozide,cobicistat + darunavir,QT연장 및 심실성부정맥 유발 가능,
+853,pimozide,darunavir,QT연장 및 심실성부정맥 유발 가능,
+854,pimozide,indinavir,QT연장 및 심실성부정맥 유발 가능,
+855,pimozide,nelfinavir,QT연장 및 심실성부정맥 유발 가능,
+856,pimozide,fluconazole,QT연장 및 심실성부정맥 유발 가능,
+857,simvastatin,fusidic acid,근육병증의 위험 증가 가능,
+858,simvastatin + ezetimibe,fusidic acid,근육병증의 위험 증가 가능,
+859,simvastatin + ezetimibe,clarithromycin,근육병증의 위험 증가 가능,
+860,simvastatin + ezetimibe,posaconazole,근육병증의 위험 증가 가능,
+861,simvastatin + ezetimibe,ritonavir,근육병증의 위험 증가 가능,
+862,simvastatin + fenofibrate,clarithromycin,근육병증의 위험 증가 가능,
+863,simvastatin + fenofibrate,posaconazole,근육병증의 위험 증가 가능,
+864,simvastatin + fenofibrate,ritonavir,근육병증의 위험 증가 가능,
+865,simvastatin + fenofibrate,fusidic acid,근육병증의 위험 증가 가능,
+866,st. john’s wort,abacavir + lamivudine + dolutegravir,병용 시 항바이러스 약의 치료효과가 떨어지고 내성 발현 가능,
+867,st. john’s wort,efavirenz,병용 시 항바이러스 약의 치료효과가 떨어지고 내성 발현 가능,
+868,st. john’s wort,nevirapine,병용 시 항바이러스 약의 치료효과가 떨어지고 내성 발현 가능,
+869,st. john’s wort,indinavir,병용 시 항바이러스 약의 치료효과가 떨어지고 내성 발현 가능,
+870,st. john’s wort,nelfinavir,병용 시 항바이러스 약의 치료효과가 떨어지고 내성 발현 가능,
+871,st. john’s wort,ritonavir,병용 시 항바이러스 약의 치료효과가 떨어지고 내성 발현 가능,
+872,st. john’s wort,ritonavir + lopinavir,병용 시 항바이러스 약의 치료효과가 떨어지고 내성 발현 가능,
+873,asunaprevir,atazanavir,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+874,asunaprevir,boceprevir,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+875,asunaprevir,bosentan,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+876,asunaprevir,carbamazepine,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+877,asunaprevir,ceritinib,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+878,asunaprevir,clarithromycin,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+879,asunaprevir,cobicistat함유제제,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+880,asunaprevir,crizotinib,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+881,asunaprevir,cyclosporine,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+882,asunaprevir,dabrafenib,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+883,asunaprevir,darunavir,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+884,asunaprevir,dexamethasone,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+885,asunaprevir,diltiazem,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+886,asunaprevir,dronedarone,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+887,asunaprevir,efavirenz,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+888,asunaprevir,enzalutamide,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+889,asunaprevir,erythromycin,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+890,asunaprevir,etravirine,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+891,asunaprevir,flecainide,아수나프레비르 농도상승으로 인하여 심장 부정맥을 유발할 수 있음,
+892,asunaprevir,fluconazole,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+893,asunaprevir,fosphenytoin,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+894,asunaprevir,gemfibrozil,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+895,asunaprevir,imatinib,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+896,asunaprevir,indinavir,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+897,asunaprevir,itraconazole,"Asunaprevir의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+898,asunaprevir,ketoconazole,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+899,asunaprevir,lopinavir + ritonavir,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+900,asunaprevir,mitotane,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+901,asunaprevir,modafinil,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+902,asunaprevir,nafcillin,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+903,asunaprevir,nelfinavir,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+904,asunaprevir,nevirapine,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+905,asunaprevir,nilotinib,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+906,asunaprevir,oxcarbazepine,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+907,asunaprevir,phenobarbital,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+908,asunaprevir,phenytoin,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+909,asunaprevir,posaconazole,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+910,asunaprevir,primidone,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+911,asunaprevir,propafenone,아수나프레비르 농도상승으로 인하여 심장 부정맥을 유발할 수 있음,
+912,asunaprevir,rifabutin,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+913,asunaprevir,rifampicin,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+914,asunaprevir,ritonavir,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+915,asunaprevir,sirolimus,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+916,asunaprevir,st. john's wort,아수나프레비르에 대한 바이러스 반응의 소실을 유발 가능,
+917,asunaprevir,verapamil,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+918,asunaprevir,voriconazole,아수나프레비르의 농도 상승으로 인하여 심각하나 간 관련 이상반응의 발생 가능성을 증가시킬 수 있음,
+919,daclatasvir,amiodarone,중대한 증상성 서맥이 나타날 수 있음. 병용이 필요한 경우 심장 모니터링이 권장됨,
+920,daclatasvir,carbamazepine,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+921,daclatasvir,dexamethasone,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+922,daclatasvir,enzalutamide,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+923,daclatasvir,fosphenytoin,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+924,daclatasvir,mitotane,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+925,daclatasvir,oxcarbazepine,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+926,daclatasvir,phenobarbital,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+927,daclatasvir,phenytoin,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+928,daclatasvir,primidone,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+929,daclatasvir,rifabutin,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+930,daclatasvir,rifampicin,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+931,daclatasvir,st. john's wort,다클라타스비르에 대한 바이러스 반응의 소실을 유발 가능,
+932,sofosbuvir,amiodarone,중대한 증상성 서맥이 나타날 수 있음. 병용이 필요한 경우 심장 모니터링이 권장됨,
+933,sofosbuvir,carbamazepine,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+934,sofosbuvir,fosphenytoin,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+935,sofosbuvir,modafinil,소포스부비르 농도를 감소시켜 소포스부비르의 치료 효과를 감소시킬 수 있음,
+936,sofosbuvir,oxcarbazepine,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+937,sofosbuvir,phenobarbital,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+938,sofosbuvir,phenytoin,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+939,sofosbuvir,primidone,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+940,sofosbuvir,rifabutin,항바이러스제의 혈중 농도 증가로 부작용 발생위험 증가,
+941,sofosbuvir,rifampicin,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+942,sofosbuvir,st. john's wort,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+943,ledipasvir + sofosbuvir,amiodarone,중대한 증상성 서맥이 나타날 수 있음. 병용이 필요한 경우 심장 모니터링이 권장됨,
+944,ledipasvir + sofosbuvir,carbamazepine,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+945,ledipasvir + sofosbuvir,fosphenytoin,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+946,ledipasvir + sofosbuvir,modafinil,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+947,ledipasvir + sofosbuvir,oxcarbazepine,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+948,ledipasvir + sofosbuvir,phenobarbital,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+949,ledipasvir + sofosbuvir,phenytoin,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+950,ledipasvir + sofosbuvir,primidone,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+951,ledipasvir + sofosbuvir,rifabutin,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+952,ledipasvir + sofosbuvir,rifampicin,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+953,ledipasvir + sofosbuvir,rosuvastatin,"로수바스타틴 농도를 현저하게 증가시킬 수 있으며, 이는 횡문근융해증을 포함하여 근육병증의 위험 증가",
+954,ledipasvir + sofosbuvir,st. john's wort,레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료 효과를 감소시킬 수 있음,
+955,itraconazole,ticagrelor,"Ticagrelor는 Itraconazole에 의해 혈장농도가 증가 가능, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+956,omeprazole + sodium bicarbonate,Rilpivirine (경구제),위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+957,omeprazole + sodium bicarbonate,emtricitabine + tenofovir + rilpivirine,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+958,esomeprazole + naproxen,Rilpivirine (경구제),위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+959,esomeprazole + naproxen,emtricitabine + tenofovir + rilpivirine,위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+960,lansoprazole,nelfinavir,치료효과의 손실과 약물내성 나타날 수 있음,
+961,atorvastatin,fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+962,atorvastatin + amlodipine,fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+963,atorvastatin + ezetimibe,fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+964,atorvastatin + irbesartan,fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+965,clarithromycin,colchicine,콜키신에 대한 노출 증가 가능,
+966,hydroxyzine,amiodarone,심부정맥 위험 증가 가능,
+967,hydroxyzine,citalopram,심부정맥 위험 증가 가능,
+968,hydroxyzine,erythromycin,심부정맥 위험 증가 가능,
+969,hydroxyzine,escitalopram,심부정맥 위험 증가 가능,
+970,hydroxyzine,haloperidol,심부정맥 위험 증가 가능,
+971,hydroxyzine,levofloxacin,심부정맥 위험 증가 가능,
+972,hydroxyzine,mefloquine,심부정맥 위험 증가 가능,
+973,hydroxyzine,moxifloxacin,심부정맥 위험 증가 가능,
+974,hydroxyzine,pentamidine,심부정맥 위험 증가 가능,
+975,hydroxyzine,sotalol,심부정맥 위험 증가 가능,
+976,hydroxyzine,toremifene,심부정맥 위험 증가 가능,
+977,hydroxyzine,vandetanib,심부정맥 위험 증가 가능,
+978,oxymetazoline,amitriptyline,"고혈압 초래 가능
+혈관수축작용으로 혈압상승 가능",
+979,oxymetazoline,amoxapine,"고혈압 초래 가능
+혈관수축작용으로 혈압상승 가능",
+980,oxymetazoline,clomipramine,"고혈압 초래 가능
+혈관수축작용으로 혈압상승 가능",
+981,oxymetazoline,dothiepin (dosulepin),"고혈압 초래 가능
+혈관수축작용으로 혈압상승 가능",
+982,oxymetazoline,doxepin,"고혈압 초래 가능
+혈관수축작용으로 혈압상승 가능",
+983,oxymetazoline,imipramine,"고혈압 초래 가능
+혈관수축작용으로 혈압상승 가능",
+984,oxymetazoline,nortriptyline,"고혈압 초래 가능
+혈관수축작용으로 혈압상승 가능",
+985,dabigatran,ketoconazole,다비가트란의 혈중농도 증가,
+986,dabigatran,carbamazepine,다비가트란의 혈중농도 감소,
+987,dabigatran,phenytoin,다비가트란의 혈중농도 감소,
+988,dabigatran,rifampicin,다비가트란의 혈중농도 감소,
+989,dabigatran,st. john’s wort,다비가트란의 혈중농도 감소,
+990,dabigatran,rifampicin + isoniazid,다비가트란의 혈중농도 감소,
+991,dabigatran,rifampicin + isoniazid +pyrazinamide,다비가트란의 혈중농도 감소,
+992,dabigatran,rifampicin + isoniazid +pyrazinamide + ethambutol,다비가트란의 혈중농도 감소,
+993,sertraline,linezolid,세로토닌 증후군 위험 증가 가능성,
+994,pantoprazole,nelfinavir,넬피나비르의 혈장농도가 감소되어 치료효과의 손실과 약물 내성이 나타날 수 있음.,
+995,s-pantoprazole,nelfinavir,넬피나비르의 혈장농도가 감소되어 치료효과의 손실과 약물 내성이 나타날 수 있음.,
+996,palbociclib,clarithromycin,팔보시클립의 혈장 농도 증가,
+997,palbociclib,itraconazole,팔보시클립의 혈장 농도 증가,
+998,palbociclib,ketoconazole,팔보시클립의 혈장 농도 증가,
+999,palbociclib,posaconazole,팔보시클립의 혈장 농도 증가,
+1000,palbociclib,voriconazole,팔보시클립의 혈장 농도 증가,
+1001,palbociclib,indinavir,팔보시클립의 혈장 농도 증가,
+1002,palbociclib,lopinavir+ritonavir,팔보시클립의 혈장 농도 증가,
+1003,palbociclib,nelfinavir,팔보시클립의 혈장 농도 증가,
+1004,palbociclib,ritonavir,팔보시클립의 혈장 농도 증가,
+1005,palbociclib,carbamazepine,팔보시클립의 혈장 농도 감소,
+1006,palbociclib,enzalutamide,팔보시클립의 혈장 농도 감소,
+1007,palbociclib,phenytoin,팔보시클립의 혈장 농도 감소,
+1008,palbociclib,rifampicin (rifampin),팔보시클립의 혈장 농도 감소,
+1009,palbociclib,st. john’s wort,팔보시클립의 혈장 농도 감소,
+1010,elbasvir+grazoprevir,carbamazepine,엘바스비르와 그라조프레비르의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1011,elbasvir+grazoprevir,efavirenz,엘바스비르와 그라조프레비르의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1012,elbasvir+grazoprevir,phenytoin,엘바스비르와 그라조프레비르의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1013,elbasvir+grazoprevir,rifampicin (rifampin),엘바스비르와 그라조프레비르의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1014,elbasvir+grazoprevir,st. john’s wort,엘바스비르와 그라조프레비르의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1015,elbasvir+grazoprevir,atazanavir,그라조프레비르의 혈장 농도가 유의하게 증가하여 ALT 상승 위험 증가 가능,
+1016,elbasvir+grazoprevir,cyclosporin,그라조프레비르의 혈장 농도가 유의하게 증가하여 ALT 상승 위험 증가 가능,
+1017,elbasvir+grazoprevir,darunavir,그라조프레비르의 혈장 농도가 유의하게 증가하여 ALT 상승 위험 증가 가능,
+1018,elbasvir+grazoprevir,lopinavir+ritonavir,그라조프레비르의 혈장 농도가 유의하게 증가하여 ALT 상승 위험 증가 가능,
+1019,ethinylestradiol,ombitasvir+paritaprevir+ritonavir,ALT 수치 상승이 정상최고치(ULN) 대비 5배 이상 나오는 빈도가 유의적으로 높게 나타남,
+1020,ethinylestradiol+gestodene,ombitasvir+paritaprevir+ritonavir,ALT 수치 상승이 정상최고치(ULN) 대비 5배 이상 나오는 빈도가 유의적으로 높게 나타남,
+1021,ethinylestradiol+levonorgestrel,ombitasvir+paritaprevir+ritonavir,ALT 수치 상승이 정상최고치(ULN) 대비 5배 이상 나오는 빈도가 유의적으로 높게 나타남,
+1022,ethinylestradiol+desogestrel,ombitasvir+paritaprevir+ritonavir,ALT 수치 상승이 정상최고치(ULN) 대비 5배 이상 나오는 빈도가 유의적으로 높게 나타남,
+1023,ethinylestradiol+drospirenone,ombitasvir+paritaprevir+ritonavir,ALT 수치가 정상치 상한 기준보다 20배 이상 높게 나타나는데 영향이 있음,
+1024,ethinylestradiol+cyproterone,ombitasvir+paritaprevir+ritonavir,ALT 수치가 정상치 상한 기준보다 20배 이상 높게 나타나는데 영향이 있음,
+1025,methotrexate,nitrous oxide (n2o),"엽산 의존 대사 경로에서 구내염, 골수억제 및 신경독성과 같은 독성을 잠재적으로 유발하는 메토트렉세이트의 효과 증가",
+1026,gemfibrozil,dasabuvir,"다사부비르의 AUC 약 11배, Cmax 약 2배 증가
+다사부비르의 혈중농도 증가는 QT연장을 일으킬 수 있음",
+1027,gemfibrozil,selexipag,"셀레시팍 노출 약 2배 증가, 셀레시팍 활성대사체 노출 약 11배 증가",
+1028,bupropion+naltrexone,diethylpropion,판막심장병 위험,
+1029,bupropion+naltrexone,lorcaserin,안전성 및 유효성 미확립,
+1030,bupropion+naltrexone,mazindol,폐동맥고혈압 위험 증가,
+1031,bupropion+naltrexone,phendimetrazine,판막심장병 위험,
+1032,bupropion+naltrexone,phentermine,판막심장병 위험,
+1033,lorcaserin,diethylpropion,판막심장병 위험,
+1034,lorcaserin,mazindol,폐동맥고혈압 위험 증가,
+1035,lorcaserin,phendimetrazine,판막심장병 위험,
+1036,lorcaserin,phentermine,판막심장병 위험,
+1037,haloperidol,levodopa+carbidopa,Levodopa의 치료효과 감소,
+1038,haloperidol,levodopa+carbidopa+entacapone,Levodopa의 치료효과 감소,
+1039,haloperidol,levodopa+benserazide,Levodopa의 치료효과 감소,
+1040,haloperidol,amiodarone,QT간격 연장 위험 증가,
+1041,haloperidol,dronedarone,QT간격 연장 위험 증가,
+1042,haloperidol,sotalol,QT간격 연장 위험 증가,
+1043,haloperidol,citalopram,QT간격 연장 위험 증가,
+1044,haloperidol,escitalopram,QT간격 연장 위험 증가,
+1045,haloperidol,azithromycin,QT간격 연장 위험 증가,
+1046,haloperidol,clarithromycin,QT간격 연장 위험 증가,
+1047,haloperidol,erythromycin,QT간격 연장 위험 증가,
+1048,haloperidol,levofloxacin,QT간격 연장 위험 증가,
+1049,haloperidol,moxifloxacin,QT간격 연장 위험 증가,
+1050,haloperidol,chlorpromazine,QT간격 연장 위험 증가,
+1051,haloperidol,levomepromazine,QT간격 연장 위험 증가,
+1052,haloperidol,perphenazine,QT간격 연장 위험 증가,
+1053,haloperidol,pimozide,QT간격 연장 위험 증가,
+1054,haloperidol,ziprasidone,QT간격 연장 위험 증가,
+1055,haloperidol,pentamidine,QT간격 연장 위험 증가,
+1056,haloperidol,dolasetron,QT간격 연장 위험 증가,
+1057,haloperidol,toremifene,QT간격 연장 위험 증가,
+1058,haloperidol,vandetanib,QT간격 연장 위험 증가,
+1059,cobicistat+elvitegravir+emtricitabine+tenofovir,carbamazepine,Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능,
+1060,cobicistat+elvitegravir+emtricitabine+tenofovir,phenobarbital,Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능,
+1061,cobicistat+elvitegravir+emtricitabine+tenofovir,phenytoin,Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능,
+1062,cobicistat+elvitegravir+emtricitabine+tenofovir,fosphenytoin,Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능,
+1063,cobicistat+elvitegravir+emtricitabine+tenofovir,rifabutin,Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능,
+1064,cobicistat+elvitegravir+emtricitabine+tenofovir,rifampicin (rifampin),Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능,
+1065,cobicistat+elvitegravir+emtricitabine+tenofovir,st. john’s wort,Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능,
+1066,cobicistat+elvitegravir+emtricitabine+tenofovir,alfuzosin,Alfuzosin 혈중농도 증가,
+1067,cobicistat+elvitegravir+emtricitabine+tenofovir,amiodarone,Amiodarone 혈중농도 증가,
+1068,cobicistat+elvitegravir+emtricitabine+tenofovir,blonanserin,Blonanserin 혈중농도 증가,
+1069,cobicistat+elvitegravir+emtricitabine+tenofovir,dihydroergotamine,"Dihydroergotamine 혈중농도 증가, 말초혈관연축 또는 국소빈혈",
+1070,cobicistat+elvitegravir+emtricitabine+tenofovir,ergometrine,"Ergometrine 혈중농도 증가, 말초혈관연축 또는 국소빈혈",
+1071,cobicistat+elvitegravir+emtricitabine+tenofovir,ergotamine+caffeine,"Ergotamine 혈중농도 증가, 말초혈관연축 또는 국소빈혈",
+1072,cobicistat+elvitegravir+emtricitabine+tenofovir,lovastatin,"Lovastatin 혈중농도 증가, 횡문근융해를 비롯한 근육병증",
+1073,cobicistat+elvitegravir+emtricitabine+tenofovir,simvastatin,"Simvastatin 혈중농도 증가, 횡문근융해를 비롯한 근육병증",
+1074,cobicistat+elvitegravir+emtricitabine+tenofovir,triazolam,"Triazolam 혈중농도 증가, 진정 또는 호흡 억제의 연장 또는 증가",
+1075,cobicistat+elvitegravir+emtricitabine+tenofovir,sildenafil,"Sildenafil 혈중농도 증가, 병용투여 할 경우에는 Sildenafil의 투여용량이 25mg을 초과하지 않도록 하며, 48시간 내 재투여 금지",
+1076,cobicistat+elvitegravir+emtricitabine+tenofovir,tadalafil,"Tadalafil 혈중농도 증가, 병용투여 할 경우에는 Tadalafil의 투여용량이 10mg을 초과하지 않도록 하며, 72시간 내 재투여 금지 ",
+1077,radium 223 dichloride,abiraterone,골절 및 사망률 증가,
+1078,itraconazole,dronedarone,"Dronedarone의 혈중농도 증가, TdP를 포함하는 중대한 심실성 부정맥 같은 Dronedarone 관련 약물이상반응 발생 위험이 증가. Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+1079,itraconazole,mizolastine,"Mizolastine의 혈중농도 증가, QT 연장 같은 Mizolastine 관련 약물이상반응 발생 위험이 증가. Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+1080,itraconazole,irinotecan,"골수억제, 설사 등 이상반응 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+1081,itraconazole,felodipine,"Felodipine의 혈중농도 증가, 저혈압 및 말초부종 같은 약물이상반응 발생 위험이 증가. Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+1082,itraconazole,lercanidipine,"Lercanidipine의 혈중농도 증가, 저혈압 및 말초부종 같은 약물이상반응 발생 위험이 증가. Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+1083,itraconazole,dapoxetine,"Dapoxetine의 혈중농도 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+1084,fluconazole,Erythromycin,"QT연장, Torsade de pointes 위험성 증가",
+1085,voriconazole,rifabutin,"Rifabutin의 혈중농도 증가, Voriconazole의 농도 감소",
+1086,voriconazole,phenobarbital,"Phenobarbital의 혈중농도 증가, Voriconazole의 농도 감소",
+1087,voriconazole,sirolimus,Sirolimus의 농도 증가,
+1088,voriconazole,st. john’s wort,Voriconazole의 농도 감소,
+1089,posaconazole,atorvastatin,횡문근융해를 비롯한 근육병증 발생가능성 증가,
+1090,Atorvastatin,Cyclosporine,혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가,
+1091,Simvastatin,Cyclosporine,혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가,
+1092,Rosuvastatin,Cyclosporine,혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가,
+1093,Lovastatin,Cyclosporine,혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가,
+1094,Pitavastatin,Cyclosporine,혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가,
+1095,Iobitridol,Metformin 함유제제,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+1096,Iodixanol,Metformin 함유제제,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+1097,Iohexol,Metformin 함유제제,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+1098,Iomeprol,Metformin 함유제제,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+1099,Iopamidol,Metformin 함유제제,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+1100,Iopromide,Metformin 함유제제,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+1101,Ioversol,Metformin 함유제제,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+1102,Iodised oil,Metformin 함유제제,기능적 신부전에 의해 유산 산성증 촉진,48시간 이내 병용금기
+1103,Haloperidol,Gemifloxacin,QT간격 연장 위험 증가,
+1104,Pseudoephedrine,Rasagiline,"고혈압, 빈맥 유발",
+1105,Dexbrompheniramine + Pseudoephedrine,Rasagiline,"고혈압, 빈맥 유발",
+1106,Gimeracil + Oteracil + Tegafur,"Fluorouracil(5-Fluorouracil, 5-FU)","해당 약물 병용 시 gimeracil에 의해 fluoropyrimidine 계열 약물의 대사가 감소하여 항암제의 독성이 증가
+gimeracil/oteracil/tegafur 투여 중 및 종료 후 7일 간 해당 성분 투여 금기",
+1107,Gimeracil + Oteracil + Tegafur,Capecitabine,"해당 약물 병용 시 gimeracil에 의해 fluoropyrimidine 계열 약물의 대사가 감소하여 항암제의 독성이 증가
+gimeracil/oteracil/tegafur 투여 중 및 종료 후 7일 간 해당 성분 투여 금기",
+1108,Gimeracil + Oteracil + Tegafur,Doxifluridine,"해당 약물 병용 시 gimeracil에 의해 fluoropyrimidine 계열 약물의 대사가 감소하여 항암제의 독성이 증가
+gimeracil/oteracil/tegafur 투여 중 및 종료 후 7일 간 해당 성분 투여 금기",
+1109,Sulfamethoxazole + Trimethoprim,Methotrexate,신세뇨관에서 methotrexate 배설이 지연되어 methotrexate의 혈액학적 독성 증가,
+1110,Glecaprevir + Pibrentasvir,Atazanavir,Glecaprevir의 혈장 농도가 유의하게 증가하여 ALT 상승 위험 증가 가능,
+1111,Glecaprevir + Pibrentasvir,Atorvastatin,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+1112,Glecaprevir + Pibrentasvir,Simvastatin,횡문근융해증을 비롯한 근육질환 등 중증 이상반응,
+1113,Glecaprevir + Pibrentasvir,Carbamazepine,Glecaprevir와 Pibrentasvir의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1114,Glecaprevir + Pibrentasvir,Phenytoin,Glecaprevir와 Pibrentasvir의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1115,Glecaprevir + Pibrentasvir,Rifampicin(Rifampin),Glecaprevir와 Pibrentasvir의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1116,Glecaprevir + Pibrentasvir,St. John’s wort,Glecaprevir와 Pibrentasvir의 혈장 농도가 유의하게 감소하여 이 약의 바이러스학적 반응 감소 가능,
+1117,Letermovir,Pimozide,"QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+1118,Letermovir,Ergotamine + Caffeine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+1119,Letermovir,Methylergometrine,"맥각독성(혈관경련, 말단 및 기타조직 허혈 등) 위험 증가",
+1120,Netupitant + Palonosetron,Rifampicin(Rifampin),Netupitant의 혈중농도 감소,
+1121,Tegoprazan,Atazanavir,위장 pH의 증가로 atazanavir의 흡수가 저하되어 atazanavir의 치료효과 감소,
+1122,Tegoprazan,Rilpivirine,위장 pH의 증가로 rilpivirine의 흡수가 저하되어 rilpivirine의 치료효과 감소,
+1123,Tegoprazan,Rilpivirine + Dolutegravir,위장 pH의 증가로 rilpivirine의 흡수가 저하되어 rilpivirine의 치료효과 감소,
+1124,Hydroxychloroquine,Amiodarone,"심실성 부정맥, 서맥, 심장 전도장애를 포함한 심장 부정맥 위험성 증가",
+1125,Nirmatrelvir + Ritonavir,Amiodarone 함유제제,1. 금기사유: 심장 부정맥의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1126,Nirmatrelvir + Ritonavir,Ergotamine 함유제제, 1. 금기사유: 사지 및 중추신경계를 포함하는 기타 조직의 혈관 경련 및 허혈을 특징으로 하는 급성 맥각 독성의 잠재적인 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1127,Nirmatrelvir + Ritonavir,Pimozide 함유제제,1. 금기사유: 심장 부정맥과 같은 중대한 및/또는 생명을 위협하는 반응  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1128,Nirmatrelvir + Ritonavir,Sildenafil 함유제제,"1. 금기사유: 시각 이상, 저혈압, 발기 시간 지연 및 실신을 포함한 실데나필 관련 이상반응의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.",
+1129,Nirmatrelvir + Ritonavir,Simvastatin 함유제제,"1. 금기사유: 횡문근 융해증을 포함하는 근육병증의 잠재적인 가능성, 이 약의 투여 시작으로부터 최소 12시간 전에 심바스타틴의 사용을 중단할 것  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.",12시간 이내 병용금기
+1130,Nirmatrelvir + Ritonavir,St. john’s wort 함유제제,"1. 금기사유: 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성  2. CYP3A 유도제의 지연된 효과(offset)로 인해, 중단한 직후에도 팍스로비드를 투여할 수 없습니다.",
+1131,Nirmatrelvir + Ritonavir,Flecainide 함유제제, 1. 금기사유: 심장 부정맥의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1132,Nirmatrelvir + Ritonavir,Lovastatin 함유제제,"1. 금기사유: 횡문근 융해증을 포함하는 근육병증의 잠재적인 가능성, 이 약의 투여 시작으로부터 최소 12시간 전에 로바스타틴의 사용을 중단할 것  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.",12시간 이내 병용금기
+1133,Nirmatrelvir + Ritonavir,Alfuzosin 함유제제,1. 금기사유: 저혈압의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1136,Nirmatrelvir + Ritonavir,Ranolazine 함유제제,1. 금기사유: 중대한 및/또는 생명을 위협하는 반응의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1137,Nirmatrelvir + Ritonavir,Dronedarone 함유제제,1. 금기사유: 심장 부정맥의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1138,Nirmatrelvir + Ritonavir,Colchicine 함유제제,1. 금기사유: 신장 및/또는 간 장애가 있는 환자에서 중대한 및/또는 생명을 위협하는 반응의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1140,Nirmatrelvir + Ritonavir,Triazolam 함유제제,1. 금기사유: 과도한 진정 및 호흡억제의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1141,Nirmatrelvir + Ritonavir,Carbamazepine 함유제제,"1. 금기사유: 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성  2. CYP3A 유도제의 지연된 효과(offset)로 인해, 중단한 직후에도 팍스로비드를 투여할 수 없습니다.",
+1142,Nirmatrelvir + Ritonavir,Phenobarbital 함유제제,"1. 금기사유: 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성  2. CYP3A 유도제의 지연된 효과(offset)로 인해, 중단한 직후에도 팍스로비드를 투여할 수 없습니다.",
+1143,Nirmatrelvir + Ritonavir,Phenytoin 함유제제,"1. 금기사유: 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성  2. CYP3A 유도제의 지연된 효과(offset)로 인해, 중단한 직후에도 팍스로비드를 투여할 수 없습니다.",
+1144,Nirmatrelvir + Ritonavir,Rifampicin(rifampin) 함유제제,"1. 금기사유: 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성, 리파부틴과 같은 다른 항균제로의 대체를 고려할 것  2. CYP3A 유도제의 지연된 효과(offset)로 인해, 중단한 직후에도 팍스로비드를 투여할 수 없습니다.",
+1145,Nirmatrelvir + Ritonavir,Apalutamide 함유제제,"1. 금기사유: 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성  2. CYP3A 유도제의 지연된 효과(offset)로 인해, 중단한 직후에도 팍스로비드를 투여할 수 없습니다.",
+1146,Nirmatrelvir + Ritonavir,Propafenone 함유제제,1. 금기사유: 심장 부정맥의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1147,Nirmatrelvir + Ritonavir,Methylergometrine(methylergonovine) 함유제제,1. 금기사유: 사지 및 중추신경계를 포함하는 기타 조직의 혈관 경련 및 허혈을 특징으로 하는 급성 맥각 독성의 잠재적인 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1148,Divalproex,Mefloquine,메플로퀸은 발프로산의 대사를 증가시키며 경련 효과를 가지고 있으므로 병용투여 시 간질성 발작이 일어날 수 있음,
+1149,Foscarnet,Pentamidine,"신장 손상 악화, 저칼슘혈증이 일어날 수 있음",
+1150,Zinc histidine,D-Penicillamine,아연 흡수를 저해하거나 배출을 증가시킴. 병용 시 최소 한 시간 이상 간격을 두고 투여함,
+1151,Defibrotide,Alteplase,출혈 위험 증가,
+1152,Defibrotide,Tenecteplase,출혈 위험 증가,
+1153,Omidenepag isopropyl,Tafluprost,"중등도 이상의 눈부심, 홍채염 등의 안염증이 유발될 우려가 있음",
+1154,Omidenepag isopropyl,Tafluprost + Timolol,"중등도 이상의 눈부심, 홍채염 등의 안염증이 유발될 우려가 있음",
+1155,Bictegravir + Emtricitabine + Tenofovir alafenamide,Adefovir dipivoxil,양쪽 약물 모두 혈장농도 상승 가능,
+1156,Bictegravir + Emtricitabine + Tenofovir alafenamide,Lamivudine,"라미부딘이 엠트리시타빈의 세포내 인산화를 저해할 수도 있음. 동일한 역전사효소 유전자(M184V) 변이를 통해 바이러스 내성 기전이 일어나므로, 병용 시 치료 효과가 제한적일 수 있음",
+1157,Bictegravir + Emtricitabine + Tenofovir alafenamide,Lamivudine + Abacavir,"라미부딘이 엠트리시타빈의 세포내 인산화를 저해할 수도 있음. 동일한 역전사효소 유전자(M184V) 변이를 통해 바이러스 내성 기전이 일어나므로, 병용 시 치료 효과가 제한적일 수 있음",
+1158,Bictegravir + Emtricitabine + Tenofovir alafenamide,Lamivudine + Dolutegravir,"라미부딘이 엠트리시타빈의 세포내 인산화를 저해할 수도 있음. 동일한 역전사효소 유전자(M184V) 변이를 통해 바이러스 내성 기전이 일어나므로, 병용 시 치료 효과가 제한적일 수 있음",
+1159,Bictegravir + Emtricitabine + Tenofovir alafenamide,Lamivudine + Zidovudine,"라미부딘이 엠트리시타빈의 세포내 인산화를 저해할 수도 있음. 동일한 역전사효소 유전자(M184V) 변이를 통해 바이러스 내성 기전이 일어나므로, 병용 시 치료 효과가 제한적일 수 있음",
+1160,Bictegravir + Emtricitabine + Tenofovir alafenamide,Lamivudine + Abacavir + Dolutegravir,"라미부딘이 엠트리시타빈의 세포내 인산화를 저해할 수도 있음. 동일한 역전사효소 유전자(M184V) 변이를 통해 바이러스 내성 기전이 일어나므로, 병용 시 치료 효과가 제한적일 수 있음",
+1161,Ranolazine,Itraconazole,라놀라진의 혈장 농도 증가,
+1162,Doravirine + Lamivudine + Tenofovir disoproxil,Adefovir dipivoxil,뉴클레오시드 유사체 단독투여 또는 다른 항레트로바이러스제를 병용투여했을 때 치명적인 사례를 포함한 유산산증과 지방증을 동반한 중증 간비대가 보고됨,
+1163,Triazolam,Ritonavir,"진정작용의 연장 또는 증가, 호흡 저하",
+1164,Triazolam,Ritonavir + Lopinavir,"진정작용의 연장 또는 증가, 호흡 저하",
+1165,Irinotecan,St. john's wort,이리노테칸 활성 대사물(SN-38)의 혈중 농도가 저하되어 작용 감소,
+1166,Selegiline,Linezolid,"고혈압 위기의 위험 증가
+투여중지 후 MAO 억제제인 다른 약물을 투여하기까지 적어도 14일 이상 사이를 두어야 함",
+1167,Nirmatrelvir + Ritonavir,Silodosin 함유제제,1. 금기사유: 기립성저혈압의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1168,Nirmatrelvir + Ritonavir,Eplerenone 함유제제,1. 금기사유: 고칼륨혈증의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1169,Nirmatrelvir + Ritonavir,Ivabradine 함유제제,1. 금기사유: 서맥 또는 전도장애의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.,
+1170,Nirmatrelvir + Ritonavir,Tolvaptan 함유제제,"1. 금기사유: 탈수, 저혈량증 및 고칼륨혈증의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.",
+1171,Nirmatrelvir + Ritonavir,Finerenone 함유제제,"1. 금기사유: 고칼륨혈증, 저혈압 및 저나트륨혈증을 포함하는 중대한 이상반응의 가능성  2. 환자의 안전한 의약품 사용을 위해 병용투여를 금지하여 주시기 바랍니다.",
+1172,Nirmatrelvir + Ritonavir,Primidone 함유제제,"1. 금기사유: 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성  2. CYP3A 유도제의 지연된 효과(offset)로 인해, 중단한 직후에도 팍스로비드를 투여할 수 없습니다.",
+1173,Valbenazine,Deutetrabenazine,두 약제는 동일 계열임,
+1174,Dexlansoprazole,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1175,Esomeprazole,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1176,Esomeprazole + Naproxen,Atazanavir,아타자나비르의 혈중농도 감소,
+1177,Esomeprazole + Naproxen,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1178,Esomeprazole + Calcium carbonate,Atazanavir,아타자나비르의 혈중농도 감소,
+1179,Esomeprazole + Calcium carbonate,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1180,Esomeprazole + Calcium carbonate,Rilpivirine (경구제),위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+1181,Esomeprazole + Sodium bicarbonate,Atazanavir,아타자나비르의 혈중농도 감소,
+1182,Esomeprazole + Sodium bicarbonate,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1183,Esomeprazole + Sodium bicarbonate,Rilpivirine (경구제),위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+1184,Esomeprazole + Magnesium hydroxide,Atazanavir,아타자나비르의 혈중농도 감소,
+1185,Esomeprazole + Magnesium hydroxide,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1186,Esomeprazole + Magnesium hydroxide,Rilpivirine (경구제),위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+1187,Ilaprazole,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1188,Lansoprazole,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1189,Lansoprazole + Calcium carbonate,Atazanavir,아타자나비르의 혈중농도 감소,
+1190,Lansoprazole + Calcium carbonate,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1191,Lansoprazole + Calcium carbonate,Rilpivirine (경구제),위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+1192,Omeprazole,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1193,Omeprazole + Sodium bicarbonate,Atazanavir,아타자나비르의 혈중농도 감소,
+1194,Omeprazole + Sodium bicarbonate,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1195,Pantoprazole,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1196,Rabeprazole,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1197,Rabeprazole + Sodium bicarbonate,Atazanavir,아타자나비르의 혈중농도 감소,
+1198,Rabeprazole + Sodium bicarbonate,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1199,Rabeprazole + Sodium bicarbonate,Rilpivirine (경구제),위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소,
+1200,S-pantoprazole sodium,Atazanavir,아타자나비르의 혈중농도 감소,
+1201,S-pantoprazole sodium,Atazanavir + Cobicistat,아타자나비르의 혈중농도 감소,
+1202,Atorvastatin + Amlodipine,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1203,Atorvastatin + Amlodipine,Itraconazole,"근육병증, 횡문근융해증, 간효소 이상 발생 위험 증가",
+1204,Atorvastatin + Amlodipine,Ketoconazole,근질환 위험 증가,
+1205,Atorvastatin + Amlodipine,Posaconazole,횡문근융해증 발생 가능,
+1206,Atorvastatin + Amlodipine,Glecaprevir + Pibrentasvir,횡문근융해증을 포함한 근육병증 위험 가능,
+1207,Atorvastatin + Ezetimibe,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1208,Atorvastatin + Ezetimibe,Itraconazole,"근육병증, 횡문근융해증, 간효소 이상 발생 위험 증가",
+1209,Atorvastatin + Ezetimibe,Ketoconazole,근질환 위험 증가,
+1210,Atorvastatin + Ezetimibe,Posaconazole,횡문근융해증 발생 가능,
+1211,Atorvastatin + Ezetimibe,Glecaprevir + Pibrentasvir,횡문근융해증을 포함한 근육병증 위험 가능,
+1212,Atorvastatin + Irbesartan,Cyclosporine,"근육병증, 횡문근융해 위험 증가 가능",
+1213,Atorvastatin + Irbesartan,Itraconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1214,Atorvastatin + Irbesartan,Ketoconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1215,Atorvastatin + Irbesartan,Posaconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1216,Atorvastatin + Irbesartan,Glecaprevir + Pibrentasvir,횡문근융해증을 포함한 근육병증 위험 가능,
+1217,Atorvastatin + Fimasartan,Fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+1218,Atorvastatin + Fimasartan,Cyclosporine,"근육병증, 횡문근융해 위험 증가 가능",
+1219,Atorvastatin + Fimasartan,Itraconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1220,Atorvastatin + Fimasartan,Ketoconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1221,Atorvastatin + Fimasartan,Posaconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1222,Atorvastatin + Fimasartan,Glecaprevir + Pibrentasvir,횡문근융해증을 포함한 근육병증 위험 가능,
+1223,Atorvastatin + Metformin,Fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+1224,Atorvastatin + Metformin,Cyclosporine,"근육병증, 횡문근융해 위험 증가 가능",
+1225,Atorvastatin + Metformin,Itraconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1226,Atorvastatin + Metformin,Ketoconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1227,Atorvastatin + Metformin,Posaconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1228,Atorvastatin + Metformin,Glecaprevir + Pibrentasvir,횡문근융해증을 포함한 근육병증 위험 가능,
+1229,Atorvastatin + Omega-3-Acid Ethyl Esters 90,Fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+1230,Atorvastatin + Omega-3-Acid Ethyl Esters 90,Cyclosporine,"근육병증, 횡문근융해 위험 증가 가능",
+1231,Atorvastatin + Omega-3-Acid Ethyl Esters 90,Itraconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1232,Atorvastatin + Omega-3-Acid Ethyl Esters 90,Ketoconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1233,Atorvastatin + Omega-3-Acid Ethyl Esters 90,Posaconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1234,Atorvastatin + Omega-3-Acid Ethyl Esters 90,Glecaprevir + Pibrentasvir,횡문근융해증을 포함한 근육병증 위험 가능,
+1235,Atorvastatin + Amlodipine + Candesartan,Fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+1236,Atorvastatin + Amlodipine + Candesartan,Cyclosporine,"근육병증, 횡문근융해 위험 증가 가능",
+1237,Atorvastatin + Amlodipine + Candesartan,Itraconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1238,Atorvastatin + Amlodipine + Candesartan,Ketoconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1239,Atorvastatin + Amlodipine + Candesartan,Posaconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1240,Atorvastatin + Amlodipine + Candesartan,Glecaprevir + Pibrentasvir,횡문근융해증을 포함한 근육병증 위험 가능,
+1241,Atorvastatin + Amlodipine + Valsartan,Fusidic acid,횡문근융해와 같은 중증의 근육이상 보고,
+1242,Atorvastatin + Amlodipine + Valsartan,Cyclosporine,"근육병증, 횡문근융해 위험 증가 가능",
+1243,Atorvastatin + Amlodipine + Valsartan,Itraconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1244,Atorvastatin + Amlodipine + Valsartan,Ketoconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1245,Atorvastatin + Amlodipine + Valsartan,Posaconazole,"근육병증, 횡문근융해 위험 증가 가능",
+1246,Atorvastatin + Amlodipine + Valsartan,Glecaprevir + Pibrentasvir,횡문근융해증을 포함한 근육병증 위험 가능,
+1247,Fluvastatin,Fusidic acid,"횡문근융해증, 근무력증, 동통 발생 가능",
+1248,Lovastatin,Fusidic acid,"근육병증, 횡문근융해 위험 증가 가능",
+1249,Lovastatin,Cobicistat + Atazanavir,횡문근 융해를 포함한 근육병과 같은 중대한 반응 가능,
+1250,Lovastatin,Cobicistat + Darunavir,근육병증과 같은 이상사례 초래 가능,
+1251,Pitavastatin,Fusidic acid,신기능 악화를 수반하는 횡문근융해증 발현 가능,
+1252,Pitavastatin + Ezetimibe,Cyclosporine,신기능 악화를 수반하는 횡문근융해증 발현 가능,
+1253,Pitavastatin + Ezetimibe,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1254,Pitavastatin + Fenofibrate,Cyclosporine,신기능 악화를 수반하는 횡문근융해증 발현 가능,
+1255,Pitavastatin + Fenofibrate,Fusidic acid,"횡문근융해증, 근무력증, 동통 발생 가능",
+1256,Pitavastatin + Valsartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1257,Pitavastatin + Valsartan,Fusidic acid,"횡문근융해증, 근무력증, 동통 발생 가능",
+1258,Pravastatin,Fusidic acid,"횡문근융해증, 근무력증, 동통 발생 가능",
+1259,Pravastatin + Fenofibrate,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1260,Rosuvastatin,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1261,Rosuvastatin + Amlodipine,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1262,Rosuvastatin + Amlodipine,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1263,Rosuvastatin + Amlodipine,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1264,Rosuvastatin + Candesartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1265,Rosuvastatin + Candesartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1266,Rosuvastatin + Candesartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1267,Rosuvastatin + Ezetimibe,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1268,Rosuvastatin + Ezetimibe,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1269,Rosuvastatin + Ezetimibe,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1270,Rosuvastatin + Fimasartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1271,Rosuvastatin + Fimasartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1272,Rosuvastatin + Fimasartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1273,Rosuvastatin + Gemigliptin,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1274,Rosuvastatin + Gemigliptin,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1275,Rosuvastatin + Gemigliptin,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1276,Rosuvastatin + Metformin,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1277,Rosuvastatin + Metformin,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1278,Rosuvastatin + Metformin,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1279,Rosuvastatin + Nebivolol,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1280,Rosuvastatin + Nebivolol,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1281,Rosuvastatin + Nebivolol,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1282,Rosuvastatin + Olmesartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1283,Rosuvastatin + Olmesartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1284,Rosuvastatin + Olmesartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1285,Rosuvastatin + Omega-3-Acid Ethyl Esters 90,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1286,Rosuvastatin + Omega-3-Acid Ethyl Esters 90,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1287,Rosuvastatin + Omega-3-Acid Ethyl Esters 90,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1288,Rosuvastatin + Telmisartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1289,Rosuvastatin + Telmisartan,Fusidic acid,"횡문근융해증, 근무력증, 동통 발생 가능",
+1290,Rosuvastatin + Telmisartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1291,Rosuvastatin + Valsartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1292,Rosuvastatin + Valsartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1293,Rosuvastatin + Valsartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1294,Rosuvastatin + Amlodipine + Fimasartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1295,Rosuvastatin + Amlodipine + Fimasartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1296,Rosuvastatin + Amlodipine + Fimasartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1297,Rosuvastatin + Amlodipine + Olmesartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1298,Rosuvastatin + Amlodipine + Olmesartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1299,Rosuvastatin + Amlodipine + Olmesartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1300,Rosuvastatin + Amlodipine + Telmisartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1301,Rosuvastatin + Amlodipine + Telmisartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1302,Rosuvastatin + Amlodipine + Telmisartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1303,Rosuvastatin + Amlodipine + Valsartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1304,Rosuvastatin + Amlodipine + Valsartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1305,Rosuvastatin + Amlodipine + Valsartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1306,Rosuvastatin + Amlodipine + Losartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1307,Rosuvastatin + Amlodipine + Losartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1308,Rosuvastatin + Amlodipine + Losartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1309,Rosuvastatin + Ezetimibe + Telmisartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1310,Rosuvastatin + Ezetimibe + Telmisartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1311,Rosuvastatin + Ezetimibe + Telmisartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1312,Rosuvastatin + Amlodipine + Ezetimibe + Losartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1313,Rosuvastatin + Amlodipine + Ezetimibe + Losartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1314,Rosuvastatin + Amlodipine + Ezetimibe + Losartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1315,Rosuvastatin + Amlodipine + Ezetimibe + Telmisartan,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1316,Rosuvastatin + Amlodipine + Ezetimibe + Telmisartan,Fusidic acid,횡문근융해증을 포함한 근육 관련 이상반응 보고,
+1317,Rosuvastatin + Amlodipine + Ezetimibe + Telmisartan,Ledipasvir + Sofosbuvir,횡문근융해증을 포함한 근육병증 위험 증가 가능,
+1318,Simvastatin,Cobicistat + Atazanavir,횡문근 융해를 포함한 근육병과 같은 중대한 반응 가능,
+1319,Simvastatin,Cobicistat + Darunavir,근육병증과 같은 이상사례 초래 가능,
+1320,Simvastatin + Amlodipine,Cyclosporine,"근병증, 횡문근융해 위험성 증가 가능",
+1321,Simvastatin + Amlodipine,Fusidic acid,근병증의 위험 증가 가능,
+1322,Simvastatin + Amlodipine,Itraconazole,근병증의 위험 증가 가능,
+1323,Simvastatin + Amlodipine,Ketoconazole,근병증의 위험 증가 가능,
+1324,Simvastatin + Amlodipine,Posaconazole,횡문근융해증 발생 가능,
+1325,Simvastatin + Amlodipine,Clarithromycin,횡문근융해증 보고,
+1326,Simvastatin + Amlodipine,Atazanavir,횡문근융해증을 비롯한 근육질한 위험성 증가 가능,
+1327,Simvastatin + Amlodipine,Darunavir,횡문근융해를 포함한 근질환의 위험 가능,
+1328,Simvastatin + Amlodipine,Ritonavir,횡문근융해를 포함한 근육병증 위험 가능,
+1329,Simvastatin + Amlodipine,Glecaprevir + Pibrentasvir,근병증의 위험 증가 가능,
+1330,Simvastatin + Amlodipine,Lopinavir + Ritonavir,횡문근융해를 포함한 근육병증 위험 가능,
+1331,Simvastatin + Amlodipine,Cobicistat + Atazanavir,횡문근융해를 포함한 근육병증 위험 가능,
+1332,Simvastatin + Amlodipine,Cobicistat + Darunavir,근병증의 위험 증가 가능,
+1333,Simvastatin + Amlodipine,Cobicistat + Elvitegravir + Emtricitabine + Tenofovir,횡문근융해를 포함한 근육병증 위험 가능,
+1334,Simvastatin + Amlodipine,Nirmatrelvir + Ritonavir,횡문근융해증을 포함하는 근육병증 가능,
+1335,Simvastatin + Ezetimibe,Cyclosporine,"근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+1336,Simvastatin + Ezetimibe,Cobicistat + Atazanavir,횡문근융해를 포함한 근육병증 위험 가능,
+1337,Simvastatin + Ezetimibe,Cobicistat + Darunavir,근병증의 위험 증가 가능,
+1338,Simvastatin + Ezetimibe,Glecaprevir + Pibrentasvir,근병증의 위험 증가 가능,
+1339,Simvastatin + Ezetimibe,Cobicistat + Elvitegravir + Emtricitabine + Tenofovir,횡문근융해를 포함한 근육병증 위험 가능,
+1340,Simvastatin + Ezetimibe,Nirmatrelvir + Ritonavir,횡문근융해증을 포함하는 근육병증 가능,
+1341,Chloroquine,Amiodarone,"심실성 부정맥, 서맥, 그리고 심장 전도장애를 포함한 심장 부정맥의 위험성 증가",
+1342,Vincristine,Itraconazole,신경정신계 이상반응 증가,
+1343,Pirfenidone,Rifampicin,Pirfenidone의 혈중농도가 유의하게 감소할 수 있음,
+1344,Finerenone,Clarithromycin,Finerenone 혈중농도의 현저한 증가가 예상됨,
+1345,Finerenone,Itraconazole,"Finerenone의 혈중농도 증가, 치료 효과 및 이상반응 연장이 일어날 수 있음. Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 금기",
+1346,Finerenone,Ritonavir,Finerenone 혈중농도의 현저한 증가가 예상됨,
+1347,Finerenone,Cobicistat 함유제제,Finerenone 혈중농도의 현저한 증가가 예상됨,
+1348,Finerenone,Phenobarbital,Finerenone 혈중농도의 현저한 감소 및 치료효과 감소가 예상됨,
+1349,Finerenone,Carbamazepine,Finerenone 혈중농도의 현저한 감소 및 치료효과 감소가 예상됨,
+1350,Finerenone,Phenytoin,Finerenone 혈중농도의 현저한 감소 및 치료효과 감소가 예상됨,
+1351,Finerenone,St. John's wort,Finerenone 혈중농도의 현저한 감소 및 치료효과 감소가 예상됨,
+1352,Finerenone,Rifampicin,Finerenone 혈중농도의 현저한 감소 및 치료효과 감소가 예상됨,
+1353,Fosnetupitant + Palonosetron,Rifampicin,Fosnetupitant의 혈중농도가 감소하여 약효가 감소할 수 있음,
+1354,Fedratinib,Phenytoin,Fedratinib의 혈중농도를 감소시킬 수 있음,
+1355,Fedratinib,Rifampicin,Fedratinib의 혈중농도를 감소시킬 수 있음,
+1356,Lorlatinib,Carbamazepine,Lorlatinib의 혈중농도를 감소시킬 수 있음,
+1357,Lorlatinib,Phenytoin,Lorlatinib의 혈중농도를 감소시킬 수 있음,
+1358,Lorlatinib,St. John's wort,Lorlatinib의 혈중농도를 감소시킬 수 있음,
+1359,Lorlatinib,Enzalutamide,Lorlatinib의 혈중농도를 감소시킬 수 있음,
+1360,Lorlatinib,Mitotane,Lorlatinib의 혈중농도를 감소시킬 수 있음,
+1361,Lorlatinib,Rifampicin,Lorlatinib의 혈중농도를 감소시킬 수 있음. 총 빌리루빈과 알칼리인산분해효소의 증가 없이 AST와 ALT의 증가와 연관 있음,
+1362,Lorlatinib,Pimozide,Pimozide의 혈중농도가 감소될 수 있음,
+1363,Lorlatinib,Cyclosporine,Cyclosporine의 혈중농도가 감소될 수 있음,
+1364,Lorlatinib,Sirolimus,Sirolimus의 혈중농도가 감소될 수 있음,
+1365,Lorlatinib,Tacrolimus,Tacrolimus의 혈중농도가 감소될 수 있음,
+1366,Lorlatinib,Alfentanil,Alfentanil의 혈중농도가 감소될 수 있음,
+1367,Lorlatinib,Fentanyl,Fentanyl의 혈중농도가 감소될 수 있음,
+1368,Cabotegravir,Phenobarbital,Cabotegravir의 혈중농도를 감소시켜 치료 효과를 감소시킬 수 있음,
+1369,Cabotegravir,Carbamazepine,Cabotegravir의 혈중농도를 감소시켜 치료 효과를 감소시킬 수 있음,
+1370,Cabotegravir,Oxcarbazepine,Cabotegravir의 혈중농도를 감소시켜 치료 효과를 감소시킬 수 있음,
+1371,Cabotegravir,Phenytoin,Cabotegravir의 혈중농도를 감소시켜 치료 효과를 감소시킬 수 있음,
+1372,Cabotegravir,Rifampicin,Cabotegravir의 혈중농도를 감소시켜 치료 효과를 감소시킬 수 있음,
+1373,Sofosbuvir 함유제제,Rifampicin,소포스부비르 혈장 농도를 현저히 떨어트려 소포스부비르의 치료 효과를 감소시킬 수 있음,
+1374,Sofosbuvir 함유제제,Amiodarone,중대한 증상성 서맥이 나타날 수 있음. 병용이 필요한 경우 심장 모니터링이 권장됨,
+1375,Voriconazole,Ivabradine,QTc 연장과 매우 드물게 torsade de pointes 가능,
+1376,Voriconazole,Tolvaptan,Tolvaptan의 혈장 농도 증가 가능,
+1377,Voriconazole,Venetoclax,Venetoclax의 혈장 농도 및 종양용해증후군 위험 증가 가능,만성 림프구성 백혈병 환자에서 치료 시작 시와 용량 증량 기간 동안 병용금기
+1378,Voriconazole,Ritonavir,Voriconazole의 혈장 농도를 감소시켜 항진균 효과를 상실시킬 수 있음,
+1379,Itraconazole,Apixaban,Apixaban 관련 약물이상반응 발생 위험이 증가함,
+1380,Itraconazole,Edoxaban,Edoxaban 관련 약물이상반응 발생 위험이 증가함,
+1381,Itraconazole,Eliglustat,"PR, QTc 및/또는 QRS 심전도 간격 연장, 심부정맥 같은 Eliglustat 관련 약물이상반응 발생 위험이 증가함",
+1382,Itraconazole,Venetoclax,Venetoclax의 혈장 농도 및 종양용해증후군 위험 증가 가능,만성 림프구성 백혈병 환자에서 치료 시작 시와 용량 증량 기간 동안 병용금기
+1383,Cyproheptadine 함유제제,Rasagiline,MAO 저해제의 효과를 증가시킬 수 있음,
+1384,Cyproheptadine 함유제제,Selegiline,MAO 저해제의 효과를 증가시킬 수 있음,
+1385,Filgotinib,Cyclosporine,면역억제 효과 증가,
+1386,Filgotinib,Tacrolimus,면역억제 효과 증가,
+1387,Tofacitinib,Cyclosporine,면역억제 효과 증가,
+1388,Tofacitinib,Tacrolimus,면역억제 효과 증가,
+1389,Tofacitinib,Azathioprine,면역억제 효과 증가,
+1390,Metoclopramide,Levodopa 함유제제,레보도파의 효과 감소 ,
