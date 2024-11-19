@@ -1,0 +1,2538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="613101ATB" />
+    <node id="495502ACE" />
+    <node id="242901ACH" />
+    <node id="474801ATB" />
+    <node id="209302ATB" />
+    <node id="474802ATB" />
+    <node id="474804ATB" />
+    <node id="107501ATB" />
+    <node id="495501ACE" />
+    <node id="107504ATB" />
+    <node id="173701ATB" />
+    <node id="203401ATB" />
+    <node id="203402ATB" />
+    <node id="161501ACH" />
+    <node id="242901ATB" />
+    <node id="161501ATB" />
+    <node id="474803ATB" />
+    <node id="242902ATB" />
+    <node id="227003ATB" />
+    <node id="161502ACH" />
+    <node id="209304ATR" />
+    <node id="428103ATR" />
+    <node id="196202ATB" />
+    <node id="193207ACR" />
+    <node id="247502ACR" />
+    <node id="193201ACR" />
+    <node id="227002ATB" />
+    <node id="687602ATR" />
+    <node id="227001ATB" />
+    <node id="428102ATR" />
+    <node id="193209ATR" />
+    <node id="193203ATR" />
+    <node id="247504ACR" />
+    <node id="209305ATR" />
+    <node id="193202ACR" />
+    <node id="193205ACR" />
+    <node id="107502ATB" />
+    <node id="626401ATR" />
+    <node id="196201ATB" />
+    <node id="193204ATR" />
+    <node id="226401ATB" />
+    <node id="193208ACR" />
+    <node id="626402ATR" />
+    <node id="196201ATD" />
+    <node id="161502ATB" />
+    <node id="196204ATB" />
+    <node id="193206ATR" />
+    <node id="242903ATR" />
+    <node id="687701ATR" />
+    <node id="687702ATR" />
+    <node id="687601ATR" />
+    <node id="428101ATB" />
+    <node id="193201ATB" />
+    <node id="196204ATD" />
+    <node id="161502ATD" />
+    <node id="136302ACH" />
+    <node id="136301ACH" />
+    <node id="209301ATB" />
+    <node id="196202ATD" />
+    <node id="193202ATB" />
+    <edge source="613101ATB" target="495502ACE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="613101ATB" target="242901ACH">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="613101ATB" target="474801ATB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="613101ATB" target="209302ATB">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="613101ATB" target="474802ATB">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="613101ATB" target="474804ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="613101ATB" target="107501ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="613101ATB" target="495501ACE">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="613101ATB" target="203401ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="613101ATB" target="161501ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="242901ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="474803ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="613101ATB" target="242902ATB">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="613101ATB" target="227003ATB">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="613101ATB" target="161502ACH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="613101ATB" target="209304ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="613101ATB" target="428103ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="613101ATB" target="196202ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="613101ATB" target="247502ACR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="613101ATB" target="193201ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="227002ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="613101ATB" target="687602ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="227001ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="613101ATB" target="428102ATR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="613101ATB" target="193209ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="613101ATB" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="209305ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="613101ATB" target="193202ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="626401ATR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="613101ATB" target="196201ATB">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="613101ATB" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="626402ATR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="613101ATB" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="161502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="196204ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="613101ATB" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="242903ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="613101ATB" target="687701ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="613101ATB" target="687702ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="613101ATB" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="495502ACE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="242901ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="474801ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="495502ACE" target="209302ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="474802ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="107501ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="495501ACE">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="495502ACE" target="107504ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="173701ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="203401ATB">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="495502ACE" target="203402ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="161501ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="242901ATB">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="495502ACE" target="474803ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="495502ACE" target="242902ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="161502ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="495502ACE" target="209304ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="495502ACE" target="428103ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="196202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="247502ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="227002ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="495502ACE" target="227001ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="495502ACE" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="495502ACE" target="196204ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="495502ACE" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495502ACE" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="242901ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="474801ATB">
+      <data key="d0">31.0</data>
+    </edge>
+    <edge source="242901ACH" target="209302ATB">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="242901ACH" target="474802ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="474804ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ACH" target="107501ATB">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="242901ACH" target="495501ACE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="242901ACH" target="107504ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="242901ACH" target="173701ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="203401ATB">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="242901ACH" target="161501ACH">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ACH" target="242901ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="474803ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="242902ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ACH" target="161502ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="209304ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="428103ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="196202ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="242901ACH" target="247502ACR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ACH" target="227002ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="242901ACH" target="227001ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ACH" target="428102ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="247504ACR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="242901ACH" target="209305ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="626401ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ACH" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ACH" target="626402ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="196201ATD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="242901ACH" target="161502ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ACH" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="196204ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ACH" target="196202ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="474801ATB">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="474801ATB" target="474802ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="474804ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="474801ATB" target="107501ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="495501ACE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="474801ATB" target="107504ATB">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="474801ATB" target="173701ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="203401ATB">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="474801ATB" target="203402ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="161501ACH">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474801ATB" target="242901ATB">
+      <data key="d0">65.0</data>
+    </edge>
+    <edge source="474801ATB" target="161501ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="474803ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474801ATB" target="242902ATB">
+      <data key="d0">23.0</data>
+    </edge>
+    <edge source="474801ATB" target="227003ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="161502ACH">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="474801ATB" target="428103ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="196202ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="193207ACR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474801ATB" target="247502ACR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="474801ATB" target="193201ACR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="474801ATB" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="687602ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="227001ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474801ATB" target="428102ATR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="474801ATB" target="193209ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="193203ATR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="474801ATB" target="247504ACR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474801ATB" target="193202ACR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474801ATB" target="193205ACR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="474801ATB" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="626401ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="196201ATB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="474801ATB" target="193204ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474801ATB" target="626402ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474801ATB" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="196204ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="193206ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="474801ATB" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="687701ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="428101ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474801ATB" target="193201ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="474801ATB" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474801ATB" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="209302ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="474802ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="209302ATB" target="107501ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="209302ATB" target="495501ACE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="107504ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="209302ATB" target="173701ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="209302ATB" target="203401ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="203402ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="161501ACH">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="209302ATB" target="242901ATB">
+      <data key="d0">23.0</data>
+    </edge>
+    <edge source="209302ATB" target="242902ATB">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="209302ATB" target="161502ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="209304ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="209302ATB" target="428103ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="196202ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="247502ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="227002ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="687602ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="227001ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="428102ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="209302ATB" target="193209ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="193203ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="209305ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="626401ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="193208ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="626402ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="196201ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="242903ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209302ATB" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="687702ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="193201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="209302ATB" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209302ATB" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="474802ATB">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="474802ATB" target="107501ATB">
+      <data key="d0">39.0</data>
+    </edge>
+    <edge source="474802ATB" target="495501ACE">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="474802ATB" target="107504ATB">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="474802ATB" target="173701ATB">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="474802ATB" target="203401ATB">
+      <data key="d0">26.0</data>
+    </edge>
+    <edge source="474802ATB" target="203402ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="161501ACH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="474802ATB" target="242901ATB">
+      <data key="d0">135.0</data>
+    </edge>
+    <edge source="474802ATB" target="161501ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="474803ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474802ATB" target="242902ATB">
+      <data key="d0">76.0</data>
+    </edge>
+    <edge source="474802ATB" target="227003ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="161502ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="209304ATR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="474802ATB" target="428103ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474802ATB" target="196202ATB">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="474802ATB" target="193207ACR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474802ATB" target="247502ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="193201ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474802ATB" target="227002ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474802ATB" target="687602ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="227001ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="428102ATR">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="474802ATB" target="193209ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="474802ATB" target="193203ATR">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="474802ATB" target="247504ACR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="474802ATB" target="193202ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="626401ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474802ATB" target="196201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474802ATB" target="193204ATR">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="474802ATB" target="193208ACR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474802ATB" target="626402ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474802ATB" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="193206ATR">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="474802ATB" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="687601ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474802ATB" target="428101ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474802ATB" target="193201ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="474802ATB" target="196204ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="161502ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474802ATB" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474802ATB" target="196202ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474802ATB" target="193202ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474804ATB" target="474804ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="107501ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="107504ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="203402ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="242901ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="474804ATB" target="474803ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474804ATB" target="242902ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="474804ATB" target="161502ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="209304ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="193207ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="687602ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474804ATB" target="428102ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="193209ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="196204ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474804ATB" target="193206ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474804ATB" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474804ATB" target="161502ATD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474804ATB" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="107501ATB">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="107501ATB" target="495501ACE">
+      <data key="d0">32.0</data>
+    </edge>
+    <edge source="107501ATB" target="107504ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="173701ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="203401ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="107501ATB" target="161501ACH">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="107501ATB" target="242901ATB">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="107501ATB" target="474803ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="107501ATB" target="242902ATB">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="107501ATB" target="161502ACH">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="107501ATB" target="209304ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="107501ATB" target="196202ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="107501ATB" target="247502ACR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="107501ATB" target="227002ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="107501ATB" target="687602ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="227001ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="107501ATB" target="428102ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="107501ATB" target="247504ACR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="107501ATB" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="196201ATB">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="107501ATB" target="196204ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="107501ATB" target="687701ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="107501ATB" target="687702ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="687601ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="107501ATB" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="161502ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="107501ATB" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107501ATB" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="107504ATB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="495501ACE" target="173701ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="495501ACE" target="203401ATB">
+      <data key="d0">23.0</data>
+    </edge>
+    <edge source="495501ACE" target="242901ATB">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="495501ACE" target="161501ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="474803ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="495501ACE" target="242902ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="495501ACE" target="161502ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="495501ACE" target="209304ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="196202ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="495501ACE" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="687602ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="227001ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="428102ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="495501ACE" target="193209ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="209305ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="495501ACE" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="161502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="196204ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="495501ACE" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="495501ACE" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107504ATB" target="107504ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="107504ATB" target="161501ACH">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="107504ATB" target="242901ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="107504ATB" target="474803ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="107504ATB" target="242902ATB">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="107504ATB" target="161502ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107504ATB" target="209304ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107504ATB" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107504ATB" target="227001ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="107504ATB" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107504ATB" target="626401ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="107504ATB" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107504ATB" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107504ATB" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107504ATB" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="173701ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="173701ATB" target="203402ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="242901ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="173701ATB" target="474803ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="173701ATB" target="242902ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="173701ATB" target="227003ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="173701ATB" target="161502ACH">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="173701ATB" target="193207ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="247502ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="173701ATB" target="193201ACR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="173701ATB" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="227001ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="173701ATB" target="428102ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="173701ATB" target="193203ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="173701ATB" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="193202ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="173701ATB" target="193205ACR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="173701ATB" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="173701ATB" target="161502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="193206ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="173701ATB" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="173701ATB" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203401ATB" target="203401ATB">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="203401ATB" target="203402ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="203401ATB" target="161501ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="203401ATB" target="242901ATB">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="203401ATB" target="161501ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203401ATB" target="474803ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203401ATB" target="242902ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="203401ATB" target="227003ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="203401ATB" target="161502ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="203401ATB" target="209304ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="203401ATB" target="247502ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203401ATB" target="227001ATB">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="203401ATB" target="209305ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203401ATB" target="196201ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="203401ATB" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203401ATB" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203401ATB" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203402ATB" target="203402ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203402ATB" target="474803ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203402ATB" target="242902ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203402ATB" target="428103ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="203402ATB" target="196202ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="203402ATB" target="227002ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="203402ATB" target="227001ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="203402ATB" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161501ACH" target="161501ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161501ACH" target="242901ATB">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="161501ACH" target="474803ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="242902ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="161501ACH" target="161502ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161501ACH" target="196202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="193207ACR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161501ACH" target="247502ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161501ACH" target="193201ACR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161501ACH" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="227001ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161501ACH" target="428102ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161501ACH" target="193209ATR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="161501ACH" target="193203ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="161501ACH" target="247504ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161501ACH" target="193202ACR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="161501ACH" target="193205ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161501ACH" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161501ACH" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="626402ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="193206ATR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="161501ACH" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="687601ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161501ACH" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="193201ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="161501ACH" target="161502ATD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161501ACH" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ACH" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ATB" target="242901ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="242901ATB" target="161501ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ATB" target="474803ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="242901ATB" target="242902ATB">
+      <data key="d0">42.0</data>
+    </edge>
+    <edge source="242901ATB" target="161502ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ATB" target="209304ATR">
+      <data key="d0">22.0</data>
+    </edge>
+    <edge source="242901ATB" target="428103ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="242901ATB" target="196202ATB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="242901ATB" target="193207ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="247502ACR">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="242901ATB" target="193201ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ATB" target="227002ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="687602ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="227001ATB">
+      <data key="d0">45.0</data>
+    </edge>
+    <edge source="242901ATB" target="428102ATR">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="242901ATB" target="193209ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ATB" target="209305ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="242901ATB" target="193202ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="107502ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="626401ATR">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="242901ATB" target="196201ATB">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="242901ATB" target="193204ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="242901ATB" target="193208ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ATB" target="626402ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="196201ATD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ATB" target="161502ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="242901ATB" target="196204ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="242901ATB" target="193206ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ATB" target="687701ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242901ATB" target="687702ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ATB" target="687601ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242901ATB" target="161502ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242901ATB" target="209301ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="242901ATB" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ATB" target="227003ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ATB" target="193207ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ATB" target="193201ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ATB" target="687602ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ATB" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ATB" target="193205ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ATB" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161501ATB" target="161502ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161501ATB" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="242902ATB">
+      <data key="d0">22.0</data>
+    </edge>
+    <edge source="474803ATB" target="161502ACH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="474803ATB" target="209304ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="428103ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474803ATB" target="196202ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474803ATB" target="247502ACR">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="474803ATB" target="193201ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="687602ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474803ATB" target="227001ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474803ATB" target="428102ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="193209ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474803ATB" target="193203ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474803ATB" target="247504ACR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="474803ATB" target="193205ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="626401ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474803ATB" target="196201ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474803ATB" target="193204ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="474803ATB" target="196204ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474803ATB" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="242903ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474803ATB" target="687702ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474803ATB" target="687601ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="474803ATB" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="193201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474803ATB" target="136302ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="474803ATB" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="474803ATB" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="242902ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242902ATB" target="227003ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="161502ACH">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="242902ATB" target="209304ATR">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="242902ATB" target="428103ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242902ATB" target="196202ATB">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="242902ATB" target="247502ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="193201ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="227002ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="242902ATB" target="687602ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242902ATB" target="227001ATB">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="242902ATB" target="428102ATR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="242902ATB" target="247504ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242902ATB" target="209305ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242902ATB" target="193205ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="196201ATB">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="242902ATB" target="193208ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="626402ATR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="242902ATB" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="161502ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242902ATB" target="196204ATB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="242902ATB" target="193206ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242902ATB" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="687702ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242902ATB" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="193201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="242902ATB" target="161502ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242902ATB" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242902ATB" target="196202ATD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="227003ATB" target="193207ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227003ATB" target="193201ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227003ATB" target="227001ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="227003ATB" target="428102ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227003ATB" target="193203ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227003ATB" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227003ATB" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227003ATB" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227003ATB" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227003ATB" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="161502ACH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="161502ACH" target="209304ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="428103ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="196202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="193207ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="247502ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="193201ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="227002ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161502ACH" target="227001ATB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="161502ACH" target="428102ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="193209ATR">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="161502ACH" target="193203ATR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="161502ACH" target="247504ACR">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="161502ACH" target="209305ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="193202ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="193205ACR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161502ACH" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="626401ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161502ACH" target="196201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161502ACH" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="193208ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="626402ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="196201ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="193206ATR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="161502ACH" target="242903ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="687701ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="428101ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="161502ACH" target="193201ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="161502ACH" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ACH" target="136302ACH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ACH" target="136301ACH">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161502ACH" target="209301ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209304ATR" target="209304ATR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="209304ATR" target="428103ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="196202ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="209304ATR" target="193207ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="247502ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="227001ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="428102ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="209304ATR" target="247504ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209304ATR" target="209305ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209304ATR" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="626402ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="209304ATR" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="196204ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="209304ATR" target="242903ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="209304ATR" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209304ATR" target="193201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="428103ATR" target="247502ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428103ATR" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428103ATR" target="428102ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428103ATR" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428103ATR" target="626402ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428103ATR" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428103ATR" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="193207ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="247502ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="227002ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="227001ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="428102ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="196202ATB" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="196202ATB" target="626402ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196202ATB" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193207ACR" target="193201ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193207ACR" target="227002ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="193207ACR" target="227001ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193207ACR" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193207ACR" target="193202ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193207ACR" target="193205ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193207ACR" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193207ACR" target="161502ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="193207ACR" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193207ACR" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193207ACR" target="193201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193207ACR" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="247502ACR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="247502ACR" target="227002ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="247502ACR" target="687602ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="227001ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="247502ACR" target="428102ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="247502ACR" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="247504ACR">
+      <data key="d0">24.0</data>
+    </edge>
+    <edge source="247502ACR" target="209305ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="193202ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="247502ACR" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="196204ATB">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="247502ACR" target="242903ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="247502ACR" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="193201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="247502ACR" target="161502ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="247502ACR" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247502ACR" target="193202ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193201ACR" target="193201ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193201ACR" target="227001ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193201ACR" target="428102ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193201ACR" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193201ACR" target="193202ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193201ACR" target="193205ACR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="193201ACR" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193201ACR" target="193208ACR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="193201ACR" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193201ACR" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193201ACR" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="227002ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="227002ATB" target="687602ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="227001ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="227002ATB" target="428102ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227002ATB" target="193209ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227002ATB" target="193203ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="227002ATB" target="193202ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="107502ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227002ATB" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="193204ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="227002ATB" target="626402ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="196204ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227002ATB" target="193206ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="227002ATB" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="687701ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227002ATB" target="687702ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227002ATB" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687602ATR" target="227001ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="687602ATR" target="428102ATR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="687602ATR" target="193209ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687602ATR" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687602ATR" target="209305ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687602ATR" target="161502ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="687602ATR" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687602ATR" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687602ATR" target="687601ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="687602ATR" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="227001ATB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="227001ATB" target="428102ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="193209ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227001ATB" target="193203ATR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="227001ATB" target="247504ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="193202ACR">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="227001ATB" target="193205ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="107502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="196201ATB">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="227001ATB" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="626402ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="196204ATB">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="227001ATB" target="193206ATR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="227001ATB" target="242903ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227001ATB" target="687702ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="227001ATB" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="193201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227001ATB" target="209301ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="227001ATB" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="227001ATB" target="193202ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="428102ATR" target="193209ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="428102ATR" target="193203ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="428102ATR" target="247504ACR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="428102ATR" target="209305ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="193205ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="626401ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="428102ATR" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="193204ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="428102ATR" target="193208ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="626402ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="428102ATR" target="196204ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="428102ATR" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="428102ATR" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193209ATR" target="193203ATR">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="193209ATR" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193209ATR" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193209ATR" target="161502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193209ATR" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193209ATR" target="687702ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="193209ATR" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193209ATR" target="193201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193209ATR" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="193203ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="196201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="193204ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193203ATR" target="626402ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="161502ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="193201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193203ATR" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193203ATR" target="193202ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="247504ACR" target="209305ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247504ACR" target="193202ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="247504ACR" target="196201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="247504ACR" target="196204ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="247504ACR" target="193201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="247504ACR" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209305ATR" target="626401ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209305ATR" target="196201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="209305ATR" target="196204ATB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="209305ATR" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209305ATR" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209305ATR" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209305ATR" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209305ATR" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="209305ATR" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193202ACR" target="193205ACR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="193202ACR" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193202ACR" target="193208ACR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="193202ACR" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193205ACR" target="193204ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193205ACR" target="193208ACR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193205ACR" target="687702ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193205ACR" target="193201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="193205ACR" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193205ACR" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="107502ATB" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="626401ATR" target="196201ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="626401ATR" target="626402ATR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="626401ATR" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="626401ATR" target="196204ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="626401ATR" target="428101ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="626401ATR" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="626401ATR" target="196204ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="626401ATR" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATB" target="626402ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="196201ATB" target="196201ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATB" target="196204ATB">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="196201ATB" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATB" target="242903ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="196201ATB" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATB" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATB" target="209301ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATB" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193204ATR" target="161502ATB">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="193204ATR" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193204ATR" target="193206ATR">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="193204ATR" target="687701ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193204ATR" target="687702ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="193204ATR" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193204ATR" target="193202ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193208ACR" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="626402ATR" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="626402ATR" target="428101ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="626402ATR" target="196204ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="626402ATR" target="161502ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATD" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATD" target="196204ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196201ATD" target="196202ATD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="161502ATB" target="161502ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="161502ATB" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="161502ATB" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196204ATB" target="196204ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196204ATB" target="242903ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196204ATB" target="687702ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196204ATB" target="687601ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="196204ATB" target="193201ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196204ATB" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="196204ATB" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193206ATR" target="193206ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193206ATR" target="193201ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="193206ATR" target="161502ATD">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193206ATR" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="193206ATR" target="193202ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="242903ATR" target="687701ATR">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="242903ATR" target="687601ATR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242903ATR" target="136301ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242903ATR" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="242903ATR" target="193202ATB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687701ATR" target="687702ATR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="687701ATR" target="136302ACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687701ATR" target="196202ATD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="687601ATR" target="193201ATB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="193201ATB" target="193201ATB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="193201ATB" target="193202ATB">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="161502ATD" target="161502ATD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="136302ACH" target="136301ACH">
+      <data key="d0">2.0</data>
+    </edge>
+  </graph>
+</graphml>
