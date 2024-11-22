@@ -1,0 +1,1279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-22">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="dynamic" name="" timeformat="date">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="size" type="double" />
+    </attributes>
+    <nodes>
+      <node id="428102ATR" label="428102ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="75.59322033898304" />
+        </attvalues>
+      </node>
+      <node id="209304ATR" label="209304ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="71.01694915254237" />
+        </attvalues>
+      </node>
+      <node id="227001ATB" label="227001ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="89.32203389830508" />
+        </attvalues>
+      </node>
+      <node id="161501ACH" label="161501ACH" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="77.11864406779661" />
+        </attvalues>
+      </node>
+      <node id="203402ATB" label="203402ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="48.13559322033898" />
+        </attvalues>
+      </node>
+      <node id="428103ATR" label="428103ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="48.13559322033898" />
+        </attvalues>
+      </node>
+      <node id="474801ATB" label="474801ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="90.84745762711864" />
+        </attvalues>
+      </node>
+      <node id="196202ATB" label="196202ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="61.86440677966102" />
+        </attvalues>
+      </node>
+      <node id="209302ATB" label="209302ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="83.22033898305085" />
+        </attvalues>
+      </node>
+      <node id="193204ATR" label="193204ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="57.288135593220346" />
+        </attvalues>
+      </node>
+      <node id="196204ATB" label="196204ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="75.59322033898304" />
+        </attvalues>
+      </node>
+      <node id="242901ATB" label="242901ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="90.84745762711864" />
+        </attvalues>
+      </node>
+      <node id="203401ATB" label="203401ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="52.71186440677966" />
+        </attvalues>
+      </node>
+      <node id="107502ATB" label="107502ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="35.932203389830505" />
+        </attvalues>
+      </node>
+      <node id="161502ACH" label="161502ACH" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="89.32203389830508" />
+        </attvalues>
+      </node>
+      <node id="428101ATB" label="428101ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="42.03389830508475" />
+        </attvalues>
+      </node>
+      <node id="227002ATB" label="227002ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="83.22033898305085" />
+        </attvalues>
+      </node>
+      <node id="193207ACR" label="193207ACR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="49.66101694915254" />
+        </attvalues>
+      </node>
+      <node id="626402ATR" label="626402ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="58.813559322033896" />
+        </attvalues>
+      </node>
+      <node id="227003ATB" label="227003ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="42.03389830508475" />
+        </attvalues>
+      </node>
+      <node id="193203ATR" label="193203ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="58.813559322033896" />
+        </attvalues>
+      </node>
+      <node id="161502ATB" label="161502ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="38.983050847457626" />
+        </attvalues>
+      </node>
+      <node id="209305ATR" label="209305ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="49.66101694915254" />
+        </attvalues>
+      </node>
+      <node id="209301ATB" label="209301ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="48.13559322033898" />
+        </attvalues>
+      </node>
+      <node id="247504ACR" label="247504ACR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="67.96610169491525" />
+        </attvalues>
+      </node>
+      <node id="161501ATB" label="161501ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="34.40677966101695" />
+        </attvalues>
+      </node>
+      <node id="196204ATD" label="196204ATD" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="13.050847457627118" />
+        </attvalues>
+      </node>
+      <node id="161502ATD" label="161502ATD" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="60.33898305084745" />
+        </attvalues>
+      </node>
+      <node id="193202ACR" label="193202ACR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="46.610169491525426" />
+        </attvalues>
+      </node>
+      <node id="626401ATR" label="626401ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="57.288135593220346" />
+        </attvalues>
+      </node>
+      <node id="687602ATR" label="687602ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="54.237288135593225" />
+        </attvalues>
+      </node>
+      <node id="242903ATR" label="242903ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="52.71186440677966" />
+        </attvalues>
+      </node>
+      <node id="687702ATR" label="687702ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="34.40677966101695" />
+        </attvalues>
+      </node>
+      <node id="474804ATB" label="474804ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="61.86440677966102" />
+        </attvalues>
+      </node>
+      <node id="107501ATB" label="107501ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="74.0677966101695" />
+        </attvalues>
+      </node>
+      <node id="247502ACR" label="247502ACR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="80.16949152542374" />
+        </attvalues>
+      </node>
+      <node id="136301ACH" label="136301ACH" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="32.88135593220339" />
+        </attvalues>
+      </node>
+      <node id="193209ATR" label="193209ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="46.610169491525426" />
+        </attvalues>
+      </node>
+      <node id="495501ACE" label="495501ACE" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="67.96610169491525" />
+        </attvalues>
+      </node>
+      <node id="193201ATB" label="193201ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="74.0677966101695" />
+        </attvalues>
+      </node>
+      <node id="196201ATB" label="196201ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="71.01694915254237" />
+        </attvalues>
+      </node>
+      <node id="193208ACR" label="193208ACR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="29.83050847457627" />
+        </attvalues>
+      </node>
+      <node id="242901ACH" label="242901ACH" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="84.7457627118644" />
+        </attvalues>
+      </node>
+      <node id="613101ATB" label="613101ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="75.59322033898304" />
+        </attvalues>
+      </node>
+      <node id="193206ATR" label="193206ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="61.86440677966102" />
+        </attvalues>
+      </node>
+      <node id="107504ATB" label="107504ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="54.237288135593225" />
+        </attvalues>
+      </node>
+      <node id="495502ACE" label="495502ACE" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="67.96610169491525" />
+        </attvalues>
+      </node>
+      <node id="196201ATD" label="196201ATD" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="35.932203389830505" />
+        </attvalues>
+      </node>
+      <node id="242902ATB" label="242902ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="89.32203389830508" />
+        </attvalues>
+      </node>
+      <node id="136302ACH" label="136302ACH" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="40.50847457627118" />
+        </attvalues>
+      </node>
+      <node id="193202ATB" label="193202ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="49.66101694915254" />
+        </attvalues>
+      </node>
+      <node id="193201ACR" label="193201ACR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="54.237288135593225" />
+        </attvalues>
+      </node>
+      <node id="474803ATB" label="474803ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="83.22033898305085" />
+        </attvalues>
+      </node>
+      <node id="173701ATB" label="173701ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="75.59322033898304" />
+        </attvalues>
+      </node>
+      <node id="687601ATR" label="687601ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="43.559322033898304" />
+        </attvalues>
+      </node>
+      <node id="193205ACR" label="193205ACR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="49.66101694915254" />
+        </attvalues>
+      </node>
+      <node id="196202ATD" label="196202ATD" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="38.983050847457626" />
+        </attvalues>
+      </node>
+      <node id="687701ATR" label="687701ATR" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="48.13559322033898" />
+        </attvalues>
+      </node>
+      <node id="474802ATB" label="474802ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="98.47457627118645" />
+        </attvalues>
+      </node>
+      <node id="226401ATB" label="226401ATB" start="2021-01-01T00:00:00.000" end="2021-12-31T23:59:59.000">
+        <attvalues>
+          <attvalue for="0" value="11.525423728813559" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="428102ATR" target="474801ATB" id="0" weight="17.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="474802ATB" id="1" weight="49.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="242902ATB" id="2" weight="28.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="196204ATB" id="3" weight="15.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="626401ATR" id="4" weight="9.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="495501ACE" id="5" weight="3.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="474803ATB" id="6" weight="29.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="227001ATB" id="7" weight="30.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="196201ATB" id="8" weight="6.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="173701ATB" id="9" weight="9.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="161502ACH" id="10" weight="47.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="193209ATR" id="11" weight="9.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="474804ATB" id="12" weight="10.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="242901ATB" id="13" weight="32.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="107504ATB" id="14" weight="1.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="247504ACR" id="15" weight="5.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="209302ATB" id="16" weight="13.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="203401ATB" id="17" weight="2.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="193204ATR" id="18" weight="7.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="242901ACH" id="19" weight="6.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="495502ACE" id="20" weight="3.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="613101ATB" id="21" weight="19.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="209305ATR" id="22" weight="3.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="161502ATD" id="23" weight="5.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="107502ATB" id="24" weight="2.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="107501ATB" id="25" weight="4.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="193203ATR" id="26" weight="5.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="626402ATR" id="27" weight="9.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="247502ACR" id="28" weight="22.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="193201ATB" id="29" weight="3.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="196202ATB" id="30" weight="3.0" start="2021-02-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="161501ACH" id="31" weight="5.0" start="2021-02-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="227002ATB" id="32" weight="4.0" start="2021-02-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="209301ATB" id="33" weight="6.0" start="2021-02-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="209304ATR" id="34" weight="6.0" start="2021-02-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="193201ACR" id="35" weight="3.0" start="2021-12-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="687602ATR" id="36" weight="5.0" start="2021-12-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="428101ATB" id="37" weight="2.0" start="2021-12-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="227003ATB" id="38" weight="1.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="193205ACR" id="39" weight="2.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="193208ACR" id="40" weight="2.0" start="2021-12-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="193206ATR" id="41" weight="1.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428102ATR" target="428103ATR" id="42" weight="1.0" start="2021-12-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="242901ATB" id="43" weight="66.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="203401ATB" id="44" weight="17.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="196201ATB" id="45" weight="25.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="196204ATB" id="46" weight="29.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="242901ACH" id="47" weight="36.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="242902ATB" id="48" weight="42.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="107501ATB" id="49" weight="23.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="474803ATB" id="50" weight="14.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="203402ATB" id="51" weight="1.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="161502ACH" id="52" weight="14.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="242903ATR" id="53" weight="6.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="474802ATB" id="54" weight="16.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="209305ATR" id="55" weight="26.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="193208ACR" id="56" weight="4.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="247504ACR" id="57" weight="7.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="495501ACE" id="58" weight="7.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="193207ACR" id="59" weight="2.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="193205ACR" id="60" weight="1.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="626402ATR" id="61" weight="33.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="209302ATB" id="62" weight="4.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="495502ACE" id="63" weight="7.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="626401ATR" id="64" weight="8.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="173701ATB" id="65" weight="2.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="227001ATB" id="66" weight="7.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="196202ATD" id="67" weight="1.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="613101ATB" id="68" weight="22.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="196202ATB" id="69" weight="10.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="107504ATB" id="70" weight="2.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="428103ATR" id="71" weight="14.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="247502ACR" id="72" weight="20.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="227002ATB" id="73" weight="3.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="209301ATB" id="74" weight="4.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="474801ATB" id="75" weight="2.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="193201ATB" id="76" weight="1.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="161501ACH" id="77" weight="2.0" start="2021-02-03T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="196201ATD" id="78" weight="1.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="687602ATR" id="79" weight="1.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="687701ATR" id="80" weight="1.0" start="2021-12-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209304ATR" target="474804ATB" id="81" weight="1.0" start="2021-12-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="196201ATD" id="82" weight="4.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="196201ATB" id="83" weight="31.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="242901ATB" id="84" weight="178.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="242902ATB" id="85" weight="69.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="227002ATB" id="86" weight="121.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193205ACR" id="87" weight="15.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193201ACR" id="88" weight="27.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193206ATR" id="89" weight="21.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193204ATR" id="90" weight="13.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="173701ATB" id="91" weight="21.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="196204ATB" id="92" weight="30.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="242901ACH" id="93" weight="57.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="474802ATB" id="94" weight="31.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="107501ATB" id="95" weight="39.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="626401ATR" id="96" weight="6.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="474803ATB" id="97" weight="25.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193201ATB" id="98" weight="3.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193202ATB" id="99" weight="8.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="247504ACR" id="100" weight="12.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193203ATR" id="101" weight="19.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="613101ATB" id="102" weight="30.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193202ACR" id="103" weight="10.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="227003ATB" id="104" weight="13.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="107502ATB" id="105" weight="12.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="495501ACE" id="106" weight="13.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193209ATR" id="107" weight="10.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="203401ATB" id="108" weight="28.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="242903ATR" id="109" weight="3.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="209302ATB" id="110" weight="6.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193207ACR" id="111" weight="5.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="495502ACE" id="112" weight="4.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="107504ATB" id="113" weight="6.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="209305ATR" id="114" weight="3.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="193208ACR" id="115" weight="2.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="474801ATB" id="116" weight="15.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="161502ATD" id="117" weight="1.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="626402ATR" id="118" weight="8.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="196202ATD" id="119" weight="5.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="247502ACR" id="120" weight="13.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="161502ACH" id="121" weight="13.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="687602ATR" id="122" weight="4.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="161501ACH" id="123" weight="5.0" start="2021-02-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="209301ATB" id="124" weight="3.0" start="2021-12-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="203402ATB" id="125" weight="2.0" start="2021-12-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="687702ATR" id="126" weight="3.0" start="2021-12-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="687701ATR" id="127" weight="1.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="196202ATB" id="128" weight="2.0" start="2021-12-31T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="428101ATB" id="129" weight="1.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="136302ACH" id="130" weight="1.0" start="2021-12-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227001ATB" target="428103ATR" id="131" weight="1.0" start="2021-12-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="161502ACH" id="132" weight="148.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="242901ATB" id="133" weight="35.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="107504ATB" id="134" weight="8.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="209302ATB" id="135" weight="19.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="474802ATB" id="136" weight="27.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193206ATR" id="137" weight="10.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193201ACR" id="138" weight="8.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="196201ATD" id="139" weight="4.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="242901ACH" id="140" weight="13.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="242902ATB" id="141" weight="16.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="428101ATB" id="142" weight="4.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="107501ATB" id="143" weight="13.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="203401ATB" id="144" weight="12.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193205ACR" id="145" weight="5.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="626401ATR" id="146" weight="4.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193209ATR" id="147" weight="13.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193201ATB" id="148" weight="10.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="227002ATB" id="149" weight="5.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="161502ATD" id="150" weight="5.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193204ATR" id="151" weight="13.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="203402ATB" id="152" weight="2.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193202ACR" id="153" weight="6.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="173701ATB" id="154" weight="1.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="474801ATB" id="155" weight="12.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="209305ATR" id="156" weight="7.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193202ATB" id="157" weight="4.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193203ATR" id="158" weight="9.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="196201ATB" id="159" weight="6.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="193207ACR" id="160" weight="6.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="196202ATB" id="161" weight="3.0" start="2021-02-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="474804ATB" id="162" weight="1.0" start="2021-02-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="687601ATR" id="163" weight="2.0" start="2021-02-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="209301ATB" id="164" weight="2.0" start="2021-02-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="247504ACR" id="165" weight="5.0" start="2021-12-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="247502ACR" id="166" weight="3.0" start="2021-12-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="495502ACE" id="167" weight="1.0" start="2021-12-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="474803ATB" id="168" weight="4.0" start="2021-12-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="626402ATR" id="169" weight="6.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="136301ACH" id="170" weight="2.0" start="2021-12-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="242903ATR" id="171" weight="1.0" start="2021-12-03T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ACH" target="196204ATB" id="172" weight="1.0" start="2021-12-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="474803ATB" id="173" weight="5.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="196204ATB" id="174" weight="1.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="495501ACE" id="175" weight="1.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="474802ATB" id="176" weight="11.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="474801ATB" id="177" weight="4.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="203401ATB" id="178" weight="12.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="242902ATB" id="179" weight="7.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="428103ATR" id="180" weight="3.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="209302ATB" id="181" weight="4.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="227002ATB" id="182" weight="5.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="242901ATB" id="183" weight="3.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="173701ATB" id="184" weight="3.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="495502ACE" id="185" weight="4.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="161502ACH" id="186" weight="1.0" start="2021-02-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="196202ATB" id="187" weight="4.0" start="2021-02-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="247502ACR" id="188" weight="1.0" start="2021-02-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="247504ACR" id="189" weight="1.0" start="2021-02-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="161502ATD" id="190" weight="1.0" start="2021-02-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="196201ATB" id="191" weight="3.0" start="2021-02-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="687602ATR" id="192" weight="2.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="242901ACH" id="193" weight="3.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203402ATB" target="107501ATB" id="194" weight="2.0" start="2021-12-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="193203ATR" id="195" weight="4.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="474803ATB" id="196" weight="21.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="474801ATB" id="197" weight="5.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="242901ATB" id="198" weight="6.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="209302ATB" id="199" weight="3.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="242901ACH" id="200" weight="3.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="613101ATB" id="201" weight="12.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="196202ATD" id="202" weight="2.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="626402ATR" id="203" weight="16.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="474802ATB" id="204" weight="7.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="196204ATB" id="205" weight="10.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="196202ATB" id="206" weight="1.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="495502ACE" id="207" weight="3.0" start="2021-02-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="196201ATB" id="208" weight="2.0" start="2021-02-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="161502ACH" id="209" weight="8.0" start="2021-02-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="193202ACR" id="210" weight="1.0" start="2021-02-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="193201ACR" id="211" weight="1.0" start="2021-02-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="242902ATB" id="212" weight="2.0" start="2021-02-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="193206ATR" id="213" weight="1.0" start="2021-02-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="161502ATD" id="214" weight="1.0" start="2021-02-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428103ATR" target="247502ACR" id="215" weight="6.0" start="2021-12-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="242902ATB" id="216" weight="83.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="242901ATB" id="217" weight="238.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="495501ACE" id="218" weight="39.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="474802ATB" id="219" weight="257.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193201ATB" id="220" weight="28.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="209305ATR" id="221" weight="5.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="203401ATB" id="222" weight="39.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="247502ACR" id="223" weight="19.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="242901ACH" id="224" weight="93.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="107501ATB" id="225" weight="39.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="173701ATB" id="226" weight="23.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="196201ATB" id="227" weight="34.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="626401ATR" id="228" weight="3.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="474803ATB" id="229" weight="5.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193205ACR" id="230" weight="14.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="613101ATB" id="231" weight="23.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="196202ATD" id="232" weight="1.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="196204ATB" id="233" weight="48.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193203ATR" id="234" weight="34.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193202ATB" id="235" weight="9.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="626402ATR" id="236" weight="10.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="495502ACE" id="237" weight="8.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="474804ATB" id="238" weight="14.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193204ATR" id="239" weight="12.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="247504ACR" id="240" weight="16.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="209302ATB" id="241" weight="4.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193206ATR" id="242" weight="17.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="209301ATB" id="243" weight="2.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="227003ATB" id="244" weight="2.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="161502ACH" id="245" weight="21.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="161501ATB" id="246" weight="2.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="428101ATB" id="247" weight="8.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="227002ATB" id="248" weight="8.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193207ACR" id="249" weight="9.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193201ACR" id="250" weight="14.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193209ATR" id="251" weight="6.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="193202ACR" id="252" weight="9.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="687701ATR" id="253" weight="6.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="107504ATB" id="254" weight="20.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="196201ATD" id="255" weight="3.0" start="2021-02-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="136302ACH" id="256" weight="1.0" start="2021-02-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="196202ATB" id="257" weight="6.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="107502ATB" id="258" weight="1.0" start="2021-12-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="687602ATR" id="259" weight="2.0" start="2021-12-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="687601ATR" id="260" weight="5.0" start="2021-12-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="161502ATD" id="261" weight="1.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474801ATB" target="242903ATR" id="262" weight="2.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="626401ATR" id="263" weight="7.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="196201ATB" id="264" weight="27.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="161502ACH" id="265" weight="18.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="242902ATB" id="266" weight="67.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="474802ATB" id="267" weight="44.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="227002ATB" id="268" weight="7.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="242901ATB" id="269" weight="35.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="474803ATB" id="270" weight="22.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="196204ATB" id="271" weight="4.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="613101ATB" id="272" weight="18.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="107501ATB" id="273" weight="25.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="193206ATR" id="274" weight="3.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="687701ATR" id="275" weight="3.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="242903ATR" id="276" weight="15.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="242901ACH" id="277" weight="18.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="495502ACE" id="278" weight="8.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="495501ACE" id="279" weight="6.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="173701ATB" id="280" weight="1.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="247502ACR" id="281" weight="10.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="203401ATB" id="282" weight="1.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="626402ATR" id="283" weight="3.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="247504ACR" id="284" weight="1.0" start="2021-02-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="107502ATB" id="285" weight="2.0" start="2021-02-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="474804ATB" id="286" weight="1.0" start="2021-02-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="193207ACR" id="287" weight="1.0" start="2021-12-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="209302ATB" id="288" weight="3.0" start="2021-12-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATB" target="193201ATB" id="289" weight="1.0" start="2021-12-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="687602ATR" id="290" weight="2.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="242901ATB" id="291" weight="73.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="193205ACR" id="292" weight="3.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="495501ACE" id="293" weight="9.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="161502ACH" id="294" weight="23.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="203401ATB" id="295" weight="29.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="687702ATR" id="296" weight="2.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="107501ATB" id="297" weight="34.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="242902ATB" id="298" weight="58.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="107504ATB" id="299" weight="18.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="136302ACH" id="300" weight="13.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="173701ATB" id="301" weight="10.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="247502ACR" id="302" weight="26.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="613101ATB" id="303" weight="16.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="626401ATR" id="304" weight="5.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="242901ACH" id="305" weight="34.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="196201ATB" id="306" weight="12.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="474802ATB" id="307" weight="23.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="247504ACR" id="308" weight="6.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="242903ATR" id="309" weight="6.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="136301ACH" id="310" weight="7.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="193203ATR" id="311" weight="10.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="161502ATD" id="312" weight="6.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="626402ATR" id="313" weight="4.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="209305ATR" id="314" weight="13.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="196204ATB" id="315" weight="11.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="227002ATB" id="316" weight="3.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="193208ACR" id="317" weight="11.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="193201ACR" id="318" weight="8.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="193201ATB" id="319" weight="14.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="428101ATB" id="320" weight="2.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="196201ATD" id="321" weight="4.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="193209ATR" id="322" weight="6.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="107502ATB" id="323" weight="2.0" start="2021-02-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="687601ATR" id="324" weight="2.0" start="2021-02-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="495502ACE" id="325" weight="5.0" start="2021-02-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="193204ATR" id="326" weight="1.0" start="2021-02-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="687701ATR" id="327" weight="3.0" start="2021-12-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="209301ATB" id="328" weight="2.0" start="2021-12-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209302ATB" target="193206ATR" id="329" weight="1.0" start="2021-12-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="193206ATR" id="330" weight="39.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="161502ACH" id="331" weight="29.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="474802ATB" id="332" weight="35.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="474803ATB" id="333" weight="15.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="193201ATB" id="334" weight="24.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="227002ATB" id="335" weight="21.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="161502ATD" id="336" weight="3.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="474804ATB" id="337" weight="2.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="687701ATR" id="338" weight="3.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="193203ATR" id="339" weight="19.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="193201ACR" id="340" weight="8.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="242901ATB" id="341" weight="5.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="193205ACR" id="342" weight="5.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="242902ATB" id="343" weight="1.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="626401ATR" id="344" weight="1.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="193202ATB" id="345" weight="4.0" start="2021-02-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="613101ATB" id="346" weight="3.0" start="2021-02-03T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="687702ATR" id="347" weight="3.0" start="2021-12-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="196204ATB" id="348" weight="5.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="247502ACR" id="349" weight="5.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="193202ACR" id="350" weight="1.0" start="2021-12-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="242901ACH" id="351" weight="1.0" start="2021-12-03T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="161501ATB" id="352" weight="1.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="227003ATB" id="353" weight="1.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="173701ATB" id="354" weight="1.0" start="2021-12-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193204ATR" target="161502ATB" id="355" weight="1.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="196201ATB" id="356" weight="35.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="242902ATB" id="357" weight="39.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="242901ACH" id="358" weight="37.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="474802ATB" id="359" weight="140.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="626401ATR" id="360" weight="11.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="474803ATB" id="361" weight="17.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="161502ATD" id="362" weight="1.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="107501ATB" id="363" weight="18.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="242901ATB" id="364" weight="52.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="247504ACR" id="365" weight="10.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="613101ATB" id="366" weight="24.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="495502ACE" id="367" weight="14.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="136302ACH" id="368" weight="1.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="495501ACE" id="369" weight="25.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="196201ATD" id="370" weight="5.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="161502ACH" id="371" weight="18.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="247502ACR" id="372" weight="23.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="242903ATR" id="373" weight="3.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="687601ATR" id="374" weight="3.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="193201ATB" id="375" weight="3.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="227003ATB" id="376" weight="3.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="209305ATR" id="377" weight="13.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="626402ATR" id="378" weight="15.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="203401ATB" id="379" weight="9.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="687701ATR" id="380" weight="4.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="474804ATB" id="381" weight="5.0" start="2021-02-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="209301ATB" id="382" weight="1.0" start="2021-02-03T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="173701ATB" id="383" weight="1.0" start="2021-02-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="227002ATB" id="384" weight="5.0" start="2021-12-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="193203ATR" id="385" weight="5.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="107504ATB" id="386" weight="1.0" start="2021-12-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="687602ATR" id="387" weight="1.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATB" target="687702ATR" id="388" weight="1.0" start="2021-12-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="196201ATD" id="389" weight="6.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="196201ATB" id="390" weight="65.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="495501ACE" id="391" weight="47.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="626401ATR" id="392" weight="24.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="161502ACH" id="393" weight="99.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="474802ATB" id="394" weight="437.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="193203ATR" id="395" weight="7.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="107501ATB" id="396" weight="66.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="203401ATB" id="397" weight="49.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="474804ATB" id="398" weight="30.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="227002ATB" id="399" weight="49.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="247504ACR" id="400" weight="40.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="613101ATB" id="401" weight="44.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="242901ACH" id="402" weight="7.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="247502ACR" id="403" weight="56.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="242902ATB" id="404" weight="134.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="193201ATB" id="405" weight="17.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="196202ATD" id="406" weight="4.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="209301ATB" id="407" weight="18.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="161501ATB" id="408" weight="7.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="209305ATR" id="409" weight="31.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="474803ATB" id="410" weight="124.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="193206ATR" id="411" weight="18.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="495502ACE" id="412" weight="40.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="173701ATB" id="413" weight="18.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="428101ATB" id="414" weight="4.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="626402ATR" id="415" weight="17.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="136302ACH" id="416" weight="1.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="107504ATB" id="417" weight="8.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="193202ATB" id="418" weight="2.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="193205ACR" id="419" weight="1.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="161502ATD" id="420" weight="7.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="687601ATR" id="421" weight="4.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="193207ACR" id="422" weight="6.0" start="2021-02-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="687701ATR" id="423" weight="3.0" start="2021-02-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="687602ATR" id="424" weight="2.0" start="2021-02-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="107502ATB" id="425" weight="4.0" start="2021-02-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="242903ATR" id="426" weight="1.0" start="2021-12-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="193201ACR" id="427" weight="1.0" start="2021-12-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="193202ACR" id="428" weight="2.0" start="2021-12-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="161502ATB" id="429" weight="3.0" start="2021-12-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ATB" target="687702ATR" id="430" weight="1.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="495501ACE" id="431" weight="63.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="474802ATB" id="432" weight="80.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="242902ATB" id="433" weight="19.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="474803ATB" id="434" weight="2.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="242901ACH" id="435" weight="28.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="161502ACH" id="436" weight="10.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="196201ATB" id="437" weight="8.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="161501ATB" id="438" weight="2.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="247502ACR" id="439" weight="8.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="107501ATB" id="440" weight="24.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="495502ACE" id="441" weight="18.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="613101ATB" id="442" weight="6.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="626402ATR" id="443" weight="1.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="196202ATD" id="444" weight="2.0" start="2021-02-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="247504ACR" id="445" weight="1.0" start="2021-02-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="193201ACR" id="446" weight="1.0" start="2021-12-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="227003ATB" id="447" weight="2.0" start="2021-12-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="203401ATB" target="227002ATB" id="448" weight="1.0" start="2021-12-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="474802ATB" id="449" weight="7.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="196201ATB" id="450" weight="1.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="613101ATB" id="451" weight="4.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="242901ACH" id="452" weight="6.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="687701ATR" id="453" weight="1.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="107501ATB" id="454" weight="11.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="227002ATB" id="455" weight="2.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="242902ATB" id="456" weight="5.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="136302ACH" id="457" weight="1.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="161502ATB" id="458" weight="2.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107502ATB" target="161502ACH" id="459" weight="4.0" start="2021-02-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="495501ACE" id="460" weight="7.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="196201ATB" id="461" weight="18.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="242902ATB" id="462" weight="67.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="474802ATB" id="463" weight="60.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="136302ACH" id="464" weight="10.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="242903ATR" id="465" weight="8.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="242901ACH" id="466" weight="72.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="227002ATB" id="467" weight="16.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193203ATR" id="468" weight="38.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193206ATR" id="469" weight="31.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193209ATR" id="470" weight="41.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="613101ATB" id="471" weight="17.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="428101ATB" id="472" weight="10.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="247502ACR" id="473" weight="48.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="626401ATR" id="474" weight="9.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="474803ATB" id="475" weight="44.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="173701ATB" id="476" weight="15.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193201ATB" id="477" weight="23.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="626402ATR" id="478" weight="10.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="107501ATB" id="479" weight="37.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193207ACR" id="480" weight="8.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193201ACR" id="481" weight="8.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="495502ACE" id="482" weight="3.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="687601ATR" id="483" weight="4.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="107504ATB" id="484" weight="7.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193208ACR" id="485" weight="9.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193205ACR" id="486" weight="12.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="161501ATB" id="487" weight="3.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193202ACR" id="488" weight="5.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="196201ATD" id="489" weight="6.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="247504ACR" id="490" weight="18.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="687701ATR" id="491" weight="5.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="193202ATB" id="492" weight="3.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="161502ATD" id="493" weight="3.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="209305ATR" id="494" weight="2.0" start="2021-12-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="209301ATB" id="495" weight="5.0" start="2021-12-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="687602ATR" id="496" weight="1.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ACH" target="136301ACH" id="497" weight="2.0" start="2021-12-31T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="242902ATB" id="498" weight="7.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="107501ATB" id="499" weight="3.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="474803ATB" id="500" weight="1.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="474802ATB" id="501" weight="10.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="247504ACR" id="502" weight="4.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="626401ATR" id="503" weight="6.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="626402ATR" id="504" weight="2.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="495502ACE" id="505" weight="5.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="242901ACH" id="506" weight="3.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="474804ATB" id="507" weight="4.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="173701ATB" id="508" weight="3.0" start="2021-02-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="687602ATR" id="509" weight="1.0" start="2021-12-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="227002ATB" id="510" weight="2.0" start="2021-12-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="428101ATB" target="247502ACR" id="511" weight="1.0" start="2021-12-31T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="242901ACH" id="512" weight="29.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193203ATR" id="513" weight="23.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="173701ATB" id="514" weight="9.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193206ATR" id="515" weight="12.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193209ATR" id="516" weight="15.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="196201ATB" id="517" weight="5.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193201ATB" id="518" weight="3.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="107501ATB" id="519" weight="23.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="227003ATB" id="520" weight="8.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193207ACR" id="521" weight="2.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193201ACR" id="522" weight="5.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="107504ATB" id="523" weight="8.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="495502ACE" id="524" weight="6.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="136302ACH" id="525" weight="8.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="242902ATB" id="526" weight="51.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="474803ATB" id="527" weight="12.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="474802ATB" id="528" weight="14.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="242903ATR" id="529" weight="4.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="136301ACH" id="530" weight="5.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="247504ACR" id="531" weight="8.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="626402ATR" id="532" weight="7.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="687701ATR" id="533" weight="3.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="613101ATB" id="534" weight="15.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="495501ACE" id="535" weight="3.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="247502ACR" id="536" weight="11.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="161502ATD" id="537" weight="5.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="687602ATR" id="538" weight="3.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193205ACR" id="539" weight="7.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193202ACR" id="540" weight="1.0" start="2021-02-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="687702ATR" id="541" weight="4.0" start="2021-12-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="193202ATB" id="542" weight="1.0" start="2021-12-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="209301ATB" id="543" weight="2.0" start="2021-12-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227002ATB" target="474804ATB" id="544" weight="1.0" start="2021-12-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="193201ACR" id="545" weight="35.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="227003ATB" id="546" weight="9.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="474803ATB" id="547" weight="1.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="193205ACR" id="548" weight="5.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="474802ATB" id="549" weight="9.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="173701ATB" id="550" weight="3.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="626401ATR" id="551" weight="3.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="193201ATB" id="552" weight="15.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="193202ATB" id="553" weight="1.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="247504ACR" id="554" weight="1.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="247502ACR" id="555" weight="1.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="193202ACR" id="556" weight="6.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="687701ATR" id="557" weight="3.0" start="2021-02-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="193203ATR" id="558" weight="2.0" start="2021-12-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="193206ATR" id="559" weight="2.0" start="2021-12-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="161502ATB" id="560" weight="2.0" start="2021-12-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="687601ATR" id="561" weight="2.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193207ACR" target="161501ATB" id="562" weight="1.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="242902ATB" id="563" weight="31.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="196201ATB" id="564" weight="5.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="613101ATB" id="565" weight="29.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="626401ATR" id="566" weight="33.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="474803ATB" id="567" weight="20.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="242901ACH" id="568" weight="9.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="161501ATB" id="569" weight="2.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="161502ATB" id="570" weight="2.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="474802ATB" id="571" weight="11.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="193201ATB" id="572" weight="2.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="242903ATR" id="573" weight="2.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="193205ACR" id="574" weight="2.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="107501ATB" id="575" weight="1.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="247502ACR" id="576" weight="5.0" start="2021-02-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="247504ACR" id="577" weight="2.0" start="2021-02-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="209305ATR" id="578" weight="1.0" start="2021-02-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="193209ATR" id="579" weight="1.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626402ATR" target="495502ACE" id="580" weight="1.0" start="2021-12-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="209301ATB" id="581" weight="1.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="247504ACR" id="582" weight="2.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="242901ACH" id="583" weight="3.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="193206ATR" id="584" weight="6.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="193203ATR" id="585" weight="7.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="613101ATB" id="586" weight="13.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="193208ACR" id="587" weight="1.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="196201ATB" id="588" weight="2.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="173701ATB" id="589" weight="4.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="193201ACR" id="590" weight="3.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="687701ATR" id="591" weight="1.0" start="2021-12-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="474802ATB" id="592" weight="1.0" start="2021-12-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="227003ATB" target="242902ATB" id="593" weight="1.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="193202ATB" id="594" weight="3.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="193201ATB" id="595" weight="9.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="193206ATR" id="596" weight="150.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="626401ATR" id="597" weight="4.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="193209ATR" id="598" weight="62.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="474803ATB" id="599" weight="17.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="136301ACH" id="600" weight="5.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="474802ATB" id="601" weight="31.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="161502ATB" id="602" weight="1.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="613101ATB" id="603" weight="2.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="247502ACR" id="604" weight="8.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="161502ATD" id="605" weight="2.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="474804ATB" id="606" weight="10.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="173701ATB" id="607" weight="4.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="196201ATB" id="608" weight="1.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="193201ACR" id="609" weight="4.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="242902ATB" id="610" weight="2.0" start="2021-02-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="687602ATR" id="611" weight="1.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193203ATR" target="161501ATB" id="612" weight="1.0" start="2021-12-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="161501ATB" id="613" weight="5.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="242901ACH" id="614" weight="7.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="495502ACE" id="615" weight="2.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="613101ATB" id="616" weight="3.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="193209ATR" id="617" weight="3.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="107501ATB" id="618" weight="1.0" start="2021-02-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="193206ATR" id="619" weight="2.0" start="2021-02-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="242902ATB" id="620" weight="3.0" start="2021-12-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="196202ATD" id="621" weight="2.0" start="2021-12-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="173701ATB" id="622" weight="3.0" start="2021-12-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="193202ACR" id="623" weight="1.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="687602ATR" id="624" weight="2.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATB" target="495501ACE" id="625" weight="1.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="193201ATB" id="626" weight="2.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="242902ATB" id="627" weight="16.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="613101ATB" id="628" weight="11.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="247504ACR" id="629" weight="3.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="242901ACH" id="630" weight="20.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="474802ATB" id="631" weight="7.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="495501ACE" id="632" weight="3.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="173701ATB" id="633" weight="4.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="196201ATB" id="634" weight="2.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="196202ATD" id="635" weight="2.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="107504ATB" id="636" weight="4.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="242903ATR" id="637" weight="5.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="247502ACR" id="638" weight="1.0" start="2021-02-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="136301ACH" id="639" weight="2.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="209301ATB" id="640" weight="2.0" start="2021-12-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209305ATR" target="161502ATD" id="641" weight="2.0" start="2021-12-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="242902ATB" id="642" weight="6.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="474803ATB" id="643" weight="2.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="193201ACR" id="644" weight="1.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="242901ACH" id="645" weight="3.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="474802ATB" id="646" weight="2.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="107501ATB" id="647" weight="5.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="495502ACE" id="648" weight="1.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="495501ACE" id="649" weight="7.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="613101ATB" id="650" weight="5.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="196201ATB" id="651" weight="3.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="687602ATR" id="652" weight="2.0" start="2021-12-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="173701ATB" id="653" weight="2.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="209301ATB" target="193205ACR" id="654" weight="2.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="242902ATB" id="655" weight="13.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="474802ATB" id="656" weight="27.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="242901ACH" id="657" weight="21.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="247502ACR" id="658" weight="100.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="613101ATB" id="659" weight="13.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="161502ATD" id="660" weight="5.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="196201ATB" id="661" weight="11.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="107501ATB" id="662" weight="16.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="474803ATB" id="663" weight="14.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="626401ATR" id="664" weight="1.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="173701ATB" id="665" weight="6.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="193206ATR" id="666" weight="2.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="136301ACH" id="667" weight="2.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="193201ATB" id="668" weight="4.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="495502ACE" id="669" weight="2.0" start="2021-02-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="196201ATD" id="670" weight="1.0" start="2021-12-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="193202ATB" id="671" weight="1.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="193202ACR" id="672" weight="1.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="495501ACE" id="673" weight="1.0" start="2021-12-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247504ACR" target="687601ATR" id="674" weight="1.0" start="2021-12-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ATB" target="193206ATR" id="675" weight="1.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ATB" target="474802ATB" id="676" weight="4.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ATB" target="495501ACE" id="677" weight="2.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ATB" target="242901ACH" id="678" weight="2.0" start="2021-02-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ATB" target="193201ACR" id="679" weight="2.0" start="2021-12-31T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ATB" target="193202ACR" id="680" weight="1.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161501ATB" target="687602ATR" id="681" weight="1.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATD" target="242901ACH" id="682" weight="1.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196204ATD" target="474802ATB" id="683" weight="3.0" start="2021-12-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="107504ATB" id="684" weight="7.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="474802ATB" id="685" weight="10.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="193206ATR" id="686" weight="8.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="613101ATB" id="687" weight="4.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="242901ACH" id="688" weight="9.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="173701ATB" id="689" weight="4.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="242902ATB" id="690" weight="10.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="193202ACR" id="691" weight="1.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="193201ACR" id="692" weight="1.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="193205ACR" id="693" weight="1.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="247502ACR" id="694" weight="5.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="107501ATB" id="695" weight="4.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="495501ACE" id="696" weight="2.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="626401ATR" id="697" weight="1.0" start="2021-02-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="495502ACE" id="698" weight="1.0" start="2021-12-31T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="196201ATB" id="699" weight="3.0" start="2021-12-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="474804ATB" id="700" weight="2.0" start="2021-12-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="161502ATD" target="474803ATB" id="701" weight="1.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="193205ACR" id="702" weight="20.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="193201ACR" id="703" weight="48.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="193208ACR" id="704" weight="7.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="242901ACH" id="705" weight="2.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="247502ACR" id="706" weight="2.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="474804ATB" id="707" weight="2.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="193206ATR" id="708" weight="3.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="474802ATB" id="709" weight="1.0" start="2021-12-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="687602ATR" id="710" weight="1.0" start="2021-12-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="173701ATB" id="711" weight="1.0" start="2021-12-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ACR" target="193202ATB" id="712" weight="1.0" start="2021-12-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="474803ATB" id="713" weight="11.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="613101ATB" id="714" weight="15.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="193209ATR" id="715" weight="4.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="242902ATB" id="716" weight="18.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="242901ACH" id="717" weight="12.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="196201ATB" id="718" weight="9.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="495502ACE" id="719" weight="4.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="193201ATB" id="720" weight="3.0" start="2021-01-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="107501ATB" id="721" weight="1.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="107504ATB" id="722" weight="3.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="474804ATB" id="723" weight="3.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="474802ATB" id="724" weight="4.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="242903ATR" id="725" weight="1.0" start="2021-12-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="626401ATR" target="196202ATD" id="726" weight="1.0" start="2021-12-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="242902ATB" id="727" weight="11.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="173701ATB" id="728" weight="2.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="687601ATR" id="729" weight="3.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="474802ATB" id="730" weight="2.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="474803ATB" id="731" weight="3.0" start="2021-02-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="107504ATB" id="732" weight="1.0" start="2021-02-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="193209ATR" id="733" weight="4.0" start="2021-12-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="474804ATB" id="734" weight="2.0" start="2021-12-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="247502ACR" id="735" weight="2.0" start="2021-12-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="193201ATB" id="736" weight="2.0" start="2021-12-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="193206ATR" id="737" weight="1.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="495501ACE" id="738" weight="1.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687602ATR" target="613101ATB" id="739" weight="1.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="474803ATB" id="740" weight="11.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="495502ACE" id="741" weight="2.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="242901ACH" id="742" weight="6.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="193202ATB" id="743" weight="1.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="247502ACR" id="744" weight="4.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="196201ATB" id="745" weight="6.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="474802ATB" id="746" weight="5.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="196202ATD" id="747" weight="1.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="495501ACE" id="748" weight="1.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="613101ATB" id="749" weight="12.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="136301ACH" id="750" weight="2.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="687701ATR" id="751" weight="1.0" start="2021-12-03T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="242902ATB" id="752" weight="1.0" start="2021-12-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="687601ATR" id="753" weight="1.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242903ATR" target="107501ATB" id="754" weight="1.0" start="2021-12-17T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="474802ATB" id="755" weight="2.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="242901ACH" id="756" weight="5.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="107501ATB" id="757" weight="3.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="613101ATB" id="758" weight="5.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="193209ATR" id="759" weight="5.0" start="2021-02-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="242902ATB" id="760" weight="3.0" start="2021-02-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="687701ATR" id="761" weight="2.0" start="2021-02-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="474803ATB" id="762" weight="5.0" start="2021-12-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="193205ACR" id="763" weight="1.0" start="2021-12-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687702ATR" target="193201ATB" id="764" weight="1.0" start="2021-12-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="242902ATB" id="765" weight="27.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="193201ATB" id="766" weight="4.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="196201ATB" id="767" weight="1.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="495501ACE" id="768" weight="4.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="242901ACH" id="769" weight="11.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="474802ATB" id="770" weight="3.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="193206ATR" id="771" weight="5.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="247502ACR" id="772" weight="1.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="107501ATB" id="773" weight="3.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="107504ATB" id="774" weight="2.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="613101ATB" id="775" weight="5.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="193205ACR" id="776" weight="1.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="193209ATR" id="777" weight="3.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="474803ATB" id="778" weight="1.0" start="2021-02-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="173701ATB" id="779" weight="2.0" start="2021-02-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="196201ATD" id="780" weight="1.0" start="2021-02-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="193202ATB" id="781" weight="1.0" start="2021-12-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="193201ACR" id="782" weight="1.0" start="2021-12-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474804ATB" target="193208ACR" id="783" weight="1.0" start="2021-12-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="474802ATB" id="784" weight="134.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="495501ACE" id="785" weight="110.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="173701ATB" id="786" weight="21.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="107504ATB" id="787" weight="35.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="242901ACH" id="788" weight="54.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="196201ATB" id="789" weight="26.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="247502ACR" id="790" weight="15.0" start="2021-01-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="242902ATB" id="791" weight="59.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="495502ACE" id="792" weight="41.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="474803ATB" id="793" weight="23.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="136301ACH" id="794" weight="7.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="613101ATB" id="795" weight="9.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="193202ATB" id="796" weight="2.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="687701ATR" id="797" weight="2.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="136302ACH" id="798" weight="2.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="687601ATR" id="799" weight="3.0" start="2021-01-21T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="193201ATB" id="800" weight="1.0" start="2021-02-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107501ATB" target="196202ATD" id="801" weight="1.0" start="2021-12-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="242902ATB" id="802" weight="51.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="474802ATB" id="803" weight="55.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="242901ACH" id="804" weight="36.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="196201ATB" id="805" weight="23.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="193202ATB" id="806" weight="6.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="474803ATB" id="807" weight="49.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="613101ATB" id="808" weight="20.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="107504ATB" id="809" weight="1.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="193201ACR" id="810" weight="1.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="136302ACH" id="811" weight="7.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="173701ATB" id="812" weight="11.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="193209ATR" id="813" weight="1.0" start="2021-02-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="193201ATB" id="814" weight="6.0" start="2021-02-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="687601ATR" id="815" weight="3.0" start="2021-02-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="193206ATR" id="816" weight="1.0" start="2021-02-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="495502ACE" id="817" weight="2.0" start="2021-02-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="495501ACE" id="818" weight="3.0" start="2021-02-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="687701ATR" id="819" weight="4.0" start="2021-12-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="247502ACR" target="136301ACH" id="820" weight="1.0" start="2021-12-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136301ACH" target="474802ATB" id="821" weight="6.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136301ACH" target="193209ATR" id="822" weight="5.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136301ACH" target="193201ATB" id="823" weight="2.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136301ACH" target="242901ACH" id="824" weight="2.0" start="2021-12-10T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136301ACH" target="136302ACH" id="825" weight="3.0" start="2021-12-31T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193209ATR" target="193201ATB" id="826" weight="6.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193209ATR" target="474803ATB" id="827" weight="16.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193209ATR" target="193206ATR" id="828" weight="4.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193209ATR" target="242902ATB" id="829" weight="2.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193209ATR" target="474802ATB" id="830" weight="5.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193209ATR" target="495502ACE" id="831" weight="2.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193209ATR" target="613101ATB" id="832" weight="13.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193209ATR" target="495501ACE" id="833" weight="1.0" start="2021-12-24T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="242902ATB" id="834" weight="58.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="474803ATB" id="835" weight="23.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="474802ATB" id="836" weight="38.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="173701ATB" id="837" weight="25.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="242901ACH" id="838" weight="37.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="107504ATB" id="839" weight="27.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="196201ATD" id="840" weight="3.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="495502ACE" id="841" weight="44.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="196202ATD" id="842" weight="4.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="613101ATB" id="843" weight="10.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="196201ATB" id="844" weight="27.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="193201ATB" id="845" weight="2.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="193202ATB" id="846" weight="1.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495501ACE" target="687601ATR" id="847" weight="1.0" start="2021-02-03T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="242902ATB" id="848" weight="10.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="193202ATB" id="849" weight="12.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="474802ATB" id="850" weight="45.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="193205ACR" id="851" weight="17.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="687601ATR" id="852" weight="4.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="107504ATB" id="853" weight="3.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="193206ATR" id="854" weight="5.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="193208ACR" id="855" weight="11.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="173701ATB" id="856" weight="3.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="136302ACH" id="857" weight="2.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="495502ACE" id="858" weight="6.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="193201ACR" id="859" weight="12.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="613101ATB" id="860" weight="1.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="687701ATR" id="861" weight="2.0" start="2021-02-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="474803ATB" id="862" weight="5.0" start="2021-02-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ATB" target="242901ACH" id="863" weight="2.0" start="2021-12-03T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="196201ATD" id="864" weight="1.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="474802ATB" id="865" weight="103.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="242902ATB" id="866" weight="83.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="687601ATR" id="867" weight="3.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="495502ACE" id="868" weight="9.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="613101ATB" id="869" weight="24.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="242901ACH" id="870" weight="40.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="474803ATB" id="871" weight="34.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="173701ATB" id="872" weight="10.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="196202ATD" id="873" weight="3.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="193206ATR" id="874" weight="4.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATB" target="107504ATB" id="875" weight="4.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193208ACR" target="193201ACR" id="876" weight="19.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193208ACR" target="193205ACR" id="877" weight="10.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193208ACR" target="474802ATB" id="878" weight="13.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193208ACR" target="242902ATB" id="879" weight="4.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="495502ACE" id="880" weight="8.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="474802ATB" id="881" weight="254.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="474803ATB" id="882" weight="54.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="242902ATB" id="883" weight="7.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="196202ATD" id="884" weight="13.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="196201ATD" id="885" weight="11.0" start="2021-01-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="107504ATB" id="886" weight="22.0" start="2021-01-04T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="613101ATB" id="887" weight="31.0" start="2021-01-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="193206ATR" id="888" weight="2.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="173701ATB" id="889" weight="4.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="687601ATR" id="890" weight="3.0" start="2021-02-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242901ACH" target="687701ATR" id="891" weight="1.0" start="2021-12-08T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="242902ATB" id="892" weight="38.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="474802ATB" id="893" weight="54.0" start="2021-01-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="474803ATB" id="894" weight="18.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="495502ACE" id="895" weight="4.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="107504ATB" id="896" weight="6.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="173701ATB" id="897" weight="3.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="193206ATR" id="898" weight="2.0" start="2021-02-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="687701ATR" id="899" weight="2.0" start="2021-12-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="613101ATB" target="193205ACR" id="900" weight="1.0" start="2021-12-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193206ATR" target="193202ATB" id="901" weight="9.0" start="2021-01-28T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193206ATR" target="193201ACR" id="902" weight="10.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193206ATR" target="474802ATB" id="903" weight="46.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193206ATR" target="474803ATB" id="904" weight="31.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193206ATR" target="242902ATB" id="905" weight="14.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193206ATR" target="687701ATR" id="906" weight="4.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193206ATR" target="173701ATB" id="907" weight="10.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107504ATB" target="173701ATB" id="908" weight="9.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107504ATB" target="474802ATB" id="909" weight="36.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107504ATB" target="495502ACE" id="910" weight="17.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107504ATB" target="242902ATB" id="911" weight="7.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107504ATB" target="474803ATB" id="912" weight="6.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107504ATB" target="687601ATR" id="913" weight="1.0" start="2021-02-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="107504ATB" target="193202ATB" id="914" weight="3.0" start="2021-12-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495502ACE" target="474802ATB" id="915" weight="25.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495502ACE" target="474803ATB" id="916" weight="24.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495502ACE" target="242902ATB" id="917" weight="26.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495502ACE" target="173701ATB" id="918" weight="9.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495502ACE" target="193202ATB" id="919" weight="1.0" start="2021-01-25T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495502ACE" target="196202ATD" id="920" weight="3.0" start="2021-02-16T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="495502ACE" target="136302ACH" id="921" weight="1.0" start="2021-12-01T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATD" target="474802ATB" id="922" weight="11.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATD" target="196202ATD" id="923" weight="8.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATD" target="242902ATB" id="924" weight="13.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196201ATD" target="474803ATB" id="925" weight="1.0" start="2021-12-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="474803ATB" id="926" weight="115.0" start="2021-01-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="474802ATB" id="927" weight="255.0" start="2021-01-12T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="196202ATD" id="928" weight="19.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="173701ATB" id="929" weight="16.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="687601ATR" id="930" weight="4.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="193201ACR" id="931" weight="4.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="136302ACH" id="932" weight="2.0" start="2021-01-26T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="193205ACR" id="933" weight="2.0" start="2021-02-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="242902ATB" target="687701ATR" id="934" weight="2.0" start="2021-12-29T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136302ACH" target="474802ATB" id="935" weight="10.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136302ACH" target="173701ATB" id="936" weight="7.0" start="2021-01-19T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136302ACH" target="474803ATB" id="937" weight="4.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136302ACH" target="687601ATR" id="938" weight="2.0" start="2021-02-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136302ACH" target="687701ATR" id="939" weight="3.0" start="2021-12-02T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="136302ACH" target="193202ATB" id="940" weight="1.0" start="2021-12-06T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ATB" target="474802ATB" id="941" weight="4.0" start="2021-01-20T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ATB" target="193201ACR" id="942" weight="8.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ATB" target="193205ACR" id="943" weight="3.0" start="2021-01-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ATB" target="173701ATB" id="944" weight="2.0" start="2021-02-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193202ATB" target="474803ATB" id="945" weight="1.0" start="2021-02-09T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ACR" target="193205ACR" id="946" weight="19.0" start="2021-01-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ACR" target="474803ATB" id="947" weight="2.0" start="2021-01-11T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ACR" target="474802ATB" id="948" weight="14.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193201ACR" target="173701ATB" id="949" weight="10.0" start="2021-12-22T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474803ATB" target="173701ATB" id="950" weight="22.0" start="2021-01-18T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474803ATB" target="193205ACR" id="951" weight="3.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474803ATB" target="474802ATB" id="952" weight="4.0" start="2021-01-05T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474803ATB" target="687701ATR" id="953" weight="4.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474803ATB" target="196202ATD" id="954" weight="2.0" start="2021-01-23T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474803ATB" target="687601ATR" id="955" weight="6.0" start="2021-02-27T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="173701ATB" target="474802ATB" id="956" weight="52.0" start="2021-01-15T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="173701ATB" target="687601ATR" id="957" weight="2.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="173701ATB" target="193205ACR" id="958" weight="4.0" start="2021-01-07T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687601ATR" target="474802ATB" id="959" weight="18.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="193205ACR" target="474802ATB" id="960" weight="3.0" start="2021-01-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="196202ATD" target="474802ATB" id="961" weight="12.0" start="2021-01-30T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="687701ATR" target="474802ATB" id="962" weight="4.0" start="2021-01-14T00:00:00.000" end="2021-12-31T23:59:59.000" />
+      <edge source="474802ATB" target="226401ATB" id="963" weight="1.0" start="2021-12-13T00:00:00.000" end="2021-12-31T23:59:59.000" />
+    </edges>
+  </graph>
+</gexf>
