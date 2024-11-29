@@ -1,0 +1,301 @@
+주성분코드_9,ATC코드,주성분명,주성분코드_5
+122202BIJ,A12AA03,calcium gluconate,1222B
+122202BIJ,B05XA19,calcium gluconate,1222B
+131830BIJ,R06AB54,"chlorphenamine, combinations",1318B
+131830BIJ,R06AB04,chlorphenamine,1318B
+149203ATB,N06AA12,doxepin,1492A
+149203ATB,N05CM,Other hypnotics and sedatives,1492A
+149204ATB,N05CM,Other hypnotics and sedatives,1492A
+149204ATB,N06AA12,doxepin,1492A
+158333BIJ,N01AH01,fentanyl,1583B
+158333BIJ,N02AB03,fentanyl,1583B
+163130ASY,R03CC15,formoterol,1631A
+163130ASY,R03CC,Selective beta-2-adrenoreceptor agonists,1631A
+163130ASY,R03AC13,formoterol,1631A
+163131ASY,R03CC15,formoterol,1631A
+163131ASY,R03AC13,formoterol,1631A
+164204ATB,N03AX12,gabapentin,1642A
+164204ATB,N02BF01,gabapentin,1642A
+164205ATB,N02BF01,gabapentin,1642A
+164205ATB,N03AX12,gabapentin,1642A
+170131BIJ,A10AB01,insulin (human),1701B
+170131BIJ,A10AC01,insulin (human),1701B
+171530BIJ,B03BA03,hydroxocobalamin,1715B
+171530BIJ,N07XX,Other nervous system drugs,1715B
+171531BIJ,B03BA03,hydroxocobalamin,1715B
+171531BIJ,N07XX,Other nervous system drugs,1715B
+175332BIJ,A10AD04,insulin lispro ,1753B
+175332BIJ,A10AD04,insulin lispro,1753B
+175333BIJ,A10AD04,insulin lispro,1753B
+175333BIJ,A10AD04,insulin lispro ,1753B
+177430BIJ,L01CE02,irinotecan,1774B
+177430BIJ,L01XX19,irinotecan,1774B
+177431BIJ,L01CE02,irinotecan,1774B
+177431BIJ,L01XX19,irinotecan,1774B
+184101ATB,C04AX,Other peripheral vasodilators,1841A
+184101ATB,B01AC28,limaprost,1841A
+205303ATB,N04AB02,orphenadrine (chloride),2053A
+205303ATB,M03BC01,orphenadrine (citrate),2053A
+208131AGN,J04AA01,4-aminosalicylic acid,2081A
+208131AGN,J04AA03,calcium aminosalicylate,2081A
+214031BIJ,M01AC01,piroxicam,2140B
+214031BIJ,M02AA07,piroxicam,2140B
+222901ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD),2229A
+222901ATB,A02BX14,rebamipide,2229A
+228503BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,2285B
+228503BIS,B05ZA,"Hemodialytics, concentrates",2285B
+228505BIS,B05ZA,"Hemodialytics, concentrates",2285B
+228505BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,2285B
+228506BIS,B05ZA,"Hemodialytics, concentrates",2285B
+228506BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,2285B
+228515BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,2285B
+228515BIS,B05ZA,"Hemodialytics, concentrates",2285B
+228526BIS,B05ZA,"Hemodialytics, concentrates",2285B
+228526BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,2285B
+228531BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,2285B
+228531BIS,B05ZA,"Hemodialytics, concentrates",2285B
+264800ATB,R03CC63,clenbuterol and ambroxol,2648A
+264800ATB,R05CB10,combinations,2648A
+268000ATB,R05FA,Opium derivatives and expectorants,2680A
+268000ATB,R05FA02,opium derivatives and expectorants,2680A
+310600ATB,J01CR02,amoxicillin and beta-lactamase inhibitor,3106A
+310600ATB,J01CR02,amoxicillin and enzyme inhibitor,3106A
+310700ATB,J01CR02,amoxicillin and enzyme inhibitor,3107A
+310700ATB,J01CR02,amoxicillin and beta-lactamase inhibitor,3107A
+316600BIJ,A11EA,"Vitamin B-complex, plain",3166B
+316600BIJ,B05XC,Vitamins,3166B
+316900BIJ,B05XC,Vitamins,3169B
+316900BIJ,A11BA,"Multivitamins, plain",3169B
+323200BIS,B05ZA,"Hemodialytics, concentrates",3232B
+323200BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,3232B
+323400BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,3234B
+323400BIS,B05ZA,"Hemodialytics, concentrates",3234B
+328500BIJ,J01CR01,ampicillin and beta-lactamase inhibitor,3285B
+328500BIJ,J01CR01,ampicillin and enzyme inhibitor,3285B
+328600BIJ,J01CR01,ampicillin and enzyme inhibitor,3286B
+328600BIJ,J01CR01,ampicillin and beta-lactamase inhibitor,3286B
+328900BIJ,J01CR02,amoxicillin and enzyme inhibitor,3289B
+328900BIJ,J01CR02,amoxicillin and beta-lactamase inhibitor,3289B
+329000BIJ,J01CR02,amoxicillin and beta-lactamase inhibitor,3290B
+329000BIJ,J01CR02,amoxicillin and enzyme inhibitor,3290B
+329400BIJ,J01DH51,imipenem and enzyme inhibitor,3294B
+329400BIJ,J01DH51,imipenem and cilastatin,3294B
+329500BIJ,J01CR05,piperacillin and beta-lactamase inhibitor,3295B
+329500BIJ,J01CR05,piperacillin and enzyme inhibitor,3295B
+329600BIJ,J01CR05,piperacillin and beta-lactamase inhibitor,3296B
+329600BIJ,J01CR05,piperacillin and enzyme inhibitor,3296B
+329900BIJ,J01DD62,cefoperazone and beta-lactamase inhibitor,3299B
+329900BIJ,J01DD62,"cefoperazone, combinations",3299B
+350400BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,3504B
+350400BIS,B05ZA,"Hemodialytics, concentrates",3504B
+379601ATE,A16AA02,ademetionine,3796A
+379601ATE,N06AX,Other antidepressants,3796A
+380000ATB,J01CR02,amoxicillin and enzyme inhibitor,3800A
+380000ATB,J01CR02,amoxicillin and beta-lactamase inhibitor,3800A
+381300BIJ,J01CR02,amoxicillin and enzyme inhibitor,3813B
+381300BIJ,J01CR02,amoxicillin and beta-lactamase inhibitor,3813B
+381500BIJ,J01CR02,amoxicillin and enzyme inhibitor,3815B
+381500BIJ,J01CR02,amoxicillin and beta-lactamase inhibitor,3815B
+412701ATB,L01XE01,imatinib,4127A
+412701ATB,L01EA01,imatinib,4127A
+412702ATB,L01EA01,imatinib,4127A
+412702ATB,L01XE01,imatinib,4127A
+412703ATB,L01XE01,imatinib,4127A
+412703ATB,L01EA01,imatinib,4127A
+421001ATB,A03FA,Propulsives,4210A
+421001ATB,A03FA09,mosapride,4210A
+423700ATB,C09DA06,candesartan and diuretics ,4237A
+423700ATB,C09DA06,candesartan and diuretics,4237A
+434601ATB,L04AK01,leflunomide,4346A
+434601ATB,L04AA13,leflunomide,4346A
+434602ATB,L04AA13,leflunomide,4346A
+434602ATB,L04AK01,leflunomide,4346A
+440100ATB,J01CR02,amoxicillin and beta-lactamase inhibitor,4401A
+440100ATB,J01CR02,amoxicillin and enzyme inhibitor,4401A
+451201ATE,M09AB,Enzymes,4512A
+451201ATE,M09AB03,bromelains,4512A
+451202ATE,M09AB03,bromelains,4512A
+451202ATE,M09AB,Enzymes,4512A
+453902ATB,R06AX,Other antihistamines for systemic use,4539A
+453902ATB,R06A,ANTIHISTAMINES FOR SYSTEMIC USE,4539A
+462000ATB,J01CR02,amoxicillin and beta-lactamase inhibitor,4620A
+462000ATB,J01CR02,amoxicillin and enzyme inhibitor,4620A
+463301BIJ,L01XX32,bortezomib,4633B
+463301BIJ,L01XG01,bortezomib,4633B
+463302BIJ,L01XX32,bortezomib,4633B
+463302BIJ,L01XG01,bortezomib,4633B
+473100BIS,B05ZA,"Hemodialytics, concentrates",4731B
+473100BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,4731B
+477401ATB,L01EB02,erlotinib,4774A
+477401ATB,L01XE03,erlotinib,4774A
+477402ATB,L01XE03,erlotinib,4774A
+477402ATB,L01EB02,erlotinib,4774A
+477403ATB,L01EB02,erlotinib,4774A
+477403ATB,L01XE03,erlotinib,4774A
+477501BIJ,J06BB16,palivizumab,4775B
+477501BIJ,J06BD01,palivizumab,4775B
+477502BIJ,J06BB16,palivizumab,4775B
+477502BIJ,J06BD01,palivizumab,4775B
+480401ATB,N03AX16,pregabalin,4804A
+480401ATB,N02BF02,pregabalin,4804A
+480402ATB,N03AX16,pregabalin,4804A
+480402ATB,N02BF02,pregabalin,4804A
+480600ATB,N02AX52,"tramadol, combinations",4806A
+480600ATB,N02AJ13,tramadol and paracetamol,4806A
+482501BIJ,V09IX04,fludeoxyglucose (18F),4825B
+482501BIJ,V09IX04,fludeoxyglucose (18F) ,4825B
+483201ATB,C08CA01,amlodipine,4832A
+483201ATB,C08CA17,levamlodipine,4832A
+483202ATB,C08CA01,amlodipine,4832A
+483202ATB,C08CA17,levamlodipine,4832A
+494201ATB,A02BX16,irsogladine,4942A
+494201ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD),4942A
+494202ATB,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD),4942A
+494202ATB,A02BX16,irsogladine,4942A
+510030CSI,R03BA08,ciclesonide,5100C
+510030CSI,R01AD13,ciclesonide,5100C
+510100BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,5101B
+510100BIS,B05ZA,"Hemodialytics, concentrates",5101B
+510200BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,5102B
+510200BIS,B05ZA,"Hemodialytics, concentrates",5102B
+510300BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,5103B
+510300BIS,B05ZA,"Hemodialytics, concentrates",5103B
+511100BIS,B05D,PERITONEAL DIALYTICS,5111B
+511100BIS,B05DB,Hypertonic solutions,5111B
+513000ATB,N02AJ13,tramadol and paracetamol,5130A
+513000ATB,N02AX52,"tramadol, combinations",5130A
+513000ATR,N02AX52,"tramadol, combinations",5130A
+513000ATR,N02AJ13,tramadol and paracetamol,5130A
+514100ATR,N02AX52,"tramadol, combinations",5141A
+514100ATR,N02AJ13,tramadol and paracetamol,5141A
+525400COS,S01GA52,"tetryzoline, combinations",5254C
+525400COS,S01B,ANTIINFLAMMATORY AGENTS,5254C
+530001COS,S01XA,Other ophthalmologicals,5300C
+530001COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530002COS,S01XA,Other ophthalmologicals,5300C
+530002COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530004COS,S01XA,Other ophthalmologicals,5300C
+530004COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530005COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530005COS,S01XA,Other ophthalmologicals,5300C
+530007COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530007COS,S01XA,Other ophthalmologicals,5300C
+530008COS,S01XA,Other ophthalmologicals,5300C
+530008COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530009COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530009COS,S01XA,Other ophthalmologicals,5300C
+530011COS,S01XA,Other ophthalmologicals,5300C
+530011COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530012COS,S01XA,Other ophthalmologicals,5300C
+530012COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530014COS,S01XA,Other ophthalmologicals,5300C
+530014COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530017COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530017COS,S01XA,Other ophthalmologicals,5300C
+530020COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530020COS,S01XA,Other ophthalmologicals,5300C
+530021COS,S01XA,Other ophthalmologicals,5300C
+530021COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530029COS,S01XA,Other ophthalmologicals,5300C
+530029COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530031COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530031COS,S01XA,Other ophthalmologicals,5300C
+530048COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530048COS,S01XA,Other ophthalmologicals,5300C
+530052COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530052COS,S01XA,Other ophthalmologicals,5300C
+530053COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530053COS,S01XA,Other ophthalmologicals,5300C
+530054COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530054COS,S01XA,Other ophthalmologicals,5300C
+530057COS,S01XA,Other ophthalmologicals,5300C
+530057COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530058COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530058COS,S01XA,Other ophthalmologicals,5300C
+530059COS,S01XA,Other ophthalmologicals,5300C
+530059COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530060COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530060COS,S01XA,Other ophthalmologicals,5300C
+530061COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530061COS,S01XA,Other ophthalmologicals,5300C
+530062COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530062COS,S01XA,Other ophthalmologicals,5300C
+530063COS,S01XA,Other ophthalmologicals,5300C
+530063COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530064COS,S01XA,Other ophthalmologicals,5300C
+530064COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530065COS,S01XA,Other ophthalmologicals,5300C
+530065COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530067COS,S01XA,Other ophthalmologicals,5300C
+530067COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530068COS,S01XA,Other ophthalmologicals,5300C
+530068COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530069COS,S01XA,Other ophthalmologicals,5300C
+530069COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530071COS,S01XA,Other ophthalmologicals,5300C
+530071COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530072COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530072COS,S01XA,Other ophthalmologicals,5300C
+530073COS,S01XA20,artificial tears and other indifferent preparations,5300C
+530073COS,S01XA,Other ophthalmologicals,5300C
+530074COS,S01XA,Other ophthalmologicals,5300C
+530074COS,S01XA20,artificial tears and other indifferent preparations,5300C
+532100ASY,R03CC63,clenbuterol and ambroxol,5321A
+532100ASY,R05CB10,combinations,5321A
+534400ASY,J01CR02,amoxicillin and beta-lactamase inhibitor,5344A
+534400ASY,J01CR02,amoxicillin and enzyme inhibitor,5344A
+534700ASY,J01CR02,amoxicillin and enzyme inhibitor,5347A
+534700ASY,J01CR02,amoxicillin and beta-lactamase inhibitor,5347A
+535000ASY,J01CR02,amoxicillin and enzyme inhibitor,5350A
+535000ASY,J01CR02,amoxicillin and beta-lactamase inhibitor,5350A
+535300ASY,J01CR02,amoxicillin and beta-lactamase inhibitor,5353A
+535300ASY,J01CR02,amoxicillin and enzyme inhibitor,5353A
+535500ASY,J01CR02,amoxicillin and enzyme inhibitor,5355A
+535500ASY,J01CR02,amoxicillin and beta-lactamase inhibitor,5355A
+536300ASY,J01CR02,amoxicillin and beta-lactamase inhibitor,5363A
+536300ASY,J01CR02,amoxicillin and enzyme inhibitor,5363A
+538800COS,S01B,ANTIINFLAMMATORY AGENTS,5388C
+538800COS,S01GA52,"tetryzoline, combinations",5388C
+538900COS,S01B,ANTIINFLAMMATORY AGENTS,5389C
+538900COS,S01GA52,"tetryzoline, combinations",5389C
+538900COS,S01G,DECONGESTANTS AND ANTIALLERGICS,5389C
+544700CLQ,A06AG01,sodium phosphate,5447C
+544700CLQ,A06AD17,sodium phosphate,5447C
+557400BIJ,J01DD62,cefoperazone and beta-lactamase inhibitor,5574B
+557400BIJ,J01DD62,"cefoperazone, combinations",5574B
+558902BIJ,L04AG06,alemtuzumab,5589B
+558902BIJ,L04AA34,alemtuzumab,5589B
+615201ACH,L04AA27,fingolimod,6152A
+615201ACH,L04AE01,fingolimod,6152A
+617901BIJ,A16A,OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS,6179B
+617901BIJ,B05AX,Other blood products,6179B
+622530BIJ,L04AA23,natalizumab,6225B
+622530BIJ,L04AG03,natalizumab,6225B
+624101ATB,L01XE12,vandetanib,6241A
+624101ATB,L01EX04,vandetanib,6241A
+624102ATB,L01XE12,vandetanib,6241A
+624102ATB,L01EX04,vandetanib,6241A
+624701ATB,L04AA31,teriflunomide,6247A
+624701ATB,L04AK02,teriflunomide,6247A
+629900ATB,C10BX20,rosuvastatin and telmisartan,6299A
+629900ATB,C10BX,Lipid modifying agents in combination with other drugs,6299A
+630000ATB,C10BX20,rosuvastatin and telmisartan,6300A
+630000ATB,C10BX,Lipid modifying agents in combination with other drugs,6300A
+630000ATB,C10BX,"HMG CoA reductase inhibitors, other combinations",6300A
+630100ATB,C10BX20,rosuvastatin and telmisartan,6301A
+630100ATB,C10BX,Lipid modifying agents in combination with other drugs,6301A
+630200ATB,C10BX20,rosuvastatin and telmisartan,6302A
+630200ATB,C10BX,"HMG CoA reductase inhibitors, other combinations",6302A
+630200ATB,C10BX,Lipid modifying agents in combination with other drugs,6302A
+631600ATB,C10BX,Lipid modifying agents in combination with other drugs,6316A
+631600ATB,C10BX20,rosuvastatin and telmisartan,6316A
+631700ATB,C10BX20,rosuvastatin and telmisartan,6317A
+631700ATB,C10BX,Lipid modifying agents in combination with other drugs,6317A
+643100COS,S01B,ANTIINFLAMMATORY AGENTS,6431C
+643100COS,S01GA52,"tetryzoline, combinations",6431C
+645100BIS,B05ZA,"Hemodialytics, concentrates",6451B
+645100BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,6451B
+650300BIS,B05Z,HEMODIALYTICS AND HEMOFILTRATES,6503B
+650300BIS,B05ZA,"Hemodialytics, concentrates",6503B
+662100ATB,C10BX,Lipid modifying agents in combination with other drugs,6621A
+662100ATB,C10BX,"HMG CoA reductase inhibitors, other combinations",6621A
