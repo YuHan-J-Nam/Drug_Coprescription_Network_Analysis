@@ -3,3 +3,6 @@ raw_data/*
 
 # Test notebooks
 test*
+
+# LFS tracked files (too big for git)
+data/prescription_without_ad_2021.parquet
