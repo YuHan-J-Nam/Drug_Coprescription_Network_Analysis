@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="comorbidity" type="string" />
+    </attributes>
+    <nodes>
+      <node id="C07AA05" label="propranolol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC06" label="acetylsalicylic acid">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="N06DX02" label="Ginkgo folium">
+        <attvalues>
+          <attvalue for="0" value="dementia_med" />
+        </attvalues>
+      </node>
+      <node id="R03DC03" label="montelukast">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="H02AB04" label="methylprednisolone">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="R03AC02" label="salbutamol">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="R06AX17" label="ketotifen">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="R03BA05" label="fluticasone">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="C08CA06" label="nimodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC28" label="limaprost">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C07AG" label="Alpha and beta blocking agents">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C03AA03" label="hydrochlorothiazide">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="H02AB06" label="prednisolone">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="C07AB03" label="atenolol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="C07AA05" target="C08CA06" id="0" weight="1" />
+      <edge source="C07AA05" target="R03DC03" id="1" weight="2" />
+      <edge source="C07AA05" target="B01AC06" id="2" weight="1" />
+      <edge source="C07AA05" target="C07AG" id="3" weight="1" />
+      <edge source="N06DX02" target="H02AB04" id="4" weight="1" />
+      <edge source="R03DC03" target="R03BA05" id="5" weight="1" />
+      <edge source="R03DC03" target="R03AC02" id="6" weight="1" />
+      <edge source="H02AB04" target="R06AX17" id="7" weight="4" />
+      <edge source="R03AC02" target="R03BA05" id="8" weight="1" />
+    </edges>
+  </graph>
+</gexf>
