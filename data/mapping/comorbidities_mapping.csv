@@ -1,0 +1,1255 @@
+주성분코드_9,ATC코드,주성분명,주성분코드_5,comorbidity_class
+163130ASY,R03AC13,formoterol,1631A,COPD_med
+163131ASY,R03AC13,formoterol,1631A,COPD_med
+218330CSI,R03AC16,procaterol,2183C,COPD_med
+225503ACR,R03AC02,Salbutamol,2255A,COPD_med
+225530CSI,R03AC02,salbutamol,2255C,COPD_med
+225531CSI,R03AC02,salbutamol,2255C,COPD_med
+225532CSI,R03AC02,salbutamol,2255C,COPD_med
+611901CSI,R03AC18,indacaterol,6119C,COPD_med
+611902CSI,R03AC18,indacaterol,6119C,COPD_med
+542800CSI,R03AK11,formoterol and fluticasone,5428C,COPD_med
+542900CSI,R03AK11,formoterol and fluticasone,5429C,COPD_med
+543000CSI,R03AK11,formoterol and fluticasone,5430C,COPD_med
+543100CSI,R03AK06,salmeterol and fluticasone,5431C,COPD_med
+543200CSI,R03AK06,salmeterol and fluticasone,5432C,COPD_med
+543300CSI,R03AK06,salmeterol and fluticasone,5433C,COPD_med
+543400CSI,R03AK06,salmeterol and fluticasone,5434C,COPD_med
+543500CSI,R03AK06,salmeterol and fluticasone,5435C,COPD_med
+543600CSI,R03AK06,salmeterol and fluticasone,5436C,COPD_med
+543800CSI,R03AK07,formoterol and budesonide,5438C,COPD_med
+543900CSI,R03AK07,formoterol and budesonide,5439C,COPD_med
+544000CSI,R03AK07,formoterol and budesonide,5440C,COPD_med
+544100CSI,R03AK07,formoterol and budesonide,5441C,COPD_med
+544200CSI,R03AK08,formoterol and beclometasone,5442C,COPD_med
+544300CSI,R03AK06,salmeterol and fluticasone,5443C,COPD_med
+544400CSI,R03AK06,salmeterol and fluticasone,5444C,COPD_med
+544500CSI,R03AK06,salmeterol and fluticasone,5445C,COPD_med
+636700CSI,R03AK10,vilanterol and fluticasone furoate,6367C,COPD_med
+636800CSI,R03AK10,vilanterol and fluticasone furoate,6368C,COPD_med
+681000CSI,R03AK12,salmeterol and budesonide,6810C,COPD_med
+681100CSI,R03AK12,salmeterol and budesonide,6811C,COPD_med
+696700CSI,R03AK08,formoterol and beclometasone,6967C,COPD_med
+698400CSI,R03AK14,indacaterol and mometasone,6984C,COPD_med
+698500CSI,R03AK14,indacaterol and mometasone,6985C,COPD_med
+698600CSI,R03AK14,indacaterol and mometasone,6986C,COPD_med
+801100CSI,R03AK07,formoterol and budesonide,8011C,COPD_med
+177131CLQ,R03BB01,ipratropium bromide,1771C,COPD_med
+457301CCH,R03BB04,tiotropium bromide,4573C,COPD_med
+457301CTB,R03BB04,tiotropium bromide,4573C,COPD_med
+457330CSI,R03BB04,tiotropium bromide,4573C,COPD_med
+503430CSI,R03BB04,tiotropium bromide,5034C,COPD_med
+633730CSI,R03BB05,aclidinium bromide,6337C,COPD_med
+635903CSI,R03BB06,glycopyrronium bromide,6359C,COPD_med
+641101CSI,R03BB07,umeclidinium bromide,6411C,COPD_med
+119530CSI,R03BA02,budesonide,1195C,COPD_med
+119531CSI,R03BA02,budesonide,1195C,COPD_med
+119533CSI,R03BA02,budesonide,1195C,COPD_med
+162230CSY,R03BA05,fluticasone,1622C,COPD_med
+162231CSS,R03BA05,fluticasone,1622C,COPD_med
+162232CSI,R03BA05,fluticasone,1622C,COPD_med
+162233CSI,R03BA05,fluticasone,1622C,COPD_med
+162235CSI,R03BA05,fluticasone,1622C,COPD_med
+162236CSI,R03BA05,fluticasone,1622C,COPD_med
+497130CSI,R03BA08,ciclesonide,4971C,COPD_med
+497131CSI,R03BA08,ciclesonide,4971C,COPD_med
+500431CSI,R03BA09,fluticasone furoate,5004C,COPD_med
+500432CSI,R03BA09,fluticasone furoate,5004C,COPD_med
+631200CSI,R03AL03,vilanterol and umeclidinium bromide,6312C,COPD_med
+635300CSI,R03AL05,formoterol and aclidinium bromide,6353C,COPD_med
+643700CSI,R03AL06,olodaterol and tiotropium bromide,6437C,COPD_med
+672200CSI,R03AL08,"vilanterol, umeclidinium bromide and fluticasone furoate",6722C,COPD_med
+683800CSI,R03AL09,"formoterol, glycopyrronium bromide and beclometasone",6838C,COPD_med
+698700CSI,R03AL12,"indacaterol, glycopyrronium bromide and mometasone",6987C,COPD_med
+698800CSI,R03AL12,"indacaterol, glycopyrronium bromide and mometasone",6988C,COPD_med
+730500CSI,R03AL08,"vilanterol, umeclidinium bromide and fluticasone furoate",7305C,COPD_med
+800100CSI,R03AL04,indacaterol and glycopyrronium bromide,8001C,COPD_med
+100701ACH,R03DA,Xanthines,1007A,COPD_med
+100701ATB,R03DA,Xanthines,1007A,COPD_med
+100702ATR,R03DA,Xanthines,1007A,COPD_med
+107301ATB,R03DA05,aminophylline,1073A,COPD_med
+107301ATR,R03DA05,aminophylline,1073A,COPD_med
+107303ATR,R03DA05,aminophylline,1073A,COPD_med
+107330BIJ,R03DA05,aminophylline,1073B,COPD_med
+113801ATB,R03DA08,bamifylline,1138A,COPD_med
+113802ATB,R03DA08,bamifylline,1138A,COPD_med
+237001ACR,R03DA04,theophylline,2370A,COPD_med
+237001ATB,R03DA04,theophylline,2370A,COPD_med
+237002ATR,R03DA04,theophylline,2370A,COPD_med
+237003ACR,R03DA04,theophylline,2370A,COPD_med
+237003ATB,R03DA04,theophylline,2370A,COPD_med
+237003ATR,R03DA04,theophylline,2370A,COPD_med
+237005ATR,R03DA04,theophylline,2370A,COPD_med
+237030ASY,R03DA04,theophylline,2370A,COPD_med
+237031ASY,R03DA04,theophylline,2370A,COPD_med
+439101ATB,R03DA11,doxofylline,4391A,COPD_med
+503301ACH,R03DA07,theobromine,5033A,COPD_med
+216401ACH,R03DC02,pranlukast,2164A,COPD_med
+216401ATB,R03DC02,pranlukast,2164A,COPD_med
+216402ASS,R03DC02,pranlukast,2164A,COPD_med
+216403ACH,R03DC02,pranlukast,2164A,COPD_med
+216404ATB,R03DC02,pranlukast,2164A,COPD_med
+216405ASS,R03DC02,pranlukast,2164A,COPD_med
+216405ATB,R03DC02,pranlukast,2164A,COPD_med
+216406ASS,R03DC02,pranlukast,2164A,COPD_med
+216407ASS,R03DC02,pranlukast,2164A,COPD_med
+216408ATB,R03DC02,pranlukast,2164A,COPD_med
+216430ASY,R03DC02,pranlukast,2164A,COPD_med
+216431ASY,R03DC02,pranlukast,2164A,COPD_med
+216432ASY,R03DC02,pranlukast,2164A,COPD_med
+216433ASY,R03DC02,pranlukast,2164A,COPD_med
+249701ATB,R03DC01,zafirlukast,2497A,COPD_med
+374601ASY,R03DC03,montelukast,3746A,COPD_med
+374601ATB,R03DC03,montelukast,3746A,COPD_med
+374601ATD,R03DC03,montelukast,3746A,COPD_med
+374602ATB,R03DC03,montelukast,3746A,COPD_med
+374602ATD,R03DC03,montelukast,3746A,COPD_med
+374603AGN,R03DC03,montelukast,3746A,COPD_med
+374603ASY,R03DC03,montelukast,3746A,COPD_med
+374603ATB,R03DC03,montelukast,3746A,COPD_med
+374603ATD,R03DC03,montelukast,3746A,COPD_med
+487001ATB,R03DC,Leukotriene receptor antagonists,4870A,COPD_med
+659900ACH,R03DC53,"montelukast, combinations",6599A,COPD_med
+659900ATB,R03DC53,"montelukast, combinations",6599A,COPD_med
+670600ATB,R03DC53,"montelukast, combinations",6706A,COPD_med
+207701ATB,R03DX,Other systemic drugs for obstructive airway diseases,2077A,COPD_med
+572901BIJ,R03DX05,omalizumab,5729B,COPD_med
+572903BIJ,R03DX05,omalizumab,5729B,COPD_med
+572904BIJ,R03DX05,omalizumab,5729B,COPD_med
+614701ATB,R03DX07,roflumilast,6147A,COPD_med
+651201BIJ,R03DX09,mepolizumab,6512B,COPD_med
+669801BIJ,R03DX08,reslizumab,6698B,COPD_med
+681301BIJ,R03DX10,benralizumab,6813B,COPD_med
+170131BIJ,A10AB01,insulin (human),1701B,diabetes_med
+175330BIJ,A10AB04,insulin lispro,1753B,diabetes_med
+175331BIJ,A10AB04,insulin lispro,1753B,diabetes_med
+441330BIJ,A10AB05,insulin aspart,4413B,diabetes_med
+441331BIJ,A10AB05,insulin aspart,4413B,diabetes_med
+170130BIJ,A10AC01,insulin (human),1701B,diabetes_med
+170430BIJ,A10AD01,insulin (human),1704B,diabetes_med
+170431BIJ,A10AD01,insulin (human),1704B,diabetes_med
+175332BIJ,A10AD04,insulin lispro ,1753B,diabetes_med
+175333BIJ,A10AD04,insulin lispro,1753B,diabetes_med
+441332BIJ,A10AD05,insulin aspart,4413B,diabetes_med
+441333BIJ,A10AD05,insulin aspart,4413B,diabetes_med
+441334BIJ,A10AD05,insulin aspart,4413B,diabetes_med
+461830BIJ,A10AE04,insulin glargine,4618B,diabetes_med
+461831BIJ,A10AE04,insulin glargine,4618B,diabetes_med
+461832BIJ,A10AE04,insulin glargine,4618B,diabetes_med
+488730BIJ,A10AE05,insulin detemir,4887B,diabetes_med
+191501ATB,A10BA02,metformin,1915A,diabetes_med
+191502ATB,A10BA02,metformin,1915A,diabetes_med
+191502ATR,A10BA02,metformin,1915A,diabetes_med
+191503ATB,A10BA02,metformin,1915A,diabetes_med
+191503ATR,A10BA02,metformin,1915A,diabetes_med
+191504ATB,A10BA02,metformin,1915A,diabetes_med
+191504ATR,A10BA02,metformin,1915A,diabetes_med
+191505ATR,A10BA02,metformin,1915A,diabetes_med
+165402ATB,A10BB01,glibenclamide,1654A,diabetes_med
+165801ATB,A10BB07,glipizide,1658A,diabetes_med
+165602ATB,A10BB09,gliclazide,1656A,diabetes_med
+165603ATR,A10BB09,gliclazide,1656A,diabetes_med
+165604ATR,A10BB09,gliclazide,1656A,diabetes_med
+165701ATB,A10BB12,glimepiride,1657A,diabetes_med
+165702ATB,A10BB12,glimepiride,1657A,diabetes_med
+165703ATB,A10BB12,glimepiride,1657A,diabetes_med
+165704ATB,A10BB12,glimepiride,1657A,diabetes_med
+443400ATB,A10BD02,metformin and sulfonylureas,4434A,diabetes_med
+443500ATB,A10BD02,metformin and sulfonylureas,4435A,diabetes_med
+471900ATB,A10BD02,metformin and sulfonylureas,4719A,diabetes_med
+474200ATB,A10BD02,metformin and sulfonylureas,4742A,diabetes_med
+474300ATB,A10BD02,metformin and sulfonylureas,4743A,diabetes_med
+474300ATR,A10BD02,metformin and sulfonylureas,4743A,diabetes_med
+497200ATB,A10BD02,metformin and sulfonylureas,4972A,diabetes_med
+498600ATB,A10BD02,metformin and sulfonylureas,4986A,diabetes_med
+502300ATB,A10BD07,metformin and sitagliptin,5023A,diabetes_med
+502300ATR,A10BD07,metformin and sitagliptin,5023A,diabetes_med
+502900ATB,A10BD07,metformin and sitagliptin,5029A,diabetes_med
+513700ATB,A10BD07,metformin and sitagliptin,5137A,diabetes_med
+513700ATR,A10BD07,metformin and sitagliptin,5137A,diabetes_med
+524700ATR,A10BD07,metformin and sitagliptin,5247A,diabetes_med
+705100ATB,A10BD07,metformin and sitagliptin,7051A,diabetes_med
+705200ATB,A10BD07,metformin and sitagliptin,7052A,diabetes_med
+705300ATB,A10BD07,metformin and sitagliptin,7053A,diabetes_med
+709300ATR,A10BD07,metformin and sitagliptin,7093A,diabetes_med
+709400ATR,A10BD07,metformin and sitagliptin,7094A,diabetes_med
+709500ATR,A10BD07,metformin and sitagliptin,7095A,diabetes_med
+718200ATR,A10BD07,metformin and sitagliptin,7182A,diabetes_med
+639800ATR,A10BD15,metformin and dapagliflozin,6398A,diabetes_med
+641400ATR,A10BD15,metformin and dapagliflozin,6414A,diabetes_med
+715200ATR,A10BD15,metformin and dapagliflozin,7152A,diabetes_med
+715300ATR,A10BD15,metformin and dapagliflozin,7153A,diabetes_med
+715400ATR,A10BD15,metformin and dapagliflozin,7154A,diabetes_med
+715500ATR,A10BD15,metformin and dapagliflozin,7155A,diabetes_med
+718300ATR,A10BD15,metformin and dapagliflozin,7183A,diabetes_med
+718500ATR,A10BD15,metformin and dapagliflozin,7185A,diabetes_med
+718600ATR,A10BD15,metformin and dapagliflozin,7186A,diabetes_med
+718700ATR,A10BD15,metformin and dapagliflozin,7187A,diabetes_med
+718800ATR,A10BD15,metformin and dapagliflozin,7188A,diabetes_med
+718900ATR,A10BD15,metformin and dapagliflozin,7189A,diabetes_med
+719000ATR,A10BD15,metformin and dapagliflozin,7190A,diabetes_med
+719100ATR,A10BD15,metformin and dapagliflozin,7191A,diabetes_med
+719200ATR,A10BD15,metformin and dapagliflozin,7192A,diabetes_med
+719300ATR,A10BD15,metformin and dapagliflozin,7193A,diabetes_med
+719400ATR,A10BD15,metformin and dapagliflozin,7194A,diabetes_med
+726800ATR,A10BD15,metformin and dapagliflozin,7268A,diabetes_med
+100601ATB,A10BF01,acarbose,1006A,diabetes_med
+100602ATB,A10BF01,acarbose,1006A,diabetes_med
+406201ATB,A10BF02,miglitol,4062A,diabetes_med
+431901ATB,A10BG03,pioglitazone,4319A,diabetes_med
+431902ATB,A10BG03,pioglitazone,4319A,diabetes_med
+501101ATB,A10BH01,sitagliptin,5011A,diabetes_med
+501102ATB,A10BH01,sitagliptin,5011A,diabetes_med
+501103ATB,A10BH01,sitagliptin,5011A,diabetes_med
+694201ATB,A10BH01,sitagliptin,6942A,diabetes_med
+694202ATB,A10BH01,sitagliptin,6942A,diabetes_med
+694203ATB,A10BH01,sitagliptin,6942A,diabetes_med
+500801ATB,A10BH02,vildagliptin,5008A,diabetes_med
+685801ATB,A10BH02,vildagliptin,6858A,diabetes_med
+701201ATB,A10BH02,vildagliptin,7012A,diabetes_med
+616401ATB,A10BH05,linagliptin,6164A,diabetes_med
+732101ATB,A10BH05,linagliptin,7321A,diabetes_med
+512130BIJ,A10BJ01,exenatide,5121B,diabetes_med
+512131BIJ,A10BJ01,exenatide,5121B,diabetes_med
+527301ATB,A10BK01,dapagliflozin,5273A,diabetes_med
+527302ATB,A10BK01,dapagliflozin,5273A,diabetes_med
+693201ATB,A10BK01,dapagliflozin,6932A,diabetes_med
+693202ATB,A10BK01,dapagliflozin,6932A,diabetes_med
+693301ATB,A10BK01,dapagliflozin,6933A,diabetes_med
+693302ATB,A10BK01,dapagliflozin,6933A,diabetes_med
+693402ATB,A10BK01,dapagliflozin,6934A,diabetes_med
+693501ATB,A10BK01,dapagliflozin,6935A,diabetes_med
+693502ATB,A10BK01,dapagliflozin,6935A,diabetes_med
+712901ATB,A10BK01,dapagliflozin,7129A,diabetes_med
+712902ATB,A10BK01,dapagliflozin,7129A,diabetes_med
+628201ATB,A10BK03,empagliflozin,6282A,diabetes_med
+628202ATB,A10BK03,empagliflozin,6282A,diabetes_med
+379501ATB,A10BX02,repaglinide,3795A,diabetes_med
+379502ATB,A10BX02,repaglinide,3795A,diabetes_med
+379503ATB,A10BX02,repaglinide,3795A,diabetes_med
+430201ATB,A10BX03,nateglinide,4302A,diabetes_med
+430202ATB,A10BX03,nateglinide,4302A,diabetes_med
+430203ATB,A10BX03,nateglinide,4302A,diabetes_med
+644900ATB,A10BX03,nateglinide,6449A,diabetes_med
+170801ATB,C03AA03,hydrochlorothiazide,1708A,high_bp_med
+174401ATR,C03BA11,indapamide,1744A,high_bp_med
+174403ATB,C03BA11,indapamide,1744A,high_bp_med
+249401ATB,C03BA10,xipamide,2494A,high_bp_med
+367001ATB,C03BA08,metolazone,3670A,high_bp_med
+367002ATB,C03BA08,metolazone,3670A,high_bp_med
+451302ATB,C03BA04,chlortalidone,4513A,high_bp_med
+112901ATB,C03CA,"Sulfonamides, plain",1129A,high_bp_med
+163801ATB,C03CA01,furosemide,1638A,high_bp_med
+163830BIJ,C03CA01,furosemide,1638B,high_bp_med
+242001ATB,C03CA04,torasemide,2420A,high_bp_med
+242002ATB,C03CA04,torasemide,2420A,high_bp_med
+242003ATB,C03CA04,torasemide,2420A,high_bp_med
+242004ATB,C03CA04,torasemide,2420A,high_bp_med
+231101ATB,C03DA01,spironolactone,2311A,high_bp_med
+231102ATB,C03DA01,spironolactone,2311A,high_bp_med
+729201ATB,C03DA05,finerenone,7292A,high_bp_med
+729202ATB,C03DA05,finerenone,7292A,high_bp_med
+106901ATB,C03DB01,amiloride,1069A,high_bp_med
+262700ATB,C03EA01,hydrochlorothiazide and potassium-sparing agents,2627A,high_bp_med
+616501ATB,C03XA01,tolvaptan,6165A,high_bp_med
+616502ATB,C03XA01,tolvaptan,6165A,high_bp_med
+616503ATB,C03XA01,tolvaptan,6165A,high_bp_med
+616504ATB,C03XA01,tolvaptan,6165A,high_bp_med
+124801ATB,C07AA15,carteolol,1248A,high_bp_med
+198301ATB,C07AA12,nadolol,1983A,high_bp_med
+219901ATB,C07AA05,propranolol,2199A,high_bp_med
+219904ATB,C07AA05,propranolol,2199A,high_bp_med
+230402ATB,C07AA07,sotalol,2304A,high_bp_med
+111402ATB,C07AB03,atenolol,1114A,high_bp_med
+111403ATB,C07AB03,atenolol,1114A,high_bp_med
+116801ATB,C07AB05,betaxolol,1168A,high_bp_med
+116803ATB,C07AB05,betaxolol,1168A,high_bp_med
+117001ATB,C07AB06,bevantolol,1170A,high_bp_med
+117002ATB,C07AB06,bevantolol,1170A,high_bp_med
+117901ATB,C07AB07,bisoprolol,1179A,high_bp_med
+117902ATB,C07AB07,bisoprolol,1179A,high_bp_med
+117903ATB,C07AB07,bisoprolol,1179A,high_bp_med
+117904ATB,C07AB07,bisoprolol,1179A,high_bp_med
+129101ATB,C07AB08,celiprolol,1291A,high_bp_med
+154430BIJ,C07AB09,esmolol,1544B,high_bp_med
+154431BIJ,C07AB09,esmolol,1544B,high_bp_med
+193802ATB,C07AB02,metoprolol,1938A,high_bp_med
+194003ATR,C07AB02,metoprolol,1940A,high_bp_med
+483101ATB,C07AB11,s-atenolol,4831A,high_bp_med
+483102ATB,C07AB11,s-atenolol,4831A,high_bp_med
+489501ATB,C07AB12,nebivolol,4895A,high_bp_med
+489502ATB,C07AB12,nebivolol,4895A,high_bp_med
+489503ATB,C07AB12,nebivolol,4895A,high_bp_med
+107901ATB,C07AG,Alpha and beta blocking agents,1079A,high_bp_med
+107902ATB,C07AG,Alpha and beta blocking agents,1079A,high_bp_med
+110201ATB,C07AG,Alpha and beta blocking agents,1102A,high_bp_med
+110202ATB,C07AG,Alpha and beta blocking agents,1102A,high_bp_med
+125001ATB,C07AG02,carvedilol,1250A,high_bp_med
+125002ATB,C07AG02,carvedilol,1250A,high_bp_med
+125003ATB,C07AG02,carvedilol,1250A,high_bp_med
+125004ACR,C07AG02,carvedilol,1250A,high_bp_med
+125004ATR,C07AG02,carvedilol,1250A,high_bp_med
+125005ATB,C07AG02,carvedilol,1250A,high_bp_med
+125006ACR,C07AG02,carvedilol,1250A,high_bp_med
+125006ATR,C07AG02,carvedilol,1250A,high_bp_med
+125007ACR,C07AG02,carvedilol,1250A,high_bp_med
+125007ATR,C07AG02,carvedilol,1250A,high_bp_med
+125008ACR,C07AG02,carvedilol,1250A,high_bp_med
+125008ATR,C07AG02,carvedilol,1250A,high_bp_med
+180230BIJ,C07AG01,labetalol,1802B,high_bp_med
+180231BIJ,C07AG01,labetalol,1802B,high_bp_med
+662201ATB,C07AG02,carvedilol,6622A,high_bp_med
+662202ATB,C07AG02,carvedilol,6622A,high_bp_med
+262600ATB,C07BB02,metoprolol and thiazides,2626A,high_bp_med
+469800ATB,C07BB07,bisoprolol and thiazides,4698A,high_bp_med
+469900ATB,C07BB07,bisoprolol and thiazides,4699A,high_bp_med
+470000ATB,C07BB07,bisoprolol and thiazides,4700A,high_bp_med
+262100ATB,C07CB03,atenolol and other diuretics,2621A,high_bp_med
+460200ATB,C07CB03,atenolol and other diuretics,4602A,high_bp_med
+262400ATR,C07FB02,metoprolol and felodipine,2624A,high_bp_med
+107601ATB,C08CA01,amlodipine,1076A,high_bp_med
+107601ATD,C08CA01,amlodipine,1076A,high_bp_med
+107602ATB,C08CA01,amlodipine,1076A,high_bp_med
+107602ATD,C08CA01,amlodipine,1076A,high_bp_med
+107603ATB,C08CA01,amlodipine,1076A,high_bp_med
+114001ACH,C08CA12,barnidipine,1140A,high_bp_med
+114002ACH,C08CA12,barnidipine,1140A,high_bp_med
+114003ACH,C08CA12,barnidipine,1140A,high_bp_med
+115101ATB,C08CA15,benidipine,1151A,high_bp_med
+115102ATB,C08CA15,benidipine,1151A,high_bp_med
+115103ATB,C08CA15,benidipine,1151A,high_bp_med
+115104ATB,C08CA15,benidipine,1151A,high_bp_med
+133101ATB,C08CA14,cilnidipine,1331A,high_bp_med
+133102ATB,C08CA14,cilnidipine,1331A,high_bp_med
+157501ATR,C08CA02,felodipine,1575A,high_bp_med
+157503ATR,C08CA02,felodipine,1575A,high_bp_med
+178902ATR,C08CA03,isradipine,1789A,high_bp_med
+180301ATB,C08CA09,lacidipine,1803A,high_bp_med
+180302ATB,C08CA09,lacidipine,1803A,high_bp_med
+180303ATB,C08CA09,lacidipine,1803A,high_bp_med
+182001ATB,C08CA13,lercanidipine,1820A,high_bp_med
+182002ATB,C08CA13,lercanidipine,1820A,high_bp_med
+188001ATB,C08CA11,manidipine,1880A,high_bp_med
+188002ATB,C08CA11,manidipine,1880A,high_bp_med
+201002ATB,C08CA04,nicardipine,2010A,high_bp_med
+201003ATR,C08CA04,nicardipine,2010A,high_bp_med
+201030BIJ,C08CA04,nicardipine,2010B,high_bp_med
+201031BIJ,C08CA04,nicardipine,2010B,high_bp_med
+201033BIJ,C08CA04,nicardipine,2010B,high_bp_med
+201401ATB,C08CA05,nifedipine,2014A,high_bp_med
+201405ATR,C08CA05,nifedipine,2014A,high_bp_med
+201407ATB,C08CA05,nifedipine,2014A,high_bp_med
+201409ATR,C08CA05,nifedipine,2014A,high_bp_med
+201901ATB,C08CA06,nimodipine,2019A,high_bp_med
+201930BIJ,C08CA06,nimodipine,2019B,high_bp_med
+356201ATB,C08CA07,nisoldipine,3562A,high_bp_med
+356202ATB,C08CA07,nisoldipine,3562A,high_bp_med
+356202ATR,C08CA07,nisoldipine,3562A,high_bp_med
+356203ATR,C08CA07,nisoldipine,3562A,high_bp_med
+441201ATB,C08CA,Dihydropyridine derivatives,4412A,high_bp_med
+441202ATB,C08CA,Dihydropyridine derivatives,4412A,high_bp_med
+459801ACH,C08CA01,amlodipine,4598A,high_bp_med
+459801ATB,C08CA01,amlodipine,4598A,high_bp_med
+459802ACH,C08CA01,amlodipine,4598A,high_bp_med
+459901ATB,C08CA01,amlodipine,4599A,high_bp_med
+459902ATB,C08CA01,amlodipine,4599A,high_bp_med
+464601ATB,C08CA01,amlodipine,4646A,high_bp_med
+470801ATB,C08CA01,amlodipine,4708A,high_bp_med
+470802ATB,C08CA01,amlodipine,4708A,high_bp_med
+476201ATB,C08CA01,amlodipine,4762A,high_bp_med
+479701ATB,C08CA01,amlodipine,4797A,high_bp_med
+483201ATB,C08CA01,amlodipine,4832A,high_bp_med
+483202ATB,C08CA01,amlodipine,4832A,high_bp_med
+486501ATB,C08CA17,levamlodipine,4865A,high_bp_med
+486502ATB,C08CA17,levamlodipine,4865A,high_bp_med
+486503ATB,C08CA17,levamlodipine,4865A,high_bp_med
+495901ATB,C08CA01,amlodipine,4959A,high_bp_med
+528201ATR,C08CA05,nifedipine,5282A,high_bp_med
+528202ATR,C08CA05,nifedipine,5282A,high_bp_med
+701401ATB,C08CA,Dihydropyridine derivatives,7014A,high_bp_med
+701402ATB,C08CA,Dihydropyridine derivatives,7014A,high_bp_med
+247603ATR,C08DA01,verapamil,2476A,high_bp_med
+247605ATR,C08DA01,verapamil,2476A,high_bp_med
+247606ATB,C08DA01,verapamil,2476A,high_bp_med
+247607ATB,C08DA01,verapamil,2476A,high_bp_med
+247630BIJ,C08DA01,verapamil,2476B,high_bp_med
+145701ACR,C08DB01,diltiazem,1457A,high_bp_med
+145703ACR,C08DB01,diltiazem,1457A,high_bp_med
+145704BIJ,C08DB01,diltiazem,1457B,high_bp_med
+145706ATB,C08DB01,diltiazem,1457A,high_bp_med
+145707ACR,C08DB01,diltiazem,1457A,high_bp_med
+145707ATR,C08DB01,diltiazem,1457A,high_bp_med
+104201ATB,C09AA,"ACE inhibitors, plain",1042A,high_bp_med
+104202ATB,C09AA,"ACE inhibitors, plain",1042A,high_bp_med
+122901ATB,C09AA01,captopril,1229A,high_bp_med
+122902ATB,C09AA01,captopril,1229A,high_bp_med
+122903ATB,C09AA01,captopril,1229A,high_bp_med
+133001ATB,C09AA08,cilazapril,1330A,high_bp_med
+133002ATB,C09AA08,cilazapril,1330A,high_bp_med
+133003ATB,C09AA08,cilazapril,1330A,high_bp_med
+151601ATB,C09AA02,enalapril,1516A,high_bp_med
+151603ATB,C09AA02,enalapril,1516A,high_bp_med
+163501ATB,C09AA09,fosinopril,1635A,high_bp_med
+163502ATB,C09AA09,fosinopril,1635A,high_bp_med
+173401ATB,C09AA16,imidapril,1734A,high_bp_med
+173402ATB,C09AA16,imidapril,1734A,high_bp_med
+184501ATB,C09AA03,lisinopril,1845A,high_bp_med
+211301ATB,C09AA04,perindopril,2113A,high_bp_med
+211302ATB,C09AA04,perindopril,2113A,high_bp_med
+221901ATB,C09AA06,quinapril,2219A,high_bp_med
+222401ATB,C09AA05,ramipril,2224A,high_bp_med
+222402ATB,C09AA05,ramipril,2224A,high_bp_med
+222404ATB,C09AA05,ramipril,2224A,high_bp_med
+235002ATB,C09AA14,temocapril,2350A,high_bp_med
+501601ATB,C09AA04,perindopril,5016A,high_bp_med
+501602ATB,C09AA04,perindopril,5016A,high_bp_med
+510401ATB,C09AA15,zofenopril,5104A,high_bp_med
+510402ATB,C09AA15,zofenopril,5104A,high_bp_med
+510403ATB,C09AA15,zofenopril,5104A,high_bp_med
+262200ATB,C09BA01,captopril and diuretics,2622A,high_bp_med
+262300ATB,C09BA01,captopril and diuretics,2623A,high_bp_med
+440300ATB,C09BA02,enalapril and diuretics,4403A,high_bp_med
+448600ATB,C09BA05,ramipril and diuretics,4486A,high_bp_med
+448700ATB,C09BA05,ramipril and diuretics,4487A,high_bp_med
+499200ATB,C09BA03,lisinopril and diuretics,4992A,high_bp_med
+499300ATB,C09BA03,lisinopril and diuretics,4993A,high_bp_med
+556200ATB,C09BA04,perindopril and diuretics,5562A,high_bp_med
+447100ATB,C09BB05,ramipril and felodipine,4471A,high_bp_med
+447200ATB,C09BB05,ramipril and felodipine,4472A,high_bp_med
+122601ATB,C09CA06,candesartan,1226A,high_bp_med
+122602ATB,C09CA06,candesartan,1226A,high_bp_med
+122603ATB,C09CA06,candesartan,1226A,high_bp_med
+177301ATB,C09CA04,irbesartan,1773A,high_bp_med
+177303ATB,C09CA04,irbesartan,1773A,high_bp_med
+185701ATB,C09CA01,losartan,1857A,high_bp_med
+185702ATB,C09CA01,losartan,1857A,high_bp_med
+185703ATB,C09CA01,losartan,1857A,high_bp_med
+247101ATB,C09CA03,valsartan,2471A,high_bp_med
+247102ATB,C09CA03,valsartan,2471A,high_bp_med
+247103ATB,C09CA03,valsartan,2471A,high_bp_med
+247104ATB,C09CA03,valsartan,2471A,high_bp_med
+378801ATB,C09CA07,telmisartan,3788A,high_bp_med
+378802ATB,C09CA07,telmisartan,3788A,high_bp_med
+378803ATB,C09CA07,telmisartan,3788A,high_bp_med
+429201ATB,C09CA02,eprosartan,4292A,high_bp_med
+468501ATB,C09CA08,olmesartan medoxomil,4685A,high_bp_med
+468502ATB,C09CA08,olmesartan medoxomil,4685A,high_bp_med
+468503ATB,C09CA08,olmesartan medoxomil,4685A,high_bp_med
+515201ATB,C09CA10,fimasartan,5152A,high_bp_med
+515202ATB,C09CA10,fimasartan,5152A,high_bp_med
+515203ATB,C09CA10,fimasartan,5152A,high_bp_med
+520901ATB,C09CA08,olmesartan medoxomil,5209A,high_bp_med
+520902ATB,C09CA08,olmesartan medoxomil,5209A,high_bp_med
+662401ATB,C09CA09,azilsartan medoxomil,6624A,high_bp_med
+662402ATB,C09CA09,azilsartan medoxomil,6624A,high_bp_med
+662403ATB,C09CA09,azilsartan medoxomil,6624A,high_bp_med
+262500ATB,C09DA01,losartan and diuretics,2625A,high_bp_med
+356400ATB,C09DA03,valsartan and diuretics,3564A,high_bp_med
+378900ATB,C09DA01,losartan and diuretics,3789A,high_bp_med
+385700ATB,C09DA04,irbesartan and diuretics,3857A,high_bp_med
+385800ATB,C09DA04,irbesartan and diuretics,3858A,high_bp_med
+423700ATB,C09DA06,candesartan and diuretics ,4237A,high_bp_med
+442600ATB,C09DA03,valsartan and diuretics,4426A,high_bp_med
+443200ATB,C09DA07,telmisartan and diuretics,4432A,high_bp_med
+443300ATB,C09DA07,telmisartan and diuretics,4433A,high_bp_med
+460500ATB,C09DA02,eprosartan and diuretics,4605A,high_bp_med
+486900ATB,C09DA01,losartan and diuretics,4869A,high_bp_med
+502600ATB,C09DA07,telmisartan and diuretics,5026A,high_bp_med
+513600ATB,C09DA08,olmesartan medoxomil and diuretics,5136A,high_bp_med
+522000ATB,C09DA10,fimasartan and diuretics,5220A,high_bp_med
+526800ATB,C09DA10,fimasartan and diuretics,5268A,high_bp_med
+673500ATB,C09DA09,azilsartan medoxomil and diuretics,6735A,high_bp_med
+673600ATB,C09DA09,azilsartan medoxomil and diuretics,6736A,high_bp_med
+709000ATB,C09DA01,losartan and diuretics,7090A,high_bp_med
+709100ATB,C09DA01,losartan and diuretics,7091A,high_bp_med
+721100ATB,C09DA01,losartan and diuretics,7211A,high_bp_med
+492800ATB,C09DB01,valsartan and amlodipine,4928A,high_bp_med
+492900ATB,C09DB01,valsartan and amlodipine,4929A,high_bp_med
+495800ATB,C09DB01,valsartan and amlodipine,4958A,high_bp_med
+500500ATB,C09DB02,olmesartan medoxomil and amlodipine,5005A,high_bp_med
+500600ATB,C09DB02,olmesartan medoxomil and amlodipine,5006A,high_bp_med
+502700ATB,C09DB06,losartan and amlodipine,5027A,high_bp_med
+503000ATB,C09DB06,losartan and amlodipine,5030A,high_bp_med
+511500ATB,C09DB04,telmisartan and amlodipine,5115A,high_bp_med
+511600ATB,C09DB04,telmisartan and amlodipine,5116A,high_bp_med
+511700ATB,C09DB04,telmisartan and amlodipine,5117A,high_bp_med
+513900ATB,C09DB06,losartan and amlodipine,5139A,high_bp_med
+521200ATB,C09DB04,telmisartan and amlodipine,5212A,high_bp_med
+521300ATB,C09DB04,telmisartan and amlodipine,5213A,high_bp_med
+521400ATB,C09DB04,telmisartan and amlodipine,5214A,high_bp_med
+522200ATB,C09DB08,valsartan and lercanidipine,5222A,high_bp_med
+522300ATB,C09DB08,valsartan and lercanidipine,5223A,high_bp_med
+522400ATB,C09DB08,valsartan and lercanidipine,5224A,high_bp_med
+522600ATB,C09DB01,valsartan and amlodipine,5226A,high_bp_med
+522700ATB,C09DB01,valsartan and amlodipine,5227A,high_bp_med
+522800ATB,C09DB01,valsartan and amlodipine,5228A,high_bp_med
+522900ATB,C09DB01,valsartan and amlodipine,5229A,high_bp_med
+523000ATB,C09DB01,valsartan and amlodipine,5230A,high_bp_med
+523100ATB,C09DB01,valsartan and amlodipine,5231A,high_bp_med
+523200ATB,C09DB01,valsartan and amlodipine,5232A,high_bp_med
+523300ATB,C09DB01,valsartan and amlodipine,5233A,high_bp_med
+523400ATB,C09DB01,valsartan and amlodipine,5234A,high_bp_med
+547500ATB,C09DB02,olmesartan medoxomil and amlodipine,5475A,high_bp_med
+547600ATB,C09DB02,olmesartan medoxomil and amlodipine,5476A,high_bp_med
+547700ATB,C09DB02,olmesartan medoxomil and amlodipine,5477A,high_bp_med
+547800ATB,C09DB02,olmesartan medoxomil and amlodipine,5478A,high_bp_med
+547900ATB,C09DB02,olmesartan medoxomil and amlodipine,5479A,high_bp_med
+548000ATB,C09DB02,olmesartan medoxomil and amlodipine,5480A,high_bp_med
+582200ATB,C09DB02,olmesartan medoxomil and amlodipine,5822A,high_bp_med
+582400ATB,C09DB02,olmesartan medoxomil and amlodipine,5824A,high_bp_med
+623100ATB,C09DB04,telmisartan and amlodipine,6231A,high_bp_med
+629400ATB,C09DB02,olmesartan medoxomil and amlodipine,6294A,high_bp_med
+629500ATB,C09DB02,olmesartan medoxomil and amlodipine,6295A,high_bp_med
+629600ATB,C09DB02,olmesartan medoxomil and amlodipine,6296A,high_bp_med
+631300ATB,C09DB02,olmesartan medoxomil and amlodipine,6313A,high_bp_med
+632800ATB,C09DB02,olmesartan medoxomil and amlodipine,6328A,high_bp_med
+632900ATB,C09DB02,olmesartan medoxomil and amlodipine,6329A,high_bp_med
+633000ATB,C09DB02,olmesartan medoxomil and amlodipine,6330A,high_bp_med
+637400ATB,C09DB06,losartan and amlodipine,6374A,high_bp_med
+637500ATB,C09DB06,losartan and amlodipine,6375A,high_bp_med
+637600ATB,C09DB06,losartan and amlodipine,6376A,high_bp_med
+644800ATB,C09DB04,telmisartan and amlodipine,6448A,high_bp_med
+651900ATB,C09DB09,fimasartan and amlodipine,6519A,high_bp_med
+652000ATB,C09DB09,fimasartan and amlodipine,6520A,high_bp_med
+652100ATB,C09DB09,fimasartan and amlodipine,6521A,high_bp_med
+652700ATB,C09DB09,fimasartan and amlodipine,6527A,high_bp_med
+652900ATB,C09DB07,candesartan and amlodipine,6529A,high_bp_med
+653000ATB,C09DB07,candesartan and amlodipine,6530A,high_bp_med
+653100ATB,C09DB07,candesartan and amlodipine,6531A,high_bp_med
+697300ATB,C09DB04,telmisartan and amlodipine,6973A,high_bp_med
+697400ATB,C09DB04,telmisartan and amlodipine,6974A,high_bp_med
+697500ATB,C09DB04,telmisartan and amlodipine,6975A,high_bp_med
+697600ATB,C09DB04,telmisartan and amlodipine,6976A,high_bp_med
+716100ATB,C09DB09,fimasartan and amlodipine,7161A,high_bp_med
+717500ATB,C09DB09,fimasartan and amlodipine,7175A,high_bp_med
+728200ATB,C09DB05,irbesartan and amlodipine,7282A,high_bp_med
+728300ATB,C09DB05,irbesartan and amlodipine,7283A,high_bp_med
+728400ATB,C09DB05,irbesartan and amlodipine,7284A,high_bp_med
+519700ATB,C09DX03,"olmesartan medoxomil, amlodipine and hydrochlorothiazide",5197A,high_bp_med
+519800ATB,C09DX03,"olmesartan medoxomil, amlodipine and hydrochlorothiazide",5198A,high_bp_med
+519900ATB,C09DX03,"olmesartan medoxomil, amlodipine and hydrochlorothiazide",5199A,high_bp_med
+520000ATB,C09DX03,"olmesartan medoxomil, amlodipine and hydrochlorothiazide",5200A,high_bp_med
+520100ATB,C09DX03,"olmesartan medoxomil, amlodipine and hydrochlorothiazide",5201A,high_bp_med
+651401ATB,C09DX04,valsartan and sacubitril,6514A,high_bp_med
+651402ATB,C09DX04,valsartan and sacubitril,6514A,high_bp_med
+651403ATB,C09DX04,valsartan and sacubitril,6514A,high_bp_med
+662800ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",6628A,high_bp_med
+662900ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",6629A,high_bp_med
+663000ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",6630A,high_bp_med
+663500ATB,C09DX08,"telmisartan, amlodipine and hydrochlorothiazide",6635A,high_bp_med
+663600ATB,C09DX08,"telmisartan, amlodipine and hydrochlorothiazide",6636A,high_bp_med
+663700ATB,C09DX08,"telmisartan, amlodipine and hydrochlorothiazide",6637A,high_bp_med
+663800ATB,C09DX08,"telmisartan, amlodipine and hydrochlorothiazide",6638A,high_bp_med
+682700ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",6827A,high_bp_med
+682800ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",6828A,high_bp_med
+682900ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",6829A,high_bp_med
+707500ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",7075A,high_bp_med
+707600ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",7076A,high_bp_med
+707700ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",7077A,high_bp_med
+710700ATB,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",7107A,high_bp_med
+227801ATB,C10AA01,simvastatin,2278A,dyslipidemia_med
+227801ATR,C10AA01,simvastatin,2278A,dyslipidemia_med
+227802ATB,C10AA01,simvastatin,2278A,dyslipidemia_med
+227803ATB,C10AA01,simvastatin,2278A,dyslipidemia_med
+227806ATB,C10AA01,simvastatin,2278A,dyslipidemia_med
+185801ATB,C10AA02,lovastatin,1858A,dyslipidemia_med
+216601ATB,C10AA03,pravastatin,2166A,dyslipidemia_med
+216602ATB,C10AA03,pravastatin,2166A,dyslipidemia_med
+216603ATB,C10AA03,pravastatin,2166A,dyslipidemia_med
+216604ATB,C10AA03,pravastatin,2166A,dyslipidemia_med
+162401ATB,C10AA04,fluvastatin,1624A,dyslipidemia_med
+162402ATB,C10AA04,fluvastatin,1624A,dyslipidemia_med
+162403ATR,C10AA04,fluvastatin,1624A,dyslipidemia_med
+111501ATB,C10AA05,atorvastatin,1115A,dyslipidemia_med
+111502ATB,C10AA05,atorvastatin,1115A,dyslipidemia_med
+111503ATB,C10AA05,atorvastatin,1115A,dyslipidemia_med
+111504ATB,C10AA05,atorvastatin,1115A,dyslipidemia_med
+502201ATB,C10AA05,atorvastatin,5022A,dyslipidemia_med
+502202ATB,C10AA05,atorvastatin,5022A,dyslipidemia_med
+502203ATB,C10AA05,atorvastatin,5022A,dyslipidemia_med
+502204ATB,C10AA05,atorvastatin,5022A,dyslipidemia_med
+454001ATB,C10AA07,rosuvastatin,4540A,dyslipidemia_med
+454001ATD,C10AA07,rosuvastatin,4540A,dyslipidemia_med
+454002ATB,C10AA07,rosuvastatin,4540A,dyslipidemia_med
+454002ATD,C10AA07,rosuvastatin,4540A,dyslipidemia_med
+454003ATB,C10AA07,rosuvastatin,4540A,dyslipidemia_med
+454003ATD,C10AA07,rosuvastatin,4540A,dyslipidemia_med
+454005ATB,C10AA07,rosuvastatin,4540A,dyslipidemia_med
+470901ATB,C10AA08,pitavastatin,4709A,dyslipidemia_med
+470902ATB,C10AA08,pitavastatin,4709A,dyslipidemia_med
+470903ATB,C10AA08,pitavastatin,4709A,dyslipidemia_med
+117101ATB,C10AB02,bezafibrate,1171A,dyslipidemia_med
+117102ATR,C10AB02,bezafibrate,1171A,dyslipidemia_med
+165001ACH,C10AB04,gemfibrozil,1650A,dyslipidemia_med
+165001ATB,C10AB04,gemfibrozil,1650A,dyslipidemia_med
+132301APD,C10AC01,colestyramine,1323A,dyslipidemia_med
+473001ATR,C10AD02,nicotinic acid,4730A,dyslipidemia_med
+473002ATR,C10AD02,nicotinic acid,4730A,dyslipidemia_med
+462201ATB,C10AX09,ezetimibe,4622A,dyslipidemia_med
+471000ATB,C10BA02,simvastatin and ezetimibe,4710A,dyslipidemia_med
+471100ATB,C10BA02,simvastatin and ezetimibe,4711A,dyslipidemia_med
+507800ATB,C10BA02,simvastatin and ezetimibe,5078A,dyslipidemia_med
+472300ATB,C10BX03,atorvastatin and amlodipine,4723A,dyslipidemia_med
+472400ATB,C10BX03,atorvastatin and amlodipine,4724A,dyslipidemia_med
+472500ATB,C10BX03,atorvastatin and amlodipine,4725A,dyslipidemia_med
+518900ATB,C10BX03,atorvastatin and amlodipine,5189A,dyslipidemia_med
+614500ATB,C10BX03,atorvastatin and amlodipine,6145A,dyslipidemia_med
+148601APD,N06DA02,donepezil,1486A,dementia_med
+148601ATB,N06DA02,donepezil,1486A,dementia_med
+148601ATD,N06DA02,donepezil,1486A,dementia_med
+148602APD,N06DA02,donepezil,1486A,dementia_med
+148602ATB,N06DA02,donepezil,1486A,dementia_med
+148602ATD,N06DA02,donepezil,1486A,dementia_med
+148603ATB,N06DA02,donepezil,1486A,dementia_med
+148604ATB,N06DA02,donepezil,1486A,dementia_med
+148630ALQ,N06DA02,donepezil,1486A,dementia_med
+148631ALQ,N06DA02,donepezil,1486A,dementia_med
+165301ATB,N06DX02,Ginkgo folium,1653A,dementia_med
+165303ATB,N06DX02,Ginkgo folium,1653A,dementia_med
+165305ATB,N06DX02,Ginkgo folium,1653A,dementia_med
+165310ATB,N06DX02,Ginkgo folium,1653A,dementia_med
+165330BIJ,N06DX02,Ginkgo folium,1653B,dementia_med
+165334ALQ,N06DX02,Ginkgo folium,1653A,dementia_med
+190001ATB,N06DX01,memantine,1900A,dementia_med
+190003ATD,N06DX01,memantine,1900A,dementia_med
+190004ATB,N06DX01,memantine,1900A,dementia_med
+190004ATD,N06DX01,memantine,1900A,dementia_med
+190005ATB,N06DX01,memantine,1900A,dementia_med
+190006ATD,N06DX01,memantine,1900A,dementia_med
+190030ASY,N06DX01,memantine,1900A,dementia_med
+190031ALQ,N06DX01,memantine,1900A,dementia_med
+224501ACH,N06DA03,rivastigmine,2245A,dementia_med
+224501ATB,N06DA03,rivastigmine,2245A,dementia_med
+224503ACH,N06DA03,rivastigmine,2245A,dementia_med
+224503ATB,N06DA03,rivastigmine,2245A,dementia_med
+224504ACH,N06DA03,rivastigmine,2245A,dementia_med
+224505ACH,N06DA03,rivastigmine,2245A,dementia_med
+224506CPC,N06DA03,rivastigmine,2245C,dementia_med
+224506CPL,N06DA03,rivastigmine,2245C,dementia_med
+224507CPC,N06DA03,rivastigmine,2245C,dementia_med
+224507CPL,N06DA03,rivastigmine,2245C,dementia_med
+224508CPC,N06DA03,rivastigmine,2245C,dementia_med
+385203ACR,N06DA04,galantamine,3852A,dementia_med
+385203ATR,N06DA04,galantamine,3852A,dementia_med
+385204ACR,N06DA04,galantamine,3852A,dementia_med
+385204ATR,N06DA04,galantamine,3852A,dementia_med
+385205ACR,N06DA04,galantamine,3852A,dementia_med
+385205ATR,N06DA04,galantamine,3852A,dementia_med
+643401ATD,N06DA02,donepezil,6434A,dementia_med
+643402ATD,N06DA02,donepezil,6434A,dementia_med
+643403CPC,N06DA02,donepezil,6434C,dementia_med
+643404CPC,N06DA02,donepezil,6434C,dementia_med
+100430BIJ,B01AC13,abciximab,1004B,stroke_med
+100431BIJ,B01AC13,abciximab,1004B,stroke_med
+111001ACE,B01AC06,acetylsalicylic acid,1110A,stroke_med
+111001ATB,B01AC06,acetylsalicylic acid,1110A,stroke_med
+111001ATE,B01AC06,acetylsalicylic acid,1110A,stroke_med
+111002ATE,B01AC06,acetylsalicylic acid,1110A,stroke_med
+111003ATE,B01AC06,acetylsalicylic acid,1110A,stroke_med
+116201ATB,B01AC19,beraprost,1162A,stroke_med
+116202ATB,B01AC19,beraprost,1162A,stroke_med
+133201ACR,B01AC23,cilostazol,1332A,stroke_med
+133201ATB,B01AC23,cilostazol,1332A,stroke_med
+133201ATR,B01AC23,cilostazol,1332A,stroke_med
+133202ATB,B01AC23,cilostazol,1332A,stroke_med
+133203ACR,B01AC23,cilostazol,1332A,stroke_med
+133203ATR,B01AC23,cilostazol,1332A,stroke_med
+136901ATB,B01AC04,clopidogrel,1369A,stroke_med
+136902ATB,B01AC04,clopidogrel,1369A,stroke_med
+174701ATB,B01AC10,indobufen,1747A,stroke_med
+184101ATB,B01AC28,limaprost,1841A,stroke_med
+226101ATB,B01AC,Platelet aggregation inhibitors excl. heparin,2261A,stroke_med
+226103ATR,B01AC,Platelet aggregation inhibitors excl. heparin,2261A,stroke_med
+239201ATB,B01AC05,ticlopidine,2392A,stroke_med
+239202ATB,B01AC05,ticlopidine,2392A,stroke_med
+240230BIJ,B01AC17,tirofiban,2402B,stroke_med
+244101ACH,B01AC18,triflusal,2441A,stroke_med
+244101ATB,B01AC18,triflusal,2441A,stroke_med
+244101ATE,B01AC18,triflusal,2441A,stroke_med
+244102ACH,B01AC18,triflusal,2441A,stroke_med
+359531BIJ,B01AC,Platelet aggregation inhibitors excl. heparin,3595B,stroke_med
+359532BIJ,B01AC,Platelet aggregation inhibitors excl. heparin,3595B,stroke_med
+471430CSI,B01AC11,iloprost,4714C,stroke_med
+489700ACR,B01AC30,combinations,4897A,stroke_med
+492501ATB,B01AC04,clopidogrel,4925A,stroke_med
+495201ATB,B01AC04,clopidogrel,4952A,stroke_med
+498801ATB,B01AC04,clopidogrel,4988A,stroke_med
+498900ATB,B01AC30,combinations,4989A,stroke_med
+501501ATB,B01AC04,clopidogrel,5015A,stroke_med
+506100ATB,B01AC,Platelet aggregation inhibitors excl. heparin,5061A,stroke_med
+512430BIJ,B01AC21,treprostinil,5124B,stroke_med
+512431BIJ,B01AC21,treprostinil,5124B,stroke_med
+512432BIJ,B01AC21,treprostinil,5124B,stroke_med
+517900ACE,B01AC30,combinations,5179A,stroke_med
+517900ATE,B01AC30,combinations,5179A,stroke_med
+597301ATB,B01AC22,prasugrel,5973A,stroke_med
+597302ATB,B01AC22,prasugrel,5973A,stroke_med
+615901ATB,B01AC24,ticagrelor,6159A,stroke_med
+615902ATB,B01AC24,ticagrelor,6159A,stroke_med
+652301ATB,B01AC27,selexipag,6523A,stroke_med
+652302ATB,B01AC27,selexipag,6523A,stroke_med
+652303ATB,B01AC27,selexipag,6523A,stroke_med
+652304ATB,B01AC27,selexipag,6523A,stroke_med
+667500ACE,B01AC30,combinations,6675A,stroke_med
+687200ATR,B01AC,Platelet aggregation inhibitors excl. heparin,6872A,stroke_med
+728500ACE,B01AC56,"acetylsalicylic acid, combinations with proton pump inhibitors",7285A,stroke_med
+249103ATB,B01AA03,warfarin,2491A,stroke_med
+249105ATB,B01AA03,warfarin,2491A,stroke_med
+109301BIJ,B01AB02,antithrombin III,1093B,stroke_med
+140230BIJ,B01AB04,dalteparin,1402B,stroke_med
+140231BIJ,B01AB04,dalteparin,1402B,stroke_med
+140232BIJ,B01AB04,dalteparin,1402B,stroke_med
+140233BIJ,B01AB04,dalteparin,1402B,stroke_med
+140234BIJ,B01AB04,dalteparin,1402B,stroke_med
+152130BIJ,B01AB05,enoxaparin,1521B,stroke_med
+152131BIJ,B01AB05,enoxaparin,1521B,stroke_med
+152132BIJ,B01AB05,enoxaparin,1521B,stroke_med
+152133BIJ,B01AB05,enoxaparin,1521B,stroke_med
+152134BIJ,B01AB05,enoxaparin,1521B,stroke_med
+168630BIJ,B01AB01,heparin,1686B,stroke_med
+168631BIJ,B01AB01,heparin,1686B,stroke_med
+168632BIJ,B01AB01,heparin,1686B,stroke_med
+168636BIJ,B01AB01,heparin,1686B,stroke_med
+168637BIJ,B01AB01,heparin,1686B,stroke_med
+168638BIJ,B01AB01,heparin,1686B,stroke_med
+198430BIJ,B01AB06,nadroparin,1984B,stroke_med
+198431BIJ,B01AB06,nadroparin,1984B,stroke_med
+198432BIJ,B01AB06,nadroparin,1984B,stroke_med
+233001ACS,B01AB,Heparin group,,stroke_med
+233001ATB,B01AB,Heparin group,2330A,stroke_med
+233303ACS,B01AB11,Sulodexide,2333A,stroke_med
+233303ATB,B01AB11,sulodexide,2333A,stroke_med
+465830BIJ,B01AB12,bemiparin,4658B,stroke_med
+465831BIJ,B01AB12,bemiparin,4658B,stroke_med
+359632BIJ,B01AE03,argatroban,3596B,stroke_med
+359633BIJ,B01AE03,argatroban,3596B,stroke_med
+613701ACH,B01AE07,dabigatran etexilate,6137A,stroke_med
+613702ACH,B01AE07,dabigatran etexilate,6137A,stroke_med
+511401ATB,B01AF01,rivaroxaban,5114A,stroke_med
+511402ATB,B01AF01,rivaroxaban,5114A,stroke_med
+511403ATB,B01AF01,rivaroxaban,5114A,stroke_med
+511404ACH,B01AF01,rivaroxaban,5114A,stroke_med
+511404ATB,B01AF01,rivaroxaban,5114A,stroke_med
+617001ATB,B01AF02,apixaban,6170A,stroke_med
+617002ATB,B01AF02,apixaban,6170A,stroke_med
+643601ATB,B01AF03,edoxaban,6436A,stroke_med
+643602ATB,B01AF03,edoxaban,6436A,stroke_med
+643603ATB,B01AF03,edoxaban,6436A,stroke_med
+223501BIJ,B01AD02,alteplase,2235B,stroke_med
+223502BIJ,B01AD02,alteplase,2235B,stroke_med
+246401BIJ,B01AD04,urokinase,2464B,stroke_med
+246405BIJ,B01AD04,urokinase,2464B,stroke_med
+246406BIJ,B01AD04,urokinase,2464B,stroke_med
+450302BIJ,B01AD11,tenecteplase,4503B,stroke_med
+635801BIJ,B01AD12,protein C,6358B,stroke_med
+111501ATB,C10AA05,atorvastatin,1115A,stroke_med
+111502ATB,C10AA05,atorvastatin,1115A,stroke_med
+111503ATB,C10AA05,atorvastatin,1115A,stroke_med
+111504ATB,C10AA05,atorvastatin,1115A,stroke_med
+162401ATB,C10AA04,fluvastatin,1624A,stroke_med
+162402ATB,C10AA04,fluvastatin,1624A,stroke_med
+162403ATR,C10AA04,fluvastatin,1624A,stroke_med
+185801ATB,C10AA02,lovastatin,1858A,stroke_med
+216601ATB,C10AA03,pravastatin,2166A,stroke_med
+216602ATB,C10AA03,pravastatin,2166A,stroke_med
+216603ATB,C10AA03,pravastatin,2166A,stroke_med
+216604ATB,C10AA03,pravastatin,2166A,stroke_med
+227801ATB,C10AA01,simvastatin,2278A,stroke_med
+227801ATR,C10AA01,simvastatin,2278A,stroke_med
+227802ATB,C10AA01,simvastatin,2278A,stroke_med
+227803ATB,C10AA01,simvastatin,2278A,stroke_med
+227806ATB,C10AA01,simvastatin,2278A,stroke_med
+454001ATB,C10AA07,rosuvastatin,4540A,stroke_med
+454001ATD,C10AA07,rosuvastatin,4540A,stroke_med
+454002ATB,C10AA07,rosuvastatin,4540A,stroke_med
+454002ATD,C10AA07,rosuvastatin,4540A,stroke_med
+454003ATB,C10AA07,rosuvastatin,4540A,stroke_med
+454003ATD,C10AA07,rosuvastatin,4540A,stroke_med
+454005ATB,C10AA07,rosuvastatin,4540A,stroke_med
+470901ATB,C10AA08,pitavastatin,4709A,stroke_med
+470902ATB,C10AA08,pitavastatin,4709A,stroke_med
+470903ATB,C10AA08,pitavastatin,4709A,stroke_med
+502201ATB,C10AA05,atorvastatin,5022A,stroke_med
+502202ATB,C10AA05,atorvastatin,5022A,stroke_med
+502203ATB,C10AA05,atorvastatin,5022A,stroke_med
+502204ATB,C10AA05,atorvastatin,5022A,stroke_med
+111402ATB,C07AB03,atenolol,1114A,stroke_med
+111403ATB,C07AB03,atenolol,1114A,stroke_med
+116801ATB,C07AB05,betaxolol,1168A,stroke_med
+116803ATB,C07AB05,betaxolol,1168A,stroke_med
+117001ATB,C07AB06,bevantolol,1170A,stroke_med
+117002ATB,C07AB06,bevantolol,1170A,stroke_med
+117901ATB,C07AB07,bisoprolol,1179A,stroke_med
+117902ATB,C07AB07,bisoprolol,1179A,stroke_med
+117903ATB,C07AB07,bisoprolol,1179A,stroke_med
+117904ATB,C07AB07,bisoprolol,1179A,stroke_med
+129101ATB,C07AB08,celiprolol,1291A,stroke_med
+154430BIJ,C07AB09,esmolol,1544B,stroke_med
+154431BIJ,C07AB09,esmolol,1544B,stroke_med
+193802ATB,C07AB02,metoprolol,1938A,stroke_med
+194003ATR,C07AB02,metoprolol,1940A,stroke_med
+483101ATB,C07AB11,s-atenolol,4831A,stroke_med
+483102ATB,C07AB11,s-atenolol,4831A,stroke_med
+489501ATB,C07AB12,nebivolol,4895A,stroke_med
+489502ATB,C07AB12,nebivolol,4895A,stroke_med
+489503ATB,C07AB12,nebivolol,4895A,stroke_med
+104201ATB,C09AA,"ACE inhibitors, plain",1042A,stroke_med
+104202ATB,C09AA,"ACE inhibitors, plain",1042A,stroke_med
+122901ATB,C09AA01,captopril,1229A,stroke_med
+122902ATB,C09AA01,captopril,1229A,stroke_med
+122903ATB,C09AA01,captopril,1229A,stroke_med
+133001ATB,C09AA08,cilazapril,1330A,stroke_med
+133002ATB,C09AA08,cilazapril,1330A,stroke_med
+133003ATB,C09AA08,cilazapril,1330A,stroke_med
+151601ATB,C09AA02,enalapril,1516A,stroke_med
+151603ATB,C09AA02,enalapril,1516A,stroke_med
+163501ATB,C09AA09,fosinopril,1635A,stroke_med
+163502ATB,C09AA09,fosinopril,1635A,stroke_med
+173401ATB,C09AA16,imidapril,1734A,stroke_med
+173402ATB,C09AA16,imidapril,1734A,stroke_med
+184501ATB,C09AA03,lisinopril,1845A,stroke_med
+211301ATB,C09AA04,perindopril,2113A,stroke_med
+211302ATB,C09AA04,perindopril,2113A,stroke_med
+221901ATB,C09AA06,quinapril,2219A,stroke_med
+222401ATB,C09AA05,ramipril,2224A,stroke_med
+222402ATB,C09AA05,ramipril,2224A,stroke_med
+222404ATB,C09AA05,ramipril,2224A,stroke_med
+235002ATB,C09AA14,temocapril,2350A,stroke_med
+501601ATB,C09AA04,perindopril,5016A,stroke_med
+501602ATB,C09AA04,perindopril,5016A,stroke_med
+510401ATB,C09AA15,zofenopril,5104A,stroke_med
+510402ATB,C09AA15,zofenopril,5104A,stroke_med
+510403ATB,C09AA15,zofenopril,5104A,stroke_med
+122601ATB,C09CA06,candesartan,1226A,stroke_med
+122602ATB,C09CA06,candesartan,1226A,stroke_med
+122603ATB,C09CA06,candesartan,1226A,stroke_med
+177301ATB,C09CA04,irbesartan,1773A,stroke_med
+177303ATB,C09CA04,irbesartan,1773A,stroke_med
+185701ATB,C09CA01,losartan,1857A,stroke_med
+185702ATB,C09CA01,losartan,1857A,stroke_med
+185703ATB,C09CA01,losartan,1857A,stroke_med
+247101ATB,C09CA03,valsartan,2471A,stroke_med
+247102ATB,C09CA03,valsartan,2471A,stroke_med
+247103ATB,C09CA03,valsartan,2471A,stroke_med
+247104ATB,C09CA03,valsartan,2471A,stroke_med
+378801ATB,C09CA07,telmisartan,3788A,stroke_med
+378802ATB,C09CA07,telmisartan,3788A,stroke_med
+378803ATB,C09CA07,telmisartan,3788A,stroke_med
+429201ATB,C09CA02,eprosartan,4292A,stroke_med
+468501ATB,C09CA08,olmesartan medoxomil,4685A,stroke_med
+468502ATB,C09CA08,olmesartan medoxomil,4685A,stroke_med
+468503ATB,C09CA08,olmesartan medoxomil,4685A,stroke_med
+515201ATB,C09CA10,fimasartan,5152A,stroke_med
+515202ATB,C09CA10,fimasartan,5152A,stroke_med
+515203ATB,C09CA10,fimasartan,5152A,stroke_med
+520901ATB,C09CA08,olmesartan medoxomil,5209A,stroke_med
+520902ATB,C09CA08,olmesartan medoxomil,5209A,stroke_med
+662401ATB,C09CA09,azilsartan medoxomil,6624A,stroke_med
+662402ATB,C09CA09,azilsartan medoxomil,6624A,stroke_med
+662403ATB,C09CA09,azilsartan medoxomil,6624A,stroke_med
+107601ATB,C08CA01,amlodipine,1076A,stroke_med
+107601ATD,C08CA01,amlodipine,1076A,stroke_med
+107602ATB,C08CA01,amlodipine,1076A,stroke_med
+107602ATD,C08CA01,amlodipine,1076A,stroke_med
+107603ATB,C08CA01,amlodipine,1076A,stroke_med
+114001ACH,C08CA12,barnidipine,1140A,stroke_med
+114002ACH,C08CA12,barnidipine,1140A,stroke_med
+114003ACH,C08CA12,barnidipine,1140A,stroke_med
+115101ATB,C08CA15,benidipine,1151A,stroke_med
+115102ATB,C08CA15,benidipine,1151A,stroke_med
+115103ATB,C08CA15,benidipine,1151A,stroke_med
+115104ATB,C08CA15,benidipine,1151A,stroke_med
+133101ATB,C08CA14,cilnidipine,1331A,stroke_med
+133102ATB,C08CA14,cilnidipine,1331A,stroke_med
+157501ATR,C08CA02,felodipine,1575A,stroke_med
+157503ATR,C08CA02,felodipine,1575A,stroke_med
+178902ATR,C08CA03,isradipine,1789A,stroke_med
+180301ATB,C08CA09,lacidipine,1803A,stroke_med
+180302ATB,C08CA09,lacidipine,1803A,stroke_med
+180303ATB,C08CA09,lacidipine,1803A,stroke_med
+182001ATB,C08CA13,lercanidipine,1820A,stroke_med
+182002ATB,C08CA13,lercanidipine,1820A,stroke_med
+188001ATB,C08CA11,manidipine,1880A,stroke_med
+188002ATB,C08CA11,manidipine,1880A,stroke_med
+201002ATB,C08CA04,nicardipine,2010A,stroke_med
+201003ATR,C08CA04,nicardipine,2010A,stroke_med
+201030BIJ,C08CA04,nicardipine,2010B,stroke_med
+201031BIJ,C08CA04,nicardipine,2010B,stroke_med
+201033BIJ,C08CA04,nicardipine,2010B,stroke_med
+201401ATB,C08CA05,nifedipine,2014A,stroke_med
+201405ATR,C08CA05,nifedipine,2014A,stroke_med
+201407ATB,C08CA05,nifedipine,2014A,stroke_med
+201409ATR,C08CA05,nifedipine,2014A,stroke_med
+201901ATB,C08CA06,nimodipine,2019A,stroke_med
+201930BIJ,C08CA06,nimodipine,2019B,stroke_med
+356201ATB,C08CA07,nisoldipine,3562A,stroke_med
+356202ATB,C08CA07,nisoldipine,3562A,stroke_med
+356202ATR,C08CA07,nisoldipine,3562A,stroke_med
+356203ATR,C08CA07,nisoldipine,3562A,stroke_med
+441201ATB,C08CA,Dihydropyridine derivatives,4412A,stroke_med
+441202ATB,C08CA,Dihydropyridine derivatives,4412A,stroke_med
+459801ACH,C08CA01,amlodipine,4598A,stroke_med
+459801ATB,C08CA01,amlodipine,4598A,stroke_med
+459802ACH,C08CA01,amlodipine,4598A,stroke_med
+459901ATB,C08CA01,amlodipine,4599A,stroke_med
+459902ATB,C08CA01,amlodipine,4599A,stroke_med
+464601ATB,C08CA01,amlodipine,4646A,stroke_med
+470801ATB,C08CA01,amlodipine,4708A,stroke_med
+470802ATB,C08CA01,amlodipine,4708A,stroke_med
+476201ATB,C08CA01,amlodipine,4762A,stroke_med
+479701ATB,C08CA01,amlodipine,4797A,stroke_med
+483201ATB,C08CA01,amlodipine,4832A,stroke_med
+483202ATB,C08CA01,amlodipine,4832A,stroke_med
+486501ATB,C08CA17,levamlodipine,4865A,stroke_med
+486502ATB,C08CA17,levamlodipine,4865A,stroke_med
+486503ATB,C08CA17,levamlodipine,4865A,stroke_med
+495901ATB,C08CA01,amlodipine,4959A,stroke_med
+528201ATR,C08CA05,nifedipine,5282A,stroke_med
+528202ATR,C08CA05,nifedipine,5282A,stroke_med
+701401ATB,C08CA,Dihydropyridine derivatives,7014A,stroke_med
+701402ATB,C08CA,Dihydropyridine derivatives,7014A,stroke_med
+247603ATR,C08DA01,verapamil,2476A,stroke_med
+247605ATR,C08DA01,verapamil,2476A,stroke_med
+247606ATB,C08DA01,verapamil,2476A,stroke_med
+247607ATB,C08DA01,verapamil,2476A,stroke_med
+247630BIJ,C08DA01,verapamil,2476B,stroke_med
+170801ATB,C03AA03,hydrochlorothiazide,1708A,stroke_med
+112901ATB,C03CA,"Sulfonamides, plain",1129A,stroke_med
+163801ATB,C03CA01,furosemide,1638A,stroke_med
+163830BIJ,C03CA01,furosemide,1638B,stroke_med
+242001ATB,C03CA04,torasemide,2420A,stroke_med
+242002ATB,C03CA04,torasemide,2420A,stroke_med
+242003ATB,C03CA04,torasemide,2420A,stroke_med
+242004ATB,C03CA04,torasemide,2420A,stroke_med
+178401ATB,C01DA08,isosorbide dinitrate,1784A,stroke_med
+178403ACR,C01DA08,isosorbide dinitrate,1784A,stroke_med
+178406ACR,C01DA08,isosorbide dinitrate,1784A,stroke_med
+178407ATR,C01DA08,isosorbide dinitrate,1784A,stroke_med
+178430BIJ,C01DA08,isosorbide dinitrate,1784B,stroke_med
+178431BIJ,C01DA08,isosorbide dinitrate,1784B,stroke_med
+178432CSI,C01DA08,isosorbide dinitrate,1784C,stroke_med
+178501ATB,C01DA14,isosorbide mononitrate,1785A,stroke_med
+178502ATB,C01DA14,isosorbide mononitrate,1785A,stroke_med
+178503ACR,C01DA14,isosorbide mononitrate,1785A,stroke_med
+178503ATR,C01DA14,isosorbide mononitrate,1785A,stroke_med
+178504ATR,C01DA14,isosorbide mononitrate,1785A,stroke_med
+178506ATR,C01DA14,isosorbide mononitrate,1785A,stroke_med
+202602ATL,C01DA02,glyceryl trinitrate,2026A,stroke_med
+202630CSI,C01DA02,glyceryl trinitrate,2026C,stroke_med
+202632BIJ,C01DA02,glyceryl trinitrate,2026B,stroke_med
+202633BIJ,C01DA02,glyceryl trinitrate,2026B,stroke_med
+202634CPC,C01DA02,glyceryl trinitrate,2026C,stroke_med
+202635BIJ,C01DA02,glyceryl trinitrate,2026B,stroke_med
+202637CSI,C01DA02,glyceryl trinitrate,2026C,stroke_med
+119530CSI,R03BA02,budesonide,1195C,asthma_med
+119531CSI,R03BA02,budesonide,1195C,asthma_med
+119533CSI,R03BA02,budesonide,1195C,asthma_med
+162230CSY,R03BA05,fluticasone,1622C,asthma_med
+162231CSS,R03BA05,fluticasone,1622C,asthma_med
+162232CSI,R03BA05,fluticasone,1622C,asthma_med
+162233CSI,R03BA05,fluticasone,1622C,asthma_med
+162235CSI,R03BA05,fluticasone,1622C,asthma_med
+162236CSI,R03BA05,fluticasone,1622C,asthma_med
+497130CSI,R03BA08,ciclesonide,4971C,asthma_med
+497131CSI,R03BA08,ciclesonide,4971C,asthma_med
+225503ACR,R03AC02,Salbutamol,2255A,asthma_med
+225530CSI,R03AC02,salbutamol,2255C,asthma_med
+225531CSI,R03AC02,salbutamol,2255C,asthma_med
+225532CSI,R03AC02,salbutamol,2255C,asthma_med
+225501ATB,R03CC02,salbutamol,2255A,asthma_med
+225503ATB,R03CC02,salbutamol,2255A,asthma_med
+225503ATR,R03CC02,salbutamol,2255A,asthma_med
+225507ATR,R03CC02,salbutamol,2255A,asthma_med
+163130ASY,R03AC13,formoterol,1631A,asthma_med
+163131ASY,R03AC13,formoterol,1631A,asthma_med
+543800CSI,R03AK07,formoterol and budesonide,5438C,asthma_med
+543900CSI,R03AK07,formoterol and budesonide,5439C,asthma_med
+544000CSI,R03AK07,formoterol and budesonide,5440C,asthma_med
+544100CSI,R03AK07,formoterol and budesonide,5441C,asthma_med
+801100CSI,R03AK07,formoterol and budesonide,8011C,asthma_med
+543100CSI,R03AK06,salmeterol and fluticasone,5431C,asthma_med
+543200CSI,R03AK06,salmeterol and fluticasone,5432C,asthma_med
+543300CSI,R03AK06,salmeterol and fluticasone,5433C,asthma_med
+543400CSI,R03AK06,salmeterol and fluticasone,5434C,asthma_med
+543500CSI,R03AK06,salmeterol and fluticasone,5435C,asthma_med
+543600CSI,R03AK06,salmeterol and fluticasone,5436C,asthma_med
+544300CSI,R03AK06,salmeterol and fluticasone,5443C,asthma_med
+544400CSI,R03AK06,salmeterol and fluticasone,5444C,asthma_med
+544500CSI,R03AK06,salmeterol and fluticasone,5445C,asthma_med
+374601ASY,R03DC03,montelukast,3746A,asthma_med
+374601ATB,R03DC03,montelukast,3746A,asthma_med
+374601ATD,R03DC03,montelukast,3746A,asthma_med
+374602ATB,R03DC03,montelukast,3746A,asthma_med
+374602ATD,R03DC03,montelukast,3746A,asthma_med
+374603AGN,R03DC03,montelukast,3746A,asthma_med
+374603ASY,R03DC03,montelukast,3746A,asthma_med
+374603ATB,R03DC03,montelukast,3746A,asthma_med
+374603ATD,R03DC03,montelukast,3746A,asthma_med
+249701ATB,R03DC01,zafirlukast,2497A,asthma_med
+572901BIJ,R03DX05,omalizumab,5729B,asthma_med
+572903BIJ,R03DX05,omalizumab,5729B,asthma_med
+572904BIJ,R03DX05,omalizumab,5729B,asthma_med
+237001ACR,R03DA04,theophylline,2370A,asthma_med
+237001ATB,R03DA04,theophylline,2370A,asthma_med
+237002ATR,R03DA04,theophylline,2370A,asthma_med
+237003ACR,R03DA04,theophylline,2370A,asthma_med
+237003ATB,R03DA04,theophylline,2370A,asthma_med
+237003ATR,R03DA04,theophylline,2370A,asthma_med
+237005ATR,R03DA04,theophylline,2370A,asthma_med
+237030ASY,R03DA04,theophylline,2370A,asthma_med
+237031ASY,R03DA04,theophylline,2370A,asthma_med
+107301ATB,R03DA05,aminophylline,1073A,asthma_med
+107301ATR,R03DA05,aminophylline,1073A,asthma_med
+107303ATR,R03DA05,aminophylline,1073A,asthma_med
+107330BIJ,R03DA05,aminophylline,1073B,asthma_med
+177132CLQ,R01AX03,ipratropium bromide,1771C,asthma_med
+177131CLQ,R03BB01,ipratropium bromide,1771C,asthma_med
+457301CCH,R03BB04,tiotropium bromide,4573C,asthma_med
+457301CTB,R03BB04,tiotropium bromide,4573C,asthma_med
+457330CSI,R03BB04,tiotropium bromide,4573C,asthma_med
+503430CSI,R03BB04,tiotropium bromide,5034C,asthma_med
+152631CLQ,R03AA01,epinephrine,1526C,asthma_med
+152632CLQ,R03AA01,epinephrine,1526C,asthma_med
+152633CLQ,R03AA01,epinephrine,1526C,asthma_med
+152634CLQ,R03AA01,epinephrine,1526C,asthma_med
+152430BIJ,R03CA02,ephedrine,1524B,asthma_med
+243201ATB,H02AB08,triamcinolone,2432A,asthma_med
+243202ATB,H02AB08,triamcinolone,2432A,asthma_med
+243203ATB,H02AB08,triamcinolone,2432A,asthma_med
+243335BIJ,H02AB08,triamcinolone,2433B,asthma_med
+243336BIJ,H02AB08,triamcinolone,2433B,asthma_med
+243337BIJ,H02AB08,triamcinolone,2433B,asthma_med
+217001ATB,H02AB06,prednisolone,2170A,asthma_med
+217034ASY,H02AB06,prednisolone,2170A,asthma_med
+217035ASY,H02AB06,prednisolone,2170A,asthma_med
+217302BIJ,H02AB06,prednisolone,2173B,asthma_med
+193302ATB,H02AB04,methylprednisolone,1933A,asthma_med
+193304ATB,H02AB04,methylprednisolone,1933A,asthma_med
+193305ATB,H02AB04,methylprednisolone,1933A,asthma_med
+193530BIJ,H02AB04,methylprednisolone,1935B,asthma_med
+193531BIJ,H02AB04,methylprednisolone,1935B,asthma_med
+193601BIJ,H02AB04,methylprednisolone,1936B,asthma_med
+193603BIJ,H02AB04,methylprednisolone,1936B,asthma_med
+193604BIJ,H02AB04,methylprednisolone,1936B,asthma_med
+116401ATB,H02AB01,betamethasone,1164A,asthma_med
+116530BIJ,H02AB01,betamethasone,1165B,asthma_med
+170901ATB,H02AB09,hydrocortisone,1709A,asthma_med
+170906ATB,H02AB09,hydrocortisone,1709A,asthma_med
+171201BIJ,H02AB09,hydrocortisone,1712B,asthma_med
+171202BIJ,H02AB09,hydrocortisone,1712B,asthma_med
+141901ATB,H02AB02,dexamethasone,1419A,asthma_med
+141903ATB,H02AB02,dexamethasone,1419A,asthma_med
+141904ATB,H02AB02,dexamethasone,1419A,asthma_med
+142030BIJ,H02AB02,dexamethasone,1420B,asthma_med
+142230BIJ,H02AB02,dexamethasone,1422B,asthma_med
+142232BIJ,H02AB02,dexamethasone,1422B,asthma_med
+142233BIJ,H02AB02,dexamethasone,1422B,asthma_med
+182930CSI,R01AC02,levocabastine,1829C,asthma_med
+180101ATB,R06AX17,ketotifen,1801A,asthma_med
+180140ASY,R06AX17,ketotifen,1801A,asthma_med
+180141ASY,R06AX17,ketotifen,1801A,asthma_med
+180142ASY,R06AX17,ketotifen,1801A,asthma_med
+180143ASY,R06AX17,ketotifen,1801A,asthma_med
+180151ASY,R06AX17,ketotifen,1801A,asthma_med
+130901ATB,L01AA02,chlorambucil,1309A,antineoplastic
+139001ATB,L01AA01,cyclophosphamide,1390A,antineoplastic
+139005BIJ,L01AA01,cyclophosphamide,1390B,antineoplastic
+173301BIJ,L01AA06,ifosfamide,1733B,antineoplastic
+189901ATB,L01AA03,melphalan,1899A,antineoplastic
+189902BIJ,L01AA03,melphalan,1899B,antineoplastic
+614601BIJ,L01AA09,bendamustine,6146B,antineoplastic
+614602BIJ,L01AA09,bendamustine,6146B,antineoplastic
+120630BIJ,L01AB01,busulfan,1206B,antineoplastic
+198001BIJ,L01AC01,thiotepa,1980B,antineoplastic
+198003BIJ,L01AC01,thiotepa,1980B,antineoplastic
+139901BIJ,L01AX04,dacarbazine,1399B,antineoplastic
+139902BIJ,L01AX04,dacarbazine,1399B,antineoplastic
+358202ACH,L01AX03,temozolomide,3582A,antineoplastic
+358202ATB,L01AX03,temozolomide,3582A,antineoplastic
+358203ACH,L01AX03,temozolomide,3582A,antineoplastic
+358203ATB,L01AX03,temozolomide,3582A,antineoplastic
+358204ACH,L01AX03,temozolomide,3582A,antineoplastic
+192139BIJ,L01BA01,methotrexate,1921B,antineoplastic
+192141BIJ,L01BA01,methotrexate,1921B,antineoplastic
+192142BIJ,L01BA01,methotrexate,1921B,antineoplastic
+192143BIJ,L01BA01,methotrexate,1921B,antineoplastic
+481203BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+481230BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+481231BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+481232BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+481233BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+481234BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+481235BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+481237BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+481239BIJ,L01BA04,pemetrexed,4812B,antineoplastic
+134830BIJ,L01BB04,cladribine,1348B,antineoplastic
+160101BIJ,L01BB05,fludarabine,1601B,antineoplastic
+160102ATB,L01BB05,fludarabine,1601A,antineoplastic
+190601ATB,L01BB02,mercaptopurine,1906A,antineoplastic
+614330BIJ,L01BB06,clofarabine,6143B,antineoplastic
+122701ATB,L01BC06,capecitabine,1227A,antineoplastic
+122702ATB,L01BC06,capecitabine,1227A,antineoplastic
+139601BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139602BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139631BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139632BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139633BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139634BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139635BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139636BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139637BIJ,L01BC01,cytarabine,1396B,antineoplastic
+139638BIJ,L01BC01,cytarabine,1396B,antineoplastic
+149301ATB,L01BC,Pyrimidine analogues,1493A,antineoplastic
+149302ACH,L01BC,Pyrimidine analogues,1493A,antineoplastic
+149302ATB,L01BC,Pyrimidine analogues,1493A,antineoplastic
+151901BIJ,L01BC,Pyrimidine analogues,1519B,antineoplastic
+161430BIJ,L01BC02,fluorouracil,1614B,antineoplastic
+161431BIJ,L01BC02,fluorouracil,1614B,antineoplastic
+161432BIJ,L01BC02,fluorouracil,1614B,antineoplastic
+164930BIJ,L01BC05,gemcitabine,1649B,antineoplastic
+164931BIJ,L01BC05,gemcitabine,1649B,antineoplastic
+164932BIJ,L01BC05,gemcitabine,1649B,antineoplastic
+164933BIJ,L01BC05,gemcitabine,1649B,antineoplastic
+309600AGN,L01BC53,"tegafur, combinations",3096A,antineoplastic
+309700ACH,L01BC53,"tegafur, combinations",3097A,antineoplastic
+309700ATB,L01BC53,"tegafur, combinations",3097A,antineoplastic
+364100AGN,L01BC53,"tegafur, combinations",3641A,antineoplastic
+452400ACH,L01BC53,"tegafur, combinations",4524A,antineoplastic
+452500ACH,L01BC53,"tegafur, combinations",4525A,antineoplastic
+484301BIJ,L01BC07,azacitidine,4843B,antineoplastic
+484302BIJ,L01BC07,azacitidine,4843B,antineoplastic
+484303ATB,L01BC07,azacitidine,4843A,antineoplastic
+484304ATB,L01BC07,azacitidine,4843A,antineoplastic
+495601BIJ,L01BC08,decitabine,4956B,antineoplastic
+495602BIJ,L01BC08,decitabine,4956B,antineoplastic
+247830BIJ,L01CA01,vinblastine,2478B,antineoplastic
+248030BIJ,L01CA02,vincristine,2480B,antineoplastic
+248031BIJ,L01CA02,vincristine,2480B,antineoplastic
+248230BIJ,L01CA04,vinorelbine,2482B,antineoplastic
+248231BIJ,L01CA04,vinorelbine,2482B,antineoplastic
+157102ATB,L01CB01,etoposide,1571A,antineoplastic
+157131BIJ,L01CB01,etoposide,1571B,antineoplastic
+157132BIJ,L01CB01,etoposide,1571B,antineoplastic
+148340BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148341BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148342BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148344BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148345BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148346BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148348BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148349BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148350BIJ,L01CD02,docetaxel,1483B,antineoplastic
+148351BIJ,L01CD02,docetaxel,1483B,antineoplastic
+207830BIJ,L01CD01,paclitaxel,2078B,antineoplastic
+207831BIJ,L01CD01,paclitaxel,2078B,antineoplastic
+207832BIJ,L01CD01,paclitaxel,2078B,antineoplastic
+207833BIJ,L01CD01,paclitaxel,2078B,antineoplastic
+207835BIJ,L01CD01,paclitaxel,2078B,antineoplastic
+503701BIJ,L01CD01,paclitaxel,5037B,antineoplastic
+613901BIJ,L01CD04,cabazitaxel,6139B,antineoplastic
+177430BIJ,L01CE02,irinotecan,1774B,antineoplastic
+177431BIJ,L01CE02,irinotecan,1774B,antineoplastic
+177433BIJ,L01CE02,irinotecan,1774B,antineoplastic
+177435BIJ,L01CE02,irinotecan,1774B,antineoplastic
+241901BIJ,L01CE01,topotecan,2419B,antineoplastic
+452801BIJ,L01CE04,belotecan,4528B,antineoplastic
+666002BIJ,L01CE02,irinotecan,6660B,antineoplastic
+140601BIJ,L01DB02,daunorubicin,1406B,antineoplastic
+149430BIJ,L01DB01,doxorubicin,1494B,antineoplastic
+149431BIJ,L01DB01,doxorubicin,1494B,antineoplastic
+149432BIJ,L01DB01,doxorubicin,1494B,antineoplastic
+149433BIJ,L01DB01,doxorubicin,1494B,antineoplastic
+149435BIJ,L01DB01,doxorubicin,1494B,antineoplastic
+152730BIJ,L01DB03,epirubicin,1527B,antineoplastic
+152731BIJ,L01DB03,epirubicin,1527B,antineoplastic
+173002BIJ,L01DB06,idarubicin,1730B,antineoplastic
+196530BIJ,L01DB07,mitoxantrone,1965B,antineoplastic
+118001BIJ,L01DC01,bleomycin,1180B,antineoplastic
+196401BIJ,L01DC03,mitomycin,1964B,antineoplastic
+196402BIJ,L01DC03,mitomycin,1964B,antineoplastic
+123730BIJ,L01XA02,carboplatin,1237B,antineoplastic
+123731BIJ,L01XA02,carboplatin,1237B,antineoplastic
+123732BIJ,L01XA02,carboplatin,1237B,antineoplastic
+123733BIJ,L01XA02,carboplatin,1237B,antineoplastic
+123734BIJ,L01XA02,carboplatin,1237B,antineoplastic
+123735BIJ,L01XA02,carboplatin,1237B,antineoplastic
+134530BIJ,L01XA01,cisplatin,1345B,antineoplastic
+134533BIJ,L01XA01,cisplatin,1345B,antineoplastic
+134534BIJ,L01XA01,cisplatin,1345B,antineoplastic
+205803BIJ,L01XA03,oxaliplatin,2058B,antineoplastic
+205830BIJ,L01XA03,oxaliplatin,2058B,antineoplastic
+205832BIJ,L01XA03,oxaliplatin,2058B,antineoplastic
+205834BIJ,L01XA03,oxaliplatin,2058B,antineoplastic
+243001ACS,L01XF01,tretinoin,2430A,antineoplastic
+463301BIJ,L01XG01,bortezomib,4633B,antineoplastic
+463302BIJ,L01XG01,bortezomib,4633B,antineoplastic
+647801BIJ,L01XG02,carfilzomib,6478B,antineoplastic
+647802BIJ,L01XG02,carfilzomib,6478B,antineoplastic
+681401ACH,L01XG03,ixazomib,6814A,antineoplastic
+681402ACH,L01XG03,ixazomib,6814A,antineoplastic
+681403ACH,L01XG03,ixazomib,6814A,antineoplastic
+643501ACH,L01XK01,olaparib,6435A,antineoplastic
+643502ATB,L01XK01,olaparib,6435A,antineoplastic
+643503ATB,L01XK01,olaparib,6435A,antineoplastic
+678901ACH,L01XK02,niraparib,6789A,antineoplastic
+706201BIJ,L01XL04,tisagenlecleucel,7062B,antineoplastic
+155101ACH,L01XX11,estramustine,1551A,antineoplastic
+172001ACH,L01XX05,hydroxycarbamide,1720A,antineoplastic
+172002ACH,L01XX05,hydroxycarbamide,1720A,antineoplastic
+181401BIJ,L01XX02,asparaginase,1814B,antineoplastic
+181403BIJ,L01XX02,asparaginase,1814B,antineoplastic
+228130BIJ,L01XX,Other antineoplastic agents,2281B,antineoplastic
+243001ATB,L01XX14,tretinoin,2430A,antineoplastic
+348101ACH,L01XX35,anagrelide,3481A,antineoplastic
+348101ATB,L01XX35,anagrelide,3481A,antineoplastic
+348102ACH,L01XX35,anagrelide,3481A,antineoplastic
+388501ATB,L01XX,Other antineoplastic agents,3885A,antineoplastic
+388502ATB,L01XX,Other antineoplastic agents,3885A,antineoplastic
+463303BIJ,L01XX32,bortezomib,4633B,antineoplastic
+588430BIJ,L01XX27,arsenic trioxide,5884B,antineoplastic
+588431BIJ,L01XX27,arsenic trioxide,5884B,antineoplastic
+621330BIJ,L01XX41,eribulin,6213B,antineoplastic
+658801BIJ,L01XX44,aflibercept,6588B,antineoplastic
+658802BIJ,L01XX44,aflibercept,6588B,antineoplastic
+680601ATB,L01XX52,venetoclax,6806A,antineoplastic
+680602ATB,L01XX52,venetoclax,6806A,antineoplastic
+680603ATB,L01XX52,venetoclax,6806A,antineoplastic
+733101ATB,L01XX66,selinexor,7331A,antineoplastic
+188905ATB,L02AB02,medroxyprogesterone,1889A,antineoplastic
+189301ATB,L02AB01,megestrol,1893A,antineoplastic
+189302ATB,L02AB01,megestrol,1893A,antineoplastic
+189303ASS,L02AB01,megestrol,1893A,antineoplastic
+189304ASS,L02AB01,megestrol,1893A,antineoplastic
+189330ASS,L02AB01,megestrol,1893A,antineoplastic
+189330ASY,L02AB01,megestrol,1893A,antineoplastic
+189331ASS,L02AB01,megestrol,1893A,antineoplastic
+189331ASY,L02AB01,megestrol,1893A,antineoplastic
+189333ASY,L02AB01,megestrol,1893A,antineoplastic
+189334ASY,L02AB01,megestrol,1893A,antineoplastic
+189335ASS,L02AB01,megestrol,1893A,antineoplastic
+189335ASY,L02AB01,megestrol,1893A,antineoplastic
+167201BIJ,L02AE03,goserelin,1672B,antineoplastic
+167202BIJ,L02AE03,goserelin,1672B,antineoplastic
+182602BIJ,L02AE02,leuprorelin,1826B,antineoplastic
+182604BIJ,L02AE02,leuprorelin,1826B,antineoplastic
+182605BIJ,L02AE02,leuprorelin,1826B,antineoplastic
+182606BIJ,L02AE02,leuprorelin,1826B,antineoplastic
+182608BIJ,L02AE02,leuprorelin,1826B,antineoplastic
+182610BIJ,L02AE02,leuprorelin,1826B,antineoplastic
+182611BIJ,L02AE02,leuprorelin,1826B,antineoplastic
+182630BIJ,L02AE02,leuprorelin,1826B,antineoplastic
+244902BIJ,L02AE04,triptorelin,2449B,antineoplastic
+244930BIJ,L02AE04,triptorelin,2449B,antineoplastic
+467501BIJ,L02AE04,triptorelin,4675B,antineoplastic
+467502BIJ,L02AE04,triptorelin,4675B,antineoplastic
+234501ATB,L02BA01,tamoxifen,2345A,antineoplastic
+234502ATB,L02BA01,tamoxifen,2345A,antineoplastic
+242101ATB,L02BA02,toremifene,2421A,antineoplastic
+568931BIJ,L02BA03,fulvestrant,5689B,antineoplastic
+117201ATB,L02BB03,bicalutamide,1172A,antineoplastic
+117202ATB,L02BB03,bicalutamide,1172A,antineoplastic
+627401ACS,L02BB04,enzalutamide,6274A,antineoplastic
+716001ATB,L02BB05,apalutamide,7160A,antineoplastic
+109001ATB,L02BG03,anastrozole,1090A,antineoplastic
+182201ATB,L02BG04,letrozole,1822A,antineoplastic
+358401ATB,L02BG06,exemestane,3584A,antineoplastic
