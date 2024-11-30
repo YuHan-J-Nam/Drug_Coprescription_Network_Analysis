@@ -6,3 +6,6 @@ test*
 
 # LFS tracked files (too big for git)
 data/prescription_without_ad_2021.parquet
+
+# .net files
+*.net
