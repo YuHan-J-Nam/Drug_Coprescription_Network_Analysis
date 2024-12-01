@@ -1,0 +1,764 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-01">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="comorbidity" type="string" />
+      <attribute id="1" title="comorbidities" type="string" />
+    </attributes>
+    <nodes>
+      <node id="C10AA07" label="rosuvastatin">
+        <attvalues>
+          <attvalue for="0" value="dyslipidemia_med" />
+          <attvalue for="1" value="dyslipidemia_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C07AA05" label="propranolol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC04" label="clopidogrel">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="H02AB04" label="methylprednisolone">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+          <attvalue for="1" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="C09DB02" label="olmesartan medoxomil and amlodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="A10BA02" label="metformin">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="C08CA01" label="amlodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC06" label="acetylsalicylic acid">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="R03DC03" label="montelukast">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med asthma_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC" label="Platelet aggregation inhibitors excl. heparin">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C08DB01" label="diltiazem">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C10AA08" label="pitavastatin">
+        <attvalues>
+          <attvalue for="0" value="dyslipidemia_med" />
+          <attvalue for="1" value="dyslipidemia_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C10AA05" label="atorvastatin">
+        <attvalues>
+          <attvalue for="0" value="dyslipidemia_med" />
+          <attvalue for="1" value="dyslipidemia_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C09CA07" label="telmisartan">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C09DB04" label="telmisartan and amlodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C07AG02" label="carvedilol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C09DB01" label="valsartan and amlodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C09DA07" label="telmisartan and diuretics">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C07CB03" label="atenolol and other diuretics">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C07AA12" label="nadolol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C07AG" label="Alpha and beta blocking agents">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C09DX03" label="olmesartan medoxomil, amlodipine and hydrochlorothiazide">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="R06AX17" label="ketotifen">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+          <attvalue for="1" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="N06DX02" label="Ginkgo folium">
+        <attvalues>
+          <attvalue for="0" value="dementia_med" />
+          <attvalue for="1" value="dementia_med" />
+        </attvalues>
+      </node>
+      <node id="A10BK01" label="dapagliflozin">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="A10BD02" label="metformin and sulfonylureas">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="C07AB07" label="bisoprolol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="A10BB09" label="gliclazide">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC23" label="cilostazol">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C09CA08" label="olmesartan medoxomil">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C09CA10" label="fimasartan">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C09CA09" label="azilsartan medoxomil">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C09CA01" label="losartan">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="H02AB08" label="triamcinolone">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+          <attvalue for="1" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="H02AB06" label="prednisolone">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+          <attvalue for="1" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="R03DC53" label="montelukast, combinations">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="A10BK03" label="empagliflozin">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="N06DA02" label="donepezil">
+        <attvalues>
+          <attvalue for="0" value="dementia_med" />
+          <attvalue for="1" value="dementia_med" />
+        </attvalues>
+      </node>
+      <node id="A10BG03" label="pioglitazone">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="C10AA01" label="simvastatin">
+        <attvalues>
+          <attvalue for="0" value="dyslipidemia_med" />
+          <attvalue for="1" value="dyslipidemia_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="R03AK06" label="salmeterol and fluticasone">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med asthma_med" />
+        </attvalues>
+      </node>
+      <node id="C09CA03" label="valsartan">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C08CA06" label="nimodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC28" label="limaprost">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="A10BB12" label="glimepiride">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="R03DC02" label="pranlukast">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="R03DA07" label="theobromine">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="R03DA04" label="theophylline">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med asthma_med" />
+        </attvalues>
+      </node>
+      <node id="C03AA03" label="hydrochlorothiazide">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="R03DA" label="Xanthines">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="C03DA01" label="spironolactone">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC19" label="beraprost">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="A10BD07" label="metformin and sitagliptin">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC18" label="triflusal">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="H02AB02" label="dexamethasone">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+          <attvalue for="1" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="N06DX01" label="memantine">
+        <attvalues>
+          <attvalue for="0" value="dementia_med" />
+          <attvalue for="1" value="dementia_med" />
+        </attvalues>
+      </node>
+      <node id="C10AC01" label="colestyramine">
+        <attvalues>
+          <attvalue for="0" value="dyslipidemia_med" />
+          <attvalue for="1" value="dyslipidemia_med" />
+        </attvalues>
+      </node>
+      <node id="R03DA11" label="doxofylline">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="C03CA01" label="furosemide">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C01DA14" label="isosorbide mononitrate">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C03DB01" label="amiloride">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="R03DA05" label="aminophylline">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med asthma_med" />
+        </attvalues>
+      </node>
+      <node id="H02AB09" label="hydrocortisone">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+          <attvalue for="1" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="A10AB05" label="insulin aspart">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="C09DB09" label="fimasartan and amlodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C10AA03" label="pravastatin">
+        <attvalues>
+          <attvalue for="0" value="dyslipidemia_med" />
+          <attvalue for="1" value="dyslipidemia_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C01DA08" label="isosorbide dinitrate">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C09CA06" label="candesartan">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="A10BD15" label="metformin and dapagliflozin">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="C01DA02" label="glyceryl trinitrate">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="R03AK10" label="vilanterol and fluticasone furoate">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="C08CA05" label="nifedipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="A10AE04" label="insulin glargine">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="C08CA17" label="levamlodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC30" label="combinations">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C07AB12" label="nebivolol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C09DB08" label="valsartan and lercanidipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="B01AC05" label="ticlopidine">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="L02AB01" label="megestrol">
+        <attvalues>
+          <attvalue for="0" value="antineoplastic" />
+          <attvalue for="1" value="antineoplastic" />
+        </attvalues>
+      </node>
+      <node id="C09DB06" label="losartan and amlodipine">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="C10BA02" label="simvastatin and ezetimibe">
+        <attvalues>
+          <attvalue for="0" value="dyslipidemia_med" />
+          <attvalue for="1" value="dyslipidemia_med" />
+        </attvalues>
+      </node>
+      <node id="C09DX" label="Angiotensin II receptor blockers (ARBs), other combinations">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med" />
+        </attvalues>
+      </node>
+      <node id="R03AK07" label="formoterol and budesonide">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med asthma_med" />
+        </attvalues>
+      </node>
+      <node id="C07AB03" label="atenolol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="R01AX03" label="ipratropium bromide">
+        <attvalues>
+          <attvalue for="0" value="asthma_med" />
+          <attvalue for="1" value="asthma_med" />
+        </attvalues>
+      </node>
+      <node id="R03AK08" label="formoterol and beclometasone">
+        <attvalues>
+          <attvalue for="0" value="COPD_med" />
+          <attvalue for="1" value="COPD_med" />
+        </attvalues>
+      </node>
+      <node id="L02BA01" label="tamoxifen">
+        <attvalues>
+          <attvalue for="0" value="antineoplastic" />
+          <attvalue for="1" value="antineoplastic" />
+        </attvalues>
+      </node>
+      <node id="B01AC22" label="prasugrel">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C08DA01" label="verapamil">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="C07AB02" label="metoprolol">
+        <attvalues>
+          <attvalue for="0" value="high_bp_med" />
+          <attvalue for="1" value="high_bp_med stroke_med" />
+        </attvalues>
+      </node>
+      <node id="B01AA03" label="warfarin">
+        <attvalues>
+          <attvalue for="0" value="stroke_med" />
+          <attvalue for="1" value="stroke_med" />
+        </attvalues>
+      </node>
+      <node id="A10AB04" label="insulin lispro">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+      <node id="A10AC01" label="insulin (human)">
+        <attvalues>
+          <attvalue for="0" value="diabetes_med" />
+          <attvalue for="1" value="diabetes_med" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="C10AA07" target="C09DX03" id="0" weight="1" />
+      <edge source="C10AA07" target="B01AC30" id="1" weight="1" />
+      <edge source="C10AA07" target="C09DB04" id="2" weight="2" />
+      <edge source="C10AA07" target="C09DB01" id="3" weight="1" />
+      <edge source="C10AA07" target="C07AG02" id="4" weight="1" />
+      <edge source="C10AA07" target="B01AC22" id="5" weight="1" />
+      <edge source="C10AA07" target="B01AC06" id="6" weight="2" />
+      <edge source="C10AA07" target="A10BD15" id="7" weight="1" />
+      <edge source="C10AA07" target="A10AE04" id="8" weight="1" />
+      <edge source="C10AA07" target="C09DB09" id="9" weight="1" />
+      <edge source="C10AA07" target="C09DB02" id="10" weight="1" />
+      <edge source="C10AA07" target="H02AB04" id="11" weight="1" />
+      <edge source="C07AA05" target="N06DX02" id="12" weight="9" />
+      <edge source="C07AA05" target="C10AA05" id="13" weight="1" />
+      <edge source="C07AA05" target="C07AG02" id="14" weight="1" />
+      <edge source="C07AA05" target="C09CA07" id="15" weight="2" />
+      <edge source="C07AA05" target="H02AB09" id="16" weight="1" />
+      <edge source="C07AA05" target="C08CA01" id="17" weight="1" />
+      <edge source="C07AA05" target="H02AB04" id="18" weight="1" />
+      <edge source="C07AA05" target="A10BA02" id="19" weight="1" />
+      <edge source="C07AA05" target="C09CA08" id="20" weight="2" />
+      <edge source="C07AA05" target="C03AA03" id="21" weight="4" />
+      <edge source="C07AA05" target="C09DB01" id="22" weight="1" />
+      <edge source="C07AA05" target="B01AC06" id="23" weight="1" />
+      <edge source="C07AA05" target="C10AA08" id="24" weight="1" />
+      <edge source="C07AA05" target="B01AC" id="25" weight="1" />
+      <edge source="C07AA05" target="C09DB02" id="26" weight="1" />
+      <edge source="C07AA05" target="H02AB06" id="27" weight="1" />
+      <edge source="C07AA05" target="R03DC03" id="28" weight="2" />
+      <edge source="C07AA05" target="C09CA01" id="29" weight="1" />
+      <edge source="B01AC04" target="C07AG02" id="30" weight="3" />
+      <edge source="B01AC04" target="C09DB01" id="31" weight="1" />
+      <edge source="B01AC04" target="B01AC06" id="32" weight="2" />
+      <edge source="B01AC04" target="C09DX03" id="33" weight="2" />
+      <edge source="B01AC04" target="C03CA01" id="34" weight="1" />
+      <edge source="B01AC04" target="C03DA01" id="35" weight="1" />
+      <edge source="B01AC04" target="A10BB12" id="36" weight="1" />
+      <edge source="B01AC04" target="A10BA02" id="37" weight="1" />
+      <edge source="B01AC04" target="N06DX02" id="38" weight="1" />
+      <edge source="B01AC04" target="C09DX" id="39" weight="1" />
+      <edge source="H02AB04" target="R03AK10" id="40" weight="1" />
+      <edge source="H02AB04" target="R03DC03" id="41" weight="8" />
+      <edge source="H02AB04" target="N06DX02" id="42" weight="19" />
+      <edge source="H02AB04" target="C08CA01" id="43" weight="1" />
+      <edge source="H02AB04" target="B01AC06" id="44" weight="2" />
+      <edge source="H02AB04" target="R03DC02" id="45" weight="2" />
+      <edge source="H02AB04" target="R06AX17" id="46" weight="11" />
+      <edge source="H02AB04" target="B01AC23" id="47" weight="1" />
+      <edge source="H02AB04" target="R03DA11" id="48" weight="2" />
+      <edge source="H02AB04" target="B01AC" id="49" weight="1" />
+      <edge source="H02AB04" target="R03DA04" id="50" weight="1" />
+      <edge source="H02AB04" target="A10BB12" id="51" weight="1" />
+      <edge source="H02AB04" target="C03AA03" id="52" weight="5" />
+      <edge source="H02AB04" target="C03DB01" id="53" weight="2" />
+      <edge source="H02AB04" target="R03AK08" id="54" weight="1" />
+      <edge source="H02AB04" target="R03DA05" id="55" weight="1" />
+      <edge source="H02AB04" target="R03DA07" id="56" weight="1" />
+      <edge source="C09DB02" target="A10BK01" id="57" weight="1" />
+      <edge source="C09DB02" target="B01AC06" id="58" weight="1" />
+      <edge source="A10BA02" target="A10BB12" id="59" weight="3" />
+      <edge source="A10BA02" target="B01AC" id="60" weight="1" />
+      <edge source="A10BA02" target="A10BK03" id="61" weight="2" />
+      <edge source="A10BA02" target="N06DX02" id="62" weight="2" />
+      <edge source="A10BA02" target="C09DX03" id="63" weight="1" />
+      <edge source="A10BA02" target="B01AC06" id="64" weight="2" />
+      <edge source="A10BA02" target="A10BD02" id="65" weight="1" />
+      <edge source="A10BA02" target="A10BK01" id="66" weight="1" />
+      <edge source="A10BA02" target="C10AA05" id="67" weight="1" />
+      <edge source="C08CA01" target="B01AC06" id="68" weight="1" />
+      <edge source="C08CA01" target="C07AB03" id="69" weight="1" />
+      <edge source="C08CA01" target="C09CA09" id="70" weight="1" />
+      <edge source="C08CA01" target="C07AG02" id="71" weight="1" />
+      <edge source="C08CA01" target="C09CA10" id="72" weight="1" />
+      <edge source="C08CA01" target="C10AA05" id="73" weight="1" />
+      <edge source="C08CA01" target="C03AA03" id="74" weight="1" />
+      <edge source="C08CA01" target="C07AB07" id="75" weight="1" />
+      <edge source="C08CA01" target="C09CA08" id="76" weight="1" />
+      <edge source="B01AC06" target="N06DX02" id="77" weight="2" />
+      <edge source="B01AC06" target="C07AG02" id="78" weight="1" />
+      <edge source="B01AC06" target="B01AC22" id="79" weight="1" />
+      <edge source="B01AC06" target="C09DB01" id="80" weight="1" />
+      <edge source="B01AC06" target="B01AC23" id="81" weight="1" />
+      <edge source="B01AC06" target="A10BK03" id="82" weight="1" />
+      <edge source="B01AC06" target="C09DX03" id="83" weight="1" />
+      <edge source="B01AC06" target="A10BB12" id="84" weight="1" />
+      <edge source="R03DC03" target="R03AK10" id="85" weight="2" />
+      <edge source="R03DC03" target="R03DA05" id="86" weight="2" />
+      <edge source="R03DC03" target="C03AA03" id="87" weight="1" />
+      <edge source="R03DC03" target="R03DA11" id="88" weight="2" />
+      <edge source="R03DC03" target="R03DA07" id="89" weight="1" />
+      <edge source="R03DC03" target="H02AB06" id="90" weight="3" />
+      <edge source="R03DC03" target="N06DX02" id="91" weight="1" />
+      <edge source="R03DC03" target="R03AK08" id="92" weight="1" />
+      <edge source="R03DC03" target="R03DA" id="93" weight="1" />
+      <edge source="R03DC03" target="R03AK06" id="94" weight="1" />
+      <edge source="R03DC03" target="R03DA04" id="95" weight="1" />
+      <edge source="B01AC" target="A10BK03" id="96" weight="1" />
+      <edge source="B01AC" target="A10BB12" id="97" weight="1" />
+      <edge source="B01AC" target="N06DX02" id="98" weight="2" />
+      <edge source="B01AC" target="C10AA01" id="99" weight="1" />
+      <edge source="B01AC" target="C08CA05" id="100" weight="1" />
+      <edge source="B01AC" target="C10BA02" id="101" weight="1" />
+      <edge source="B01AC" target="H02AB06" id="102" weight="1" />
+      <edge source="C08DB01" target="C01DA08" id="103" weight="1" />
+      <edge source="C08DB01" target="C01DA02" id="104" weight="1" />
+      <edge source="C08DB01" target="B01AC23" id="105" weight="1" />
+      <edge source="C08DB01" target="C09DB04" id="106" weight="1" />
+      <edge source="C08DB01" target="C07AB07" id="107" weight="1" />
+      <edge source="C10AA08" target="C09CA03" id="108" weight="1" />
+      <edge source="C10AA05" target="B01AC28" id="109" weight="1" />
+      <edge source="C10AA05" target="C09DB08" id="110" weight="1" />
+      <edge source="C10AA05" target="C09DB06" id="111" weight="1" />
+      <edge source="C10AA05" target="B01AC18" id="112" weight="1" />
+      <edge source="C10AA05" target="C09CA10" id="113" weight="1" />
+      <edge source="C10AA05" target="A10BD02" id="114" weight="1" />
+      <edge source="C10AA05" target="A10BK01" id="115" weight="1" />
+      <edge source="C10AA05" target="A10AB05" id="116" weight="1" />
+      <edge source="C10AA05" target="C09DB04" id="117" weight="1" />
+      <edge source="C10AA05" target="C09CA09" id="118" weight="1" />
+      <edge source="C09DB04" target="B01AC23" id="119" weight="1" />
+      <edge source="C09DB04" target="C07AB07" id="120" weight="1" />
+      <edge source="C09DB04" target="C07AG02" id="121" weight="1" />
+      <edge source="C09DB04" target="B01AA03" id="122" weight="1" />
+      <edge source="C09DB04" target="C03CA01" id="123" weight="1" />
+      <edge source="C09DB04" target="C09CA09" id="124" weight="1" />
+      <edge source="C07AG02" target="N06DX02" id="125" weight="1" />
+      <edge source="C07AG02" target="C09DB01" id="126" weight="1" />
+      <edge source="C07AG02" target="B01AC22" id="127" weight="1" />
+      <edge source="C07AG02" target="C03CA01" id="128" weight="2" />
+      <edge source="C07AG02" target="C03DA01" id="129" weight="1" />
+      <edge source="C07AG02" target="C09DX03" id="130" weight="1" />
+      <edge source="C07AG02" target="B01AA03" id="131" weight="1" />
+      <edge source="C09DB01" target="B01AC22" id="132" weight="1" />
+      <edge source="C07AA12" target="C10AA03" id="133" weight="1" />
+      <edge source="C07AA12" target="N06DX02" id="134" weight="2" />
+      <edge source="C09DX03" target="B01AC30" id="135" weight="1" />
+      <edge source="C09DX03" target="A10BK03" id="136" weight="1" />
+      <edge source="C09DX03" target="A10BB12" id="137" weight="1" />
+      <edge source="R06AX17" target="R03DA" id="138" weight="1" />
+      <edge source="R06AX17" target="H02AB06" id="139" weight="1" />
+      <edge source="N06DX02" target="A10BK03" id="140" weight="1" />
+      <edge source="N06DX02" target="A10BB12" id="141" weight="3" />
+      <edge source="N06DX02" target="C03AA03" id="142" weight="7" />
+      <edge source="N06DX02" target="R03DC02" id="143" weight="2" />
+      <edge source="N06DX02" target="R03DC53" id="144" weight="1" />
+      <edge source="N06DX02" target="C03DA01" id="145" weight="2" />
+      <edge source="N06DX02" target="R03DA07" id="146" weight="1" />
+      <edge source="N06DX02" target="H02AB06" id="147" weight="1" />
+      <edge source="N06DX02" target="C03DB01" id="148" weight="4" />
+      <edge source="N06DX02" target="A10BD07" id="149" weight="1" />
+      <edge source="A10BK01" target="A10BD02" id="150" weight="1" />
+      <edge source="A10BK01" target="A10AB04" id="151" weight="1" />
+      <edge source="A10BK01" target="A10AC01" id="152" weight="1" />
+      <edge source="C07AB07" target="B01AC23" id="153" weight="1" />
+      <edge source="C07AB07" target="C09CA08" id="154" weight="1" />
+      <edge source="C07AB07" target="C03AA03" id="155" weight="1" />
+      <edge source="A10BB09" target="C09CA01" id="156" weight="1" />
+      <edge source="A10BB09" target="A10BD15" id="157" weight="1" />
+      <edge source="A10BB09" target="C09CA08" id="158" weight="1" />
+      <edge source="A10BB09" target="A10BD07" id="159" weight="1" />
+      <edge source="B01AC23" target="R03DA" id="160" weight="1" />
+      <edge source="C09CA08" target="C07AB12" id="161" weight="1" />
+      <edge source="C09CA08" target="A10BD07" id="162" weight="1" />
+      <edge source="C09CA08" target="C03AA03" id="163" weight="1" />
+      <edge source="C09CA09" target="C07AB03" id="164" weight="1" />
+      <edge source="H02AB06" target="R03DC02" id="165" weight="2" />
+      <edge source="H02AB06" target="C08DA01" id="166" weight="1" />
+      <edge source="H02AB06" target="C03AA03" id="167" weight="1" />
+      <edge source="H02AB06" target="N06DX01" id="168" weight="1" />
+      <edge source="A10BK03" target="A10BB12" id="169" weight="2" />
+      <edge source="A10BG03" target="C10AC01" id="170" weight="1" />
+      <edge source="A10BG03" target="A10BB12" id="171" weight="1" />
+      <edge source="C10AA01" target="C08CA05" id="172" weight="1" />
+      <edge source="R03AK06" target="R03DA" id="173" weight="1" />
+      <edge source="A10BB12" target="A10BD07" id="174" weight="1" />
+      <edge source="R03DC02" target="C03DA01" id="175" weight="1" />
+      <edge source="R03DA07" target="C03DA01" id="176" weight="1" />
+      <edge source="R03DA07" target="C03AA03" id="177" weight="1" />
+      <edge source="R03DA04" target="R03AK10" id="178" weight="1" />
+      <edge source="C03AA03" target="R03DA05" id="179" weight="1" />
+      <edge source="C03AA03" target="C03DA01" id="180" weight="1" />
+      <edge source="C03AA03" target="C03DB01" id="181" weight="1" />
+      <edge source="C03DA01" target="C03CA01" id="182" weight="2" />
+      <edge source="C03CA01" target="B01AA03" id="183" weight="1" />
+      <edge source="R03DA05" target="R03AK08" id="184" weight="1" />
+      <edge source="C09DB09" target="A10BD15" id="185" weight="1" />
+      <edge source="C09DB09" target="A10AE04" id="186" weight="1" />
+      <edge source="C01DA08" target="C01DA02" id="187" weight="1" />
+      <edge source="A10BD15" target="A10AE04" id="188" weight="1" />
+      <edge source="A10AB04" target="A10AC01" id="189" weight="1" />
+    </edges>
+  </graph>
+</gexf>
